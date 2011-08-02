@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title></title>
+  <link href="http://karlosgliberal.github.com/atom.xml" rel="self"/>
+  <link href="http://karlosgliberal.github.com/"/>
+  <updated>2011-08-02T17:28:58+02:00</updated>
+  <id>http://karlosgliberal.github.com/</id>
+  <author>
+    <name>karlosgliberal (patxangas)</name>
+    
+  </author>
+
+  
+  <entry>
+    <title>Nock</title>
+    <link href="http://karlosgliberal.github.com/blog/2011/08/02/nock/"/>
+    <updated>2011-08-02T17:18:00+02:00</updated>
+    <id>http://karlosgliberal.github.com/blog/2011/08/02/nock</id>
+    <content type="html">
+</content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,9 @@
+{
+  "locals": {
+    "url": "http://localhost:8080",
+    "name": "karlosgliberal blog",
+    "owner": "karlosgliberal",
+    "description": "Trozos de imaginería cultural profunda que se ha desprendido y adquirido vida propia",
+    "index_articles": 3
+  }
+}

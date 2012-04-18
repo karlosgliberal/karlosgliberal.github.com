@@ -428,4 +428,15 @@ Because, believe it or not, a banana is not a friend.
 &lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://localhost:8080/articles/red-herring/banana.jpg&quot; alt=&quot;a banana&quot;&gt;
 &lt;/p&gt;
+</description></item><item><title>Prueba aitor</title><link>http://localhost:8080/articles/test-karlos/</link><pubDate>Wed, 18 Apr 2012 11:00:00 +0200</pubDate><guid isPermaLink="true">http://localhost:8080/articles/test-karlos/</guid><author></author><description>&lt;p&gt;Esto es una prueba
+
+&lt;/p&gt;
+&lt;h3&gt;JavaScript&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;javascript&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; factorial(n) {
+  &lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; (n === &lt;span class=&quot;number&quot;&gt;0&lt;/span&gt;) {
+    &lt;span class=&quot;keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;;
+  }
+  &lt;span class=&quot;keyword&quot;&gt;return&lt;/span&gt; n * factorial(n - &lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;);
+  alert(hola)
+}&lt;/code&gt;&lt;/pre&gt;
 </description></item></channel></rss>

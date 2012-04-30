@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>karlosgliberal blog</title><atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link><link>http://localhost:8080</link><description>Trozos de imaginería cultural profunda que se ha desprendido y adquirido vida propia</description><pubDate>Sat, 01 Oct 2011 15:00:00 +0200</pubDate><generator>The mighty Wintersmith</generator><language>en</language><item><title>Code and stuff!</title><link>http://localhost:8080/articles/another-test/</link><pubDate>Sat, 01 Oct 2011 15:00:00 +0200</pubDate><guid isPermaLink="true">http://localhost:8080/articles/another-test/</guid><author></author><description>&lt;p&gt;Syntax highlighting with highlight.js
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>El Filo 0.1</title><atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link><link>http://localhost:8080</link><description>Trozos de imaginería cultural profunda que se ha desprendido y adquirido vida propia</description><pubDate>Sat, 01 Oct 2011 15:00:00 +0200</pubDate><generator>The mighty Wintersmith</generator><language>en</language><item><title>Code and stuff!</title><link>http://localhost:8080/articles/another-test/</link><pubDate>Sat, 01 Oct 2011 15:00:00 +0200</pubDate><guid isPermaLink="true">http://localhost:8080/articles/another-test/</guid><author></author><description>&lt;p&gt;Syntax highlighting with highlight.js
 
 &lt;/p&gt;
 &lt;h3&gt;JavaScript&lt;/h3&gt;
@@ -72,6 +72,24 @@ int main(void)
 &lt;pre&gt;&lt;code class=&quot;python&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;print&lt;/span&gt;(&lt;span class=&quot;string&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;)&lt;/code&gt;&lt;/pre&gt;
 &lt;h3&gt;Ruby&lt;/h3&gt;
 &lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;puts &quot;Hello world!&quot;&lt;/code&gt;&lt;/pre&gt;
+</description></item><item><title>Arduino controlando un servo mediante node.js</title><link>http://localhost:8080/articles/arduino-serve-nodejs/</link><pubDate>Mon, 11 Apr 2011 15:00:00 +0200</pubDate><guid isPermaLink="true">http://localhost:8080/articles/arduino-serve-nodejs/</guid><author></author><description>&lt;p&gt;&lt;p&gt;Que node.js empieza ha ser un entorno muy poderoso empieza ha estar claro, el motor v8 es poderoso y la pe&ntilde;a le esta sacando chispas &nbsp;por lo menos en el contexto de node.js&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;En este caso para una &quot;frikada&quot; casera se me ocurrio sacar mi vieja placa de arduinio y ver si podia mover un servo (tambi&eacute;n viejo) y en un ctrl+tab tonto de dispersion, se&nbsp;encendi&oacute;&nbsp;la bombilla &iquest;y si se puede usar node.js para controlar el servo? entoces &iquest;habr&aacute; alg&uacute;n modulo que trabaje con el puerto seri&eacute;? Node.js empieza ha ser como drupal, siempre hay alguien que lo ha probado, creado o mejorado.&nbsp;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href=&quot; https://github.com/voodootikigod/node-serialport&quot; title=&quot; https://github.com/voodootikigod/node-serialport&quot;&gt;&lt;a href=&quot;https://github.com/voodootikigod/node-serialport&lt;/a&gt;&lt;/p&gt;&quot;&gt;https://github.com/voodootikigod/node-serialport&lt;/a&gt;&lt;/p&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Este es el modulo instalaci&oacute;n cl&aacute;sica con npm:&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;code&gt;npm install serialport&lt;/code&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;y mus :)&nbsp;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;El resultado se puede ver en el v&iacute;deo, sencillo control con un slide de jquery.ui&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;390&quot; src=&quot;http://www.youtube.com/embed/LnJBZPeDbtE&quot; title=&quot;YouTube video player&quot; width=&quot;480&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Pego el c&oacute;digo en un gist, ya que no es mas que una pru
+&lt;/p&gt;
 </description></item><item><title>The tale of the bamboo-cutter</title><link>http://localhost:8080/articles/bamboo-cutter/</link><pubDate>Sun, 01 May 2011 12:00:00 +0200</pubDate><guid isPermaLink="true">http://localhost:8080/articles/bamboo-cutter/</guid><author></author><description>&lt;p&gt;&lt;img src=&quot;http://localhost:8080/articles/bamboo-cutter/Taketori_Monogatari.jpg&quot; alt=&quot;image&quot;&gt;
 
 &lt;/p&gt;
@@ -393,6 +411,20 @@ date: 2012-12-12 12:12
 # Hello!
 
 I'm an article. Bla bla bla so interesting.&lt;/code&gt;&lt;/pre&gt;
+</description></item><item><title>Primeras pruebas con los datos abiertos de http://opendata.navarra.es</title><link>http://localhost:8080/articles/primeras-pruebas-opendata/</link><pubDate>Thu, 01 Sep 2011 15:00:00 +0200</pubDate><guid isPermaLink="true">http://localhost:8080/articles/primeras-pruebas-opendata/</guid><author></author><description>&lt;p&gt;&lt;p&gt;Hoy el Gobierno de Navarra siguiendo los pasos de otras administraciones ha publicado el portal &lt;a href=&quot;http://opendata.navarra.es&quot;&gt;&lt;a href=&quot;http://opendata.navarra.es&lt;/a&gt;&lt;/p&gt;&quot;&gt;http://opendata.navarra.es&lt;/a&gt;&lt;/p&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;En la propia web dicen esto:&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;em&gt;Open Data es una iniciativa mundial que pretende que los datos e informaci&oacute;n de las Administraciones P&uacute;blicas se expongan y hagan accesibles de forma que est&eacute;n disponibles para su redistribuci&oacute;n, reutilizaci&oacute;n y aprovechamiento por parte de los ciudadanos y las empresas.&lt;/em&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Como dice el refranero, nunca es tarde si la dicha es buena y en este caso creo que as&iacute; lo ser&aacute;. Las administraciones y en general todo lo publico tendr&iacute;a que pensar como aportar el&nbsp;conocimiento&nbsp;generado al &quot;com&uacute;n&quot;. La tendencia anterior era ha crear espacios opacos donde lo publico en ocasiones se confundia con privado y de uso exclusivo, pero parece que las cosas est&aacute;n cambiando por lo menos en esto. &nbsp;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Y siguiendo una buena practica hacker lo mejor es demostrar haciendo.&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Me he bajado todos los ficheros shp (un formato propietario para&nbsp;&nbsp;Sistemas de Informaci&oacute;n Geogr&aacute;fica) relativos a los parques naturales y con el software de&nbsp;&lt;a href=&quot;http://developmentseed.org&quot;&gt;developmentseed.org&lt;/a&gt; &lt;a href=&quot;http://tilemill.com/&quot;&gt;tilemill&lt;/a&gt; que &lt;a href=&quot;http://patxangas.investic.net/post/3408524360/tilemill-com&quot;&gt;conte&lt;/a&gt; el otro d&iacute;a me estoy&nbsp;empezando&nbsp;a pintar mi propio mapa&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Pego una
+&lt;/p&gt;
 </description></item><item><title>A red herring</title><link>http://localhost:8080/articles/red-herring/</link><pubDate>Mon, 26 Dec 2011 12:20:00 +0100</pubDate><guid isPermaLink="true">http://localhost:8080/articles/red-herring/</guid><author></author><description>&lt;p&gt;A long time ago, when the world was young
 Someone put some food on their tong
 They tasted the food, and thought it was nice
@@ -428,15 +460,9 @@ Because, believe it or not, a banana is not a friend.
 &lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://localhost:8080/articles/red-herring/banana.jpg&quot; alt=&quot;a banana&quot;&gt;
 &lt;/p&gt;
-</description></item><item><title>Prueba aitor</title><link>http://localhost:8080/articles/test-karlos/</link><pubDate>Wed, 18 Apr 2012 11:00:00 +0200</pubDate><guid isPermaLink="true">http://localhost:8080/articles/test-karlos/</guid><author></author><description>&lt;p&gt;Esto es una prueba
-
-&lt;/p&gt;
-&lt;h3&gt;JavaScript&lt;/h3&gt;
-&lt;pre&gt;&lt;code class=&quot;javascript&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; factorial(n) {
-  &lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; (n === &lt;span class=&quot;number&quot;&gt;0&lt;/span&gt;) {
-    &lt;span class=&quot;keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;;
-  }
-  &lt;span class=&quot;keyword&quot;&gt;return&lt;/span&gt; n * factorial(n - &lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;);
-  alert(hola)
-}&lt;/code&gt;&lt;/pre&gt;
+</description></item><item><title>Teknotrakitana, jugando con VVVV y osc</title><link>http://localhost:8080/articles/teknotrakintana/</link><pubDate>Fri, 01 Apr 2011 15:00:00 +0200</pubDate><guid isPermaLink="true">http://localhost:8080/articles/teknotrakintana/</guid><author></author><description>&lt;p&gt;Este viernes volvimos a juntarnos los &quot;teknotrakitanos&quot; (un dia de esto explicare de donde viene el nombre). En su&nbsp;&lt;a href=&quot;http://karlosgliberal.investic.net/blog/teknotrakitana-laboratorio-para-experimentar-con-la-creaci%C3%B3n-art%C3%ADstica-visual&quot; title=&quot;tekotrakitanos&quot;&gt;momento&lt;/a&gt;&nbsp;ya conte cual era nuestra intenci&oacute;n con estas quedadas. Ahora andamos intentando darle mas forma, buscando algo &quot;concreto&quot; para hacer, pero bueno eso cuando este ya lo contaremos.&lt;/p&gt;
+&lt;p&gt;En esta quedada hablamos con lo que cada uno esta jugando y nos&nbsp;encontramos&nbsp;con un denominador com&uacute;n &lt;a href=&quot;http://goo.gl/ZFrT1&quot; title=&quot;osc&quot;&gt;OSC&lt;/a&gt;.&nbsp; Open sound control es un protocolo multimedia que tiene como intenci&oacute;n mejorar las carencias del midi.Lo cierto es que su versatilidad es brutal.&lt;/p&gt;
+&lt;p&gt;Nosotros parte del rato lo dedicamos a conectar en &quot;serie&quot; distintos dispositivos con osc, al VVVV al touchosc del ipad y de un android&nbsp;as&iacute;&nbsp;como a un node.js. Se le ve mucho color&lt;/p&gt;
+&lt;p&gt;Patxi nuestro vvvv nos conto las&nbsp;incre&iacute;bles&nbsp;posibilidades del sistema para crear clusters con, boysgroups. Y este es el ejemplo que hicimos:&lt;/p&gt;
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;390&quot; src=&quot;http://www.youtube.com/embed/xeLUKd1NFxg&quot; title=&quot;YouTube video player&quot; width=&quot;480&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description></item></channel></rss>

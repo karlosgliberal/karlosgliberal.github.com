@@ -6,7 +6,7 @@ $(document).ready(function(){
         user = $form.find( 'input[name="user"]' ).val(),
         pass = $form.find( 'input[name="pass"]' ).val(),
         url = $form.attr( 'action' );
-        $.post( url, {user: user, pass: pass}, function(data) {
+        $.get( url, {user: user, pass: pass}, function(data) {
          var options = {
             username: user, // your fluidinfo username
             password: pass, // your fluidinfo password

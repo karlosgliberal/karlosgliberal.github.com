@@ -1,23 +1,77 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>Primeras pruebas con los datos abiertos de http://opendata.navarra.es -
-El Filo 0.1</title><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script><script src="/js/fluidinfo.js"></script><link rel="alternate" href="http://localhost:8080/feed.xml" type="application/rss+xml" title="Trozos de imaginería cultural profunda que se ha desprendido y adquirido vida propia"><link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Audiowide"><link rel="stylesheet" href="/css/github.css"><link rel="stylesheet" href="/css/main.css"><script src="/js/app.js"></script></head><body><header><div class="inner"><a href="/" class="back"><< back to index</a><h1>Primeras pruebas con los datos abiertos de http://opendata.navarra.es</h1><p>written by:
-<span class="author">karlos g liberal</span></p><div id="menuh"><ul><li><a href="/sobremi/sobremi.html">Sobre mi</a></li><li><a href="/archive.html">Archivo</a></li><li><a href="#">Otros</a></li></ul></div></div></header><div id="content"><article class="post"><section class="content"><p><p>Hoy el Gobierno de Navarra siguiendo los pasos de otras administraciones ha publicado el portal <a href="http://opendata.navarra.es"><a href="http://opendata.navarra.es&lt;/a&gt;&lt;/p&gt;">http://opendata.navarra.es&lt;/a&gt;&lt;/p&gt;</a>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Primeras pruebas con los datos abiertos de http://opendata.navarra.es - El Filo 0.1
+    </title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="/js/underscore-min.js"></script>
+    <script src="/js/fluidinfo.js"></script>
+    <link rel="alternate" href="http://localhost:8080/feed.xml" type="application/rss+xml" title="Trozos de imaginería cultural profunda que se ha desprendido y adquirido vida propia">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Audiowide">
+    <link rel="stylesheet" href="/css/github.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <!-- script(src='/js/app.js')-->
+  </head>
+  <body>
+    <header>
+      <div class="inner">
+        <h1> <a href="http://localhost:8080">El Filo 0.1</a></h1>
+        <h4>Trozos de imaginería cultural profunda que se ha desprendido y adquirido vida propia
+        </h4><a href="/" class="back"><< back to index</a>
+        <!-- p-->
+        <!--   | written by:-->
+        <!--   mixin author(page.metadata.author)-->
+        <div id="menuh">
+          <ul>
+            <li> <a href="/sobremi/sobremi.html">Sobre mi</a></li>
+            <li> <a href="/archive.html">Archivo</a></li>
+            <li> <a href="#">Otros</a></li>
+          </ul>
+        </div>
+      </div>
+    </header>
+    <div id="content">
+      <h1></h1>
+      <article class="post">
+        <h1>Primeras pruebas con los datos abiertos de http://opendata.navarra.es</h1>
+        <section class="content"><p><p>Hace tiempo que no escribo ning&uacute;n post, la verdad que no tenia muy claro si tenia sentido esa sensaci&oacute;n de hablarle al vac&iacute;o. Ademas mi blog <a href="http://karlogliberal.investic.net">http://karlogliberal.investic.net</a> ya no me molaba XD. Tenia este tumblr que tampoco es que sea la panacea pero bueno por lo menos es rapido y a modo de almac&eacute;n me gusta.</p>
 </p>
-<p><p>En la propia web dicen esto:</p>
+<p><p>El planteamiento va ha ser simplificar aun m&aacute;s los post, mantener el tema de almac&eacute;n tanto de ideas como de mis experimentos. Creo que eso puede estar bien, siempre estoy probando cosas nuevas y contarlo puede contribuir un poco.</p>
 </p>
-<p><p><em>Open Data es una iniciativa mundial que pretende que los datos e informaci&oacute;n de las Administraciones P&uacute;blicas se expongan y hagan accesibles de forma que est&eacute;n disponibles para su redistribuci&oacute;n, reutilizaci&oacute;n y aprovechamiento por parte de los ciudadanos y las empresas.</em></p>
+<p><p>Bueno al tema :)</p>
 </p>
-<p><p>Como dice el refranero, nunca es tarde si la dicha es buena y en este caso creo que as&iacute; lo ser&aacute;. Las administraciones y en general todo lo publico tendr&iacute;a que pensar como aportar el&nbsp;conocimiento&nbsp;generado al &quot;com&uacute;n&quot;. La tendencia anterior era ha crear espacios opacos donde lo publico en ocasiones se confundia con privado y de uso exclusivo, pero parece que las cosas est&aacute;n cambiando por lo menos en esto.;</p>
+<p><p>Hace un par de d&iacute;as los grandes de @developmentseed publicaron <a href="http://tilemill.com/ " title="http://tilemill.com/ ">tilemill.com</a> que se engloba dentro de la &quot;movida&quot;&nbsp;<a href=" http://mapbox.com/" title=" http://mapbox.com/">mapbox.com</a>&nbsp;</p>
 </p>
-<p><p>Y siguiendo una buena practica hacker lo mejor es demostrar haciendo.</p>
+<p><blockquote>
 </p>
-<p><p>Me he bajado todos los ficheros shp (un formato propietario para&nbsp;&nbsp;Sistemas de Informaci&oacute;n Geogr&aacute;fica) relativos a los parques naturales y con el software de&nbsp;<a href="http://developmentseed.org">developmentseed.org</a> <a href="http://tilemill.com/">tilemill</a> que <a href="http://patxangas.investic.net/post/3408524360/tilemill-com">conte</a> el otro d&iacute;a me estoy&nbsp;empezando&nbsp;a pintar mi propio mapa</p>
+<p><p>TileMill es una herramienta poderosa para el dise&ntilde;o de mapas y por supuesto en software libre.&nbsp;&lt;/pe-dominio.html&quot;&gt;DSL</a> tipo <a href="http://www.sinatrarb.com/" title="http://www.sinatrarb.com/">sinatra</a> y ver que que esta pe&ntilde;a del mundo de <a href="http://drupal.org" title="drupal.org">drupal</a> se sacan de la manga este pedazo de desarroentos de esas capas.&nbsp;</p>
 </p>
-<p><p>Pego una
+<p><p>Dejo esta captura</p>
 </p>
-</section><div id="disqus_thread"><script type="text/javascript">var disqus_shortname = 'karlosgliberalblog';
-(function() {
-    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-})();
-</script></div></article></div><footer><div class="inner"><p>&copy; 2012 karlosgliberal (patxangas)</p></div></footer></body></html>
+<p><p><img src="http://media.tumblr.com/tumblr_lgxmiedm7B1qzyc28.png" /></p>
+</p>
+<p><p>Una vez realizada el mapa se puede exportar en png, pdf, o en <a href="http://mapbox.com/documentation/mbtiles-file-formath.org/">@developmentseed</a> basado en sqlite3 una ca&ntilde;a vamos.&nbsp;</p>
+</p>
+<p><p>Estoy en modo pruebas seguire contando.</p>&quot;
+</p>
+</section>
+        <div id="disqus_thread">
+          <script type="text/javascript">
+            var disqus_shortname = 'karlosgliberalblog';
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+          </script>
+        </div>
+      </article>
+    </div>
+    <footer>
+      <div class="inner">
+        <p>&copy; 2012 karlosgliberal (patxangas)</p>
+      </div>
+    </footer>
+  </body>
+</html>

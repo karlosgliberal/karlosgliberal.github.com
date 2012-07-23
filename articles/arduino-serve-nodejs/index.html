@@ -1,6 +1,41 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>Arduino controlando un servo mediante node.js -
-El Filo 0.1</title><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script><script src="/js/fluidinfo.js"></script><link rel="alternate" href="http://localhost:8080/feed.xml" type="application/rss+xml" title="Trozos de imaginería cultural profunda que se ha desprendido y adquirido vida propia"><link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Audiowide"><link rel="stylesheet" href="/css/github.css"><link rel="stylesheet" href="/css/main.css"><script src="/js/app.js"></script></head><body><header><div class="inner"><a href="/" class="back"><< back to index</a><h1>Arduino controlando un servo mediante node.js</h1><p>written by:
-<span class="author">karlos g liberal</span></p><div id="menuh"><ul><li><a href="/sobremi/sobremi.html">Sobre mi</a></li><li><a href="/archive.html">Archivo</a></li><li><a href="#">Otros</a></li></ul></div></div></header><div id="content"><article class="post"><section class="content"><p><p>Que node.js empieza ha ser un entorno muy poderoso empieza ha estar claro, el motor v8 es poderoso y la pe&ntilde;a le esta sacando chispas &nbsp;por lo menos en el contexto de node.js</p>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Arduino controlando un servo mediante node.js - El Filo 0.1
+    </title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="/js/underscore-min.js"></script>
+    <script src="/js/fluidinfo.js"></script>
+    <link rel="alternate" href="http://localhost:8080/feed.xml" type="application/rss+xml" title="Trozos de imaginería cultural profunda que se ha desprendido y adquirido vida propia">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Audiowide">
+    <link rel="stylesheet" href="/css/github.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <!-- script(src='/js/app.js')-->
+  </head>
+  <body>
+    <header>
+      <div class="inner">
+        <h1> <a href="http://localhost:8080">El Filo 0.1</a></h1>
+        <h4>Trozos de imaginería cultural profunda que se ha desprendido y adquirido vida propia
+        </h4><a href="/" class="back"><< back to index</a>
+        <!-- p-->
+        <!--   | written by:-->
+        <!--   mixin author(page.metadata.author)-->
+        <div id="menuh">
+          <ul>
+            <li> <a href="/sobremi/sobremi.html">Sobre mi</a></li>
+            <li> <a href="/archive.html">Archivo</a></li>
+            <li> <a href="#">Otros</a></li>
+          </ul>
+        </div>
+      </div>
+    </header>
+    <div id="content">
+      <h1></h1>
+      <article class="post">
+        <h1>Arduino controlando un servo mediante node.js</h1>
+        <section class="content"><p><p>Que node.js empieza ha ser un entorno muy poderoso empieza ha estar claro, el motor v8 es poderoso y la pe&ntilde;a le esta sacando chispas &nbsp;por lo menos en el contexto de node.js</p>
 </p>
 <p><p>En este caso para una &quot;frikada&quot; casera se me ocurrio sacar mi vieja placa de arduinio y ver si podia mover un servo (tambi&eacute;n viejo) y en un ctrl+tab tonto de dispersion, se&nbsp;encendi&oacute;&nbsp;la bombilla &iquest;y si se puede usar node.js para controlar el servo? entoces &iquest;habr&aacute; alg&uacute;n modulo que trabaje con el puerto seri&eacute;? Node.js empieza ha ser como drupal, siempre hay alguien que lo ha probado, creado o mejorado.&nbsp;</p>
 </p>
@@ -20,10 +55,23 @@ El Filo 0.1</title><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7
 <span class="more"></span>
 </p>
 <script src="https://gist.github.com/901812.js"> </script>
-</section><div id="disqus_thread"><script type="text/javascript">var disqus_shortname = 'karlosgliberalblog';
-(function() {
-    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-})();
-</script></div></article></div><footer><div class="inner"><p>&copy; 2012 karlosgliberal (patxangas)</p></div></footer></body></html>
+</section>
+        <div id="disqus_thread">
+          <script type="text/javascript">
+            var disqus_shortname = 'karlosgliberalblog';
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+          </script>
+        </div>
+      </article>
+    </div>
+    <footer>
+      <div class="inner">
+        <p>&copy; 2012 karlosgliberal (patxangas)</p>
+      </div>
+    </footer>
+  </body>
+</html>

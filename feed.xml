@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>El Filo 0.1</title>
-    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>http://localhost:8080</link>
+    <atom:link href="http://blog.elfilo.net/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://blog.elfilo.net</link>
     <description>Trozos de imaginería cultural profunda que se ha desprendido y adquirido vida propia</description>
     <pubDate>Mon, 11 Apr 2011 15:00:00 +0200</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
     <item>
       <title>Arduino controlando un servo mediante node.js</title>
-      <link>http://localhost:8080/articles/arduino-serve-nodejs/</link>
+      <link>http://blog.elfilo.net/articles/arduino-serve-nodejs/</link>
       <pubDate>Mon, 11 Apr 2011 15:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/arduino-serve-nodejs/</guid>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/arduino-serve-nodejs/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;p&gt;Que node.js empieza ha ser un entorno muy poderoso empieza ha estar claro, el motor v8 es poderoso y la pe&ntilde;a le esta sacando chispas &nbsp;por lo menos en el contexto de node.js&lt;/p&gt;
 &lt;/p&gt;
@@ -37,10 +37,92 @@
 </description>
     </item>
     <item>
+      <title>Residencia SummerOfLabs Euskado</title>
+      <link>http://blog.elfilo.net/articles/residencia-visualizacion-summeroflabs-eu/</link>
+      <pubDate>Thu, 26 Jul 2012 22:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/residencia-visualizacion-summeroflabs-eu/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;http://blog.elfilo.net/articles/residencia-visualizacion-summeroflabs-eu/banner.png&quot; alt=&quot;banner&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Primer post con fundamento del blogs desde la nueva era post investic.
+
+&lt;/p&gt;
+&lt;p&gt;Hoy voy ha hablar del encargo/residencia que desde tabakalera nos pidieron a &lt;a href=&quot;http://twitter.com/aitor_rl&quot;&gt;@aitor_rl&lt;/a&gt; y a mi (futuro interzonas). La idea era sencilla en un principio, por un lado crear una herramienta de inscripción para el encuentro SummerOfLabs y por otro lado con algunos de los datos de esa inscripción realizar una visualización. 
+
+&lt;/p&gt;
+&lt;p&gt;La herramienta de inscripción (el encargo) se monto con un &lt;a href=&quot;http://drupal.org&quot;&gt;drupal&lt;/a&gt; conforme avanzábamos en las conversaciones vimos que podíamos aprovechar la herramienta para algo más y se convirtió en la flamante y modesta web del &lt;a href=&quot;http://summeroflabs.eu&quot;&gt;SummerOfLabs euskadi&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;También se valoró que hubiera una primera visualización algo sencillo y que nosotros (interzonas) tuviéramos el control &quot;editorial&quot;, es en ese momento donde &quot;tom&quot; (yo) vió que se podía montar una catedral. 
+
+&lt;/p&gt;
+&lt;p&gt;La visualización se realiza con el interés de los inscritos que lo indican apuntándose a un grupo cerrado de nodos (charlas, talleres etc) del encuentro. 
+
+&lt;/p&gt;
+&lt;p&gt;Estos son los elementos que tienen nuestra catedral. 
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Drupal para la gestión de inscritos y como enlace con la base de datos fluidinfo&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://fluidinfo.com&quot;&gt;fludiinfo&lt;/a&gt; Mi proyecto &quot;prefe&quot; una base de datos en la nube que permite entender el almacenamiento de forma diferente, los datos se pueden reutilizar y los datos son tu api. Es tan bonito como suena.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://d3js.org/&quot;&gt;d3.js&lt;/a&gt; &quot;La herramienta&quot; de la visualización de datos. Ellos dicen que su biblioteca no muestra datos los transforma. Una sutiliza que tiene su sentido sobre todo en visualizaciones dinámicas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;El resultado se puede ver en &lt;a href=&quot;http://visualabs.summeroflabs.eu/&quot;&gt;&lt;a href=&quot;http://visualabs.summeroflabs.eu/&quot;&gt;http://visualabs.summeroflabs.eu/&lt;/a&gt;&lt;/a&gt; es algo modesto pero para ser la primara experiencia con d3.js estamos contentos.
+
+
+&lt;/p&gt;
+&lt;p&gt;En posteriores post profundizare con cada uno de los elementos que hemos usado.
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Teknotrakitana, jugando con VVVV y osc</title>
+      <link>http://blog.elfilo.net/articles/teknotrakintana/</link>
+      <pubDate>Fri, 01 Apr 2011 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/teknotrakintana/</guid>
+      <author></author>
+      <description>&lt;p&gt;Este viernes volvimos a juntarnos los &quot;teknotrakitanos&quot; (un dia de esto explicare de donde viene el nombre). En su&nbsp;&lt;a href=&quot;http://karlosgliberal.investic.net/blog/teknotrakitana-laboratorio-para-experimentar-con-la-creaci%C3%B3n-art%C3%ADstica-visual&quot; title=&quot;tekotrakitanos&quot;&gt;momento&lt;/a&gt;&nbsp;ya conte cual era nuestra intenci&oacute;n con estas quedadas. Ahora andamos intentando darle mas forma, buscando algo &quot;concreto&quot; para hacer, pero bueno eso cuando este ya lo contaremos.&lt;/p&gt;
+&lt;p&gt;En esta quedada hablamos con lo que cada uno esta jugando y nos&nbsp;encontramos&nbsp;con un denominador com&uacute;n &lt;a href=&quot;http://goo.gl/ZFrT1&quot; title=&quot;osc&quot;&gt;OSC&lt;/a&gt;.&nbsp; Open sound control es un protocolo multimedia que tiene como intenci&oacute;n mejorar las carencias del midi.Lo cierto es que su versatilidad es brutal.&lt;/p&gt;
+&lt;p&gt;Nosotros parte del rato lo dedicamos a conectar en &quot;serie&quot; distintos dispositivos con osc, al VVVV al touchosc del ipad y de un android&nbsp;as&iacute;&nbsp;como a un node.js. Se le ve mucho color&lt;/p&gt;
+&lt;p&gt;Patxi nuestro vvvv nos conto las&nbsp;incre&iacute;bles&nbsp;posibilidades del sistema para crear clusters con, boysgroups. Y este es el ejemplo que hicimos:&lt;/p&gt;
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;390&quot; src=&quot;http://www.youtube.com/embed/xeLUKd1NFxg&quot; title=&quot;YouTube video player&quot; width=&quot;480&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Primeras pruebas con los datos abiertos de http://opendata.navarra.es</title>
+      <link>http://blog.elfilo.net/articles/primeras-pruebas-opendata/</link>
+      <pubDate>Thu, 01 Sep 2011 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/primeras-pruebas-opendata/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;p&gt;Hace tiempo que no escribo ning&uacute;n post, la verdad que no tenia muy claro si tenia sentido esa sensaci&oacute;n de hablarle al vac&iacute;o. Ademas mi blog &lt;a href=&quot;http://karlogliberal.investic.net&quot;&gt;http://karlogliberal.investic.net&lt;/a&gt; ya no me molaba XD. Tenia este tumblr que tampoco es que sea la panacea pero bueno por lo menos es rapido y a modo de almac&eacute;n me gusta.&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;El planteamiento va ha ser simplificar aun m&aacute;s los post, mantener el tema de almac&eacute;n tanto de ideas como de mis experimentos. Creo que eso puede estar bien, siempre estoy probando cosas nuevas y contarlo puede contribuir un poco.&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Bueno al tema :)&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Hace un par de d&iacute;as los grandes de @developmentseed publicaron &lt;a href=&quot;http://tilemill.com/ &quot; title=&quot;http://tilemill.com/ &quot;&gt;tilemill.com&lt;/a&gt; que se engloba dentro de la &quot;movida&quot;&nbsp;&lt;a href=&quot; http://mapbox.com/&quot; title=&quot; http://mapbox.com/&quot;&gt;mapbox.com&lt;/a&gt;&nbsp;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;TileMill es una herramienta poderosa para el dise&ntilde;o de mapas y por supuesto en software libre.&nbsp;&lt;/pe-dominio.html&quot;&gt;DSL&lt;/a&gt; tipo &lt;a href=&quot;http://www.sinatrarb.com/&quot; title=&quot;http://www.sinatrarb.com/&quot;&gt;sinatra&lt;/a&gt; y ver que que esta pe&ntilde;a del mundo de &lt;a href=&quot;http://drupal.org&quot; title=&quot;drupal.org&quot;&gt;drupal&lt;/a&gt; se sacan de la manga este pedazo de desarroentos de esas capas.&nbsp;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Dejo esta captura&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;img src=&quot;http://media.tumblr.com/tumblr_lgxmiedm7B1qzyc28.png&quot; /&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Una vez realizada el mapa se puede exportar en png, pdf, o en &lt;a href=&quot;http://mapbox.com/documentation/mbtiles-file-formath.org/&quot;&gt;@developmentseed&lt;/a&gt; basado en sqlite3 una ca&ntilde;a vamos.&nbsp;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Estoy en modo pruebas seguire contando.&lt;/p&gt;&quot;
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Cambio de blog WinterSmith es mi colega</title>
-      <link>http://localhost:8080/articles/cambio-blog-wintersmith/</link>
+      <link>http://blog.elfilo.net/articles/cambio-blog-wintersmith/</link>
       <pubDate>Mon, 23 Jul 2012 22:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/cambio-blog-wintersmith/</guid>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/cambio-blog-wintersmith/</guid>
       <author></author>
       <description>&lt;p&gt;La peña suele mantener con mucho gusto sus blogs. Los miman y cuentan cuantas entradas tienen, cuentos comentarios y hists, este no es mi caso. Yo podría hacer lo mismo pero con blogs en vez de con posts. Es lo que tiene, cada poco me aburro del que tenia, y me monto uno nuevo. Creo que lo hago con la excusa de que este si este será el blog definitivo donde escribiré muchas post. Las excusas son muchas:
 
@@ -87,47 +169,6 @@ $ wintersmith preview&lt;/code&gt;&lt;/pre&gt;
 
 
 &lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Primeras pruebas con los datos abiertos de http://opendata.navarra.es</title>
-      <link>http://localhost:8080/articles/primeras-pruebas-opendata/</link>
-      <pubDate>Thu, 01 Sep 2011 15:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/primeras-pruebas-opendata/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;p&gt;Hace tiempo que no escribo ning&uacute;n post, la verdad que no tenia muy claro si tenia sentido esa sensaci&oacute;n de hablarle al vac&iacute;o. Ademas mi blog &lt;a href=&quot;http://karlogliberal.investic.net&quot;&gt;http://karlogliberal.investic.net&lt;/a&gt; ya no me molaba XD. Tenia este tumblr que tampoco es que sea la panacea pero bueno por lo menos es rapido y a modo de almac&eacute;n me gusta.&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;El planteamiento va ha ser simplificar aun m&aacute;s los post, mantener el tema de almac&eacute;n tanto de ideas como de mis experimentos. Creo que eso puede estar bien, siempre estoy probando cosas nuevas y contarlo puede contribuir un poco.&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Bueno al tema :)&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Hace un par de d&iacute;as los grandes de @developmentseed publicaron &lt;a href=&quot;http://tilemill.com/ &quot; title=&quot;http://tilemill.com/ &quot;&gt;tilemill.com&lt;/a&gt; que se engloba dentro de la &quot;movida&quot;&nbsp;&lt;a href=&quot; http://mapbox.com/&quot; title=&quot; http://mapbox.com/&quot;&gt;mapbox.com&lt;/a&gt;&nbsp;&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;blockquote&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;TileMill es una herramienta poderosa para el dise&ntilde;o de mapas y por supuesto en software libre.&nbsp;&lt;/pe-dominio.html&quot;&gt;DSL&lt;/a&gt; tipo &lt;a href=&quot;http://www.sinatrarb.com/&quot; title=&quot;http://www.sinatrarb.com/&quot;&gt;sinatra&lt;/a&gt; y ver que que esta pe&ntilde;a del mundo de &lt;a href=&quot;http://drupal.org&quot; title=&quot;drupal.org&quot;&gt;drupal&lt;/a&gt; se sacan de la manga este pedazo de desarroentos de esas capas.&nbsp;&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Dejo esta captura&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;&lt;img src=&quot;http://media.tumblr.com/tumblr_lgxmiedm7B1qzyc28.png&quot; /&gt;&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Una vez realizada el mapa se puede exportar en png, pdf, o en &lt;a href=&quot;http://mapbox.com/documentation/mbtiles-file-formath.org/&quot;&gt;@developmentseed&lt;/a&gt; basado en sqlite3 una ca&ntilde;a vamos.&nbsp;&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Estoy en modo pruebas seguire contando.&lt;/p&gt;&quot;
-&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Teknotrakitana, jugando con VVVV y osc</title>
-      <link>http://localhost:8080/articles/teknotrakintana/</link>
-      <pubDate>Fri, 01 Apr 2011 15:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/teknotrakintana/</guid>
-      <author></author>
-      <description>&lt;p&gt;Este viernes volvimos a juntarnos los &quot;teknotrakitanos&quot; (un dia de esto explicare de donde viene el nombre). En su&nbsp;&lt;a href=&quot;http://karlosgliberal.investic.net/blog/teknotrakitana-laboratorio-para-experimentar-con-la-creaci%C3%B3n-art%C3%ADstica-visual&quot; title=&quot;tekotrakitanos&quot;&gt;momento&lt;/a&gt;&nbsp;ya conte cual era nuestra intenci&oacute;n con estas quedadas. Ahora andamos intentando darle mas forma, buscando algo &quot;concreto&quot; para hacer, pero bueno eso cuando este ya lo contaremos.&lt;/p&gt;
-&lt;p&gt;En esta quedada hablamos con lo que cada uno esta jugando y nos&nbsp;encontramos&nbsp;con un denominador com&uacute;n &lt;a href=&quot;http://goo.gl/ZFrT1&quot; title=&quot;osc&quot;&gt;OSC&lt;/a&gt;.&nbsp; Open sound control es un protocolo multimedia que tiene como intenci&oacute;n mejorar las carencias del midi.Lo cierto es que su versatilidad es brutal.&lt;/p&gt;
-&lt;p&gt;Nosotros parte del rato lo dedicamos a conectar en &quot;serie&quot; distintos dispositivos con osc, al VVVV al touchosc del ipad y de un android&nbsp;as&iacute;&nbsp;como a un node.js. Se le ve mucho color&lt;/p&gt;
-&lt;p&gt;Patxi nuestro vvvv nos conto las&nbsp;incre&iacute;bles&nbsp;posibilidades del sistema para crear clusters con, boysgroups. Y este es el ejemplo que hicimos:&lt;/p&gt;
-&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;390&quot; src=&quot;http://www.youtube.com/embed/xeLUKd1NFxg&quot; title=&quot;YouTube video player&quot; width=&quot;480&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>

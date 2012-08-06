@@ -1,9 +1,11 @@
 
 #menuh {
-  font-family: 'Audiowide', Helvetica, Arial sans-serif;
   font-size: 15px;
   line-height:18px;
-  margin-top: 19px;
+  margin-top: -114px;
+ font-family: 'Ubuntu',Helvetica,Arial,sans-serif;
+ text-transform: uppercase;
+
 }
 #menuh ul, li {
   list-style-type: none;
@@ -13,25 +15,22 @@
   padding-bottom: 0px;
 }
 
-#menuh li {
-  float: left;
-}
+
 #menuh a {
   text-decoration: none;
   color: #fff;
-  background: #000;
   display: block;
   padding: 9px 15px;
   text-align: center;
-  border: 1px solid #fff;
-  border-width: 0px 1px 0px 0;
+  text-shadow: 1px 1px 1px #000000;
+   filter: dropshadow(color=#000000, offx=1, offy=1);
 }
-#menuh a#primero {
-  border-left: 0px solid #ACCFE8;
-}
+
+
 #menuh a:hover {
-  background: #ccc;
+color: #DB593D;
 }
+
 
 h1, h2, h3, h4, h5, h6, p, blockquote, body {
   margin: 0;
@@ -43,6 +42,7 @@ body {
   font-size: 13px;
   line-height: 18px;
   color: #252824;
+  background: url('bg.png') center repeat;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -56,7 +56,9 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+  font-size: 43px;
+  line-height: 54px;
 }
 
 h3 {
@@ -80,13 +82,24 @@ h1 a {
 }
 
 a {
-  color: #000;
+  color: #DB593D;
   text-decoration:underline;
+  transition: color 0.3s ease 0s;
+  -moz-transition: color 0.3s ease 0s;
+  -webkit-transition: color 0.3s ease 0s;
+
 }
 
 a:hover {
   text-decoration: underline;
 }
+
+
+article.post header a:hover {
+  color: #DB593D;
+}
+
+
 
 a img {
   border: none;
@@ -127,30 +140,12 @@ body > header .inner {
 }
 
 
-body > footer {
-  margin: 0 40px;
-}
-
 body > footer .inner {
   border-top: 1px solid #dfdfdf;
   padding: 10px 0;
-  text-indent: 5px;
+  text-indent: 15px;
   color: #b6b6b6;
   font-style: italic;
-}
-
-body > header h1 {
-  font-family: 'Audiowide';
-  font-size: 40px;
-  line-height: 40px;
-  text-shadow: rgba(255,255,255,0.3) 0 0 15px;
-  padding-bottom: 8px;
-}
-body > header h4 {
-  font-family: 'Audiowide';
-  font-size: 18px;
-  line-height: 18px;
-  text-shadow: rgba(255,255,255,0.3) 0 0 10px;
 }
 
 body > header a {
@@ -162,9 +157,10 @@ body > header h1 a:hover {
 }
 
 body > header p {
-  margin-top: 3px;
+  font-family: 'Open Sans', Arial, Helvetica;
+  margin: 0px;
   text-indent: 10px;
-  font-style: italic;
+  line-height: 27px;
 }
 
 body > header a.back {
@@ -182,11 +178,23 @@ body > header a.back:hover {
 
 #content {
   margin: 40px;
+  padding-top: 174px;
 }
 
-article.post {
+article.post,
+article.mi {
+  background-color: #FFFFFF;
+  border-radius: 3px 3px 3px 3px;
   margin-bottom: 60px;
+  margin-left: 129px;
+  padding: 20px;
+  width: 800px;
 }
+article.mi {
+  background: none;
+}
+
+
 
 article.post .content img {
   max-width: 100%;
@@ -198,13 +206,12 @@ article.post header {
 }
 
 article.post header a {
-  color: #252824;
+  color: #000;
   text-decoration: none;
 }
 
 article.post header a:hover {
   text-shadow: none;
-  text-decoration: underline;
 }
 
 hr {
@@ -281,20 +288,60 @@ pre code {
   body > header .inner,
   body > footer .inner,
   #content {
-    width: 676px;
+    width: 950px;
     margin-left: auto;
     margin-right: auto;
   }
   body > header .inner {
     margin: 9px auto;
   }
-  body > header {
-    padding-top: 10px;
-    padding-bottom: 34px; 
-  }
+
   body > header h1 {
     font-size: 44px;
     line-height: 46px;
     text-shadow: rgba(255,255,255,0.3) 0 0 20px;
   }
 }
+
+
+.header-top {
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 147px;
+  background: url('bg-header.png') repeat center ;
+}
+
+
+.wrapper-title {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 0px;
+}
+
+.author {
+color: #fff;
+background: #DB593D;
+padding: 5px 15px;
+line-height: 40px;
+}
+
+footer {
+  border-top: 3px solid #000;  
+}
+
+#menuh {
+  float: right;
+}
+
+.mensaje{
+  color:#ABABAB;
+  font-size: 20px;
+  padding-left: 127px;
+}
+
+
+
+

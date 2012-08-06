@@ -83,7 +83,7 @@ h1 a {
 
 a {
   color: #DB593D;
-  text-decoration:underline;
+  text-decoration:none;
   transition: color 0.3s ease 0s;
   -moz-transition: color 0.3s ease 0s;
   -webkit-transition: color 0.3s ease 0s;

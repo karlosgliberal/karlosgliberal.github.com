@@ -115,6 +115,80 @@ Y aquí se puede descargar: &lt;a href=&quot;https://github.com/karlosgliberal/c
 </description>
     </item>
     <item>
+      <title>Tengo nuevo amigo http://meemoo.org/</title>
+      <link>http://blog.elfilo.net/articles/nuevo-amigo-meemoo/</link>
+      <pubDate>Tue, 11 Sep 2012 23:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/nuevo-amigo-meemoo/</guid>
+      <author></author>
+      <description>&lt;p&gt;Pues eso que andaba yo metiéndole un rato al &lt;a href=&quot;http://idflood.github.com/ThreeNodes.js/&quot;&gt;threenodes&lt;/a&gt; (mola aunque es un poco tosco) vi que el colega que lo esta desarrollando &lt;a href=&quot;https://twitter.com/idflood&quot;&gt;@idflood&lt;/a&gt; hablaba de &lt;a href=&quot;http://meemoo.org&quot;&gt;meemoo.org&lt;/a&gt; 
+
+&lt;/p&gt;
+&lt;p&gt;La idea es brutal es rollo &quot;rayitas&quot; que unen &quot;cagitas&quot; tipo &lt;a href=&quot;http://puredata.info/&quot;&gt;pure-data&lt;/a&gt; o los guays de &lt;a href=&quot;http://blog.elfilo.net/articles/nuevo-amigo-meemoo/vvvv.org&quot;&gt;vvvv&lt;/a&gt; XD, 
+La mecánica es similar cada módulo (serian los nods en 4v), dividido por tipos y cada uno de ellos tiene tantas entradas y salidas como corresponda, y como en todos estos softwares con la unión de ellas se hace el patch. Pero la caña reside en que cada caja es &quot;purito html&quot; con javascript que es el que crea las entradas y salidas. 
+
+&lt;/p&gt;
+&lt;p&gt;Dicho de otra manera cualquier locura que se pueda hacer en html5 se le puede añadir estas entradas y salidas y entonces pueden ser enganchadas en meemoo.org. 
+Por ejemplo puedes añadir en tu servidor un html (con su javascript) y esto puede ser añadido desde la sección de modules &quot;search or url&quot; 
+
+&lt;/p&gt;
+&lt;p&gt;Por supuesto podemos guardar el proyecto, crea un json con cada una de las propiedades y en el se pueden ver los enlaces a los modulos, pego un ejemplo
+
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{
+  &quot;info&quot;: {
+    &quot;title&quot;: &quot;(speech to) text to speech&quot;,
+    &quot;author&quot;: &quot;forresto&quot;,
+    &quot;description&quot;: &quot;(in chrome, speech to) text to speech&quot;,
+    &quot;url&quot;: &quot;text2speech&quot;
+  },
+  &quot;nodes&quot;: [
+    {
+      &quot;src&quot;: &quot;http://forresto.github.com/meemoo-modules/speech2text.html&quot;,
+      &quot;x&quot;: 162,
+      &quot;y&quot;: 61,
+      &quot;z&quot;: 0,
+      &quot;w&quot;: 346,
+      &quot;h&quot;: 98,
+      &quot;state&quot;: {},
+      &quot;id&quot;: 1
+    },
+    {
+      &quot;src&quot;: &quot;http://forresto.github.com/meemoo-speak.js/text2speech.html&quot;,
+      &quot;x&quot;: 234,
+      &quot;y&quot;: 221,
+      &quot;z&quot;: 0,
+      &quot;w&quot;: 167,
+      &quot;h&quot;: 117,
+      &quot;state&quot;: {
+        &quot;amplitude&quot;: 100,
+        &quot;pitch&quot;: 50,
+        &quot;speed&quot;: 175,
+        &quot;wordgap&quot;: 0
+      },
+      &quot;id&quot;: 2
+    },&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Bueno pues si este código lo guardas en un &lt;a href=&quot;https://gist.github.com/&quot;&gt;gist&lt;/a&gt; puedes visualizar tus patch de esta manera &lt;a href=&quot;http://meemoo.org/iframework/#gist/3124854&quot;&gt;&lt;a href=&quot;http://meemoo.org/iframework/#gist/3124854&quot;&gt;http://meemoo.org/iframework/#gist/3124854&lt;/a&gt;&lt;/a&gt; el número al final es el id del gist creado.
+
+&lt;/p&gt;
+&lt;p&gt;El potencial es brutal.
+
+&lt;/p&gt;
+&lt;p&gt;Os lo aviso os voy a volver locos con el juguetico 
+
+&lt;/p&gt;
+&lt;p&gt;Referencias
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://meemoo.org/iframework/&quot;&gt;&lt;a href=&quot;http://meemoo.org/iframework/&quot;&gt;http://meemoo.org/iframework/&lt;/a&gt;&lt;/a&gt; -&gt; este es la demo que explica el temita&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://meemoo.org/hack-our-apps/&quot;&gt;&lt;a href=&quot;http://meemoo.org/hack-our-apps/&quot;&gt;http://meemoo.org/hack-our-apps/&lt;/a&gt;&lt;/a&gt; -&gt; galeria de patch&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://forresto.github.com/meemoo-image/text.html&quot;&gt;&lt;a href=&quot;http://forresto.github.com/meemoo-image/text.html&quot;&gt;http://forresto.github.com/meemoo-image/text.html&lt;/a&gt;&lt;/a&gt; -&gt; ejemplo de módulo &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/forresto&quot;&gt;@forresto&lt;/a&gt; -&gt; el crack que lo ha desarrollado&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Primeras pruebas con los datos abiertos de http://opendata.navarra.es</title>
       <link>http://blog.elfilo.net/articles/primeras-pruebas-opendata/</link>
       <pubDate>Thu, 01 Sep 2011 15:00:00 +0200</pubDate>

@@ -1,0 +1,121 @@
+
+<!-- extends layout--><!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>El Filo 0.1
+    </title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="/js/underscore-min.js"></script>
+    <link rel="alternate" href="http://blog.elfilo.net/feed.xml" type="application/rss+xml" title="Trozos de imaginería cultural profunda que se ha desprendido y adquirido vida propia">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Audiowide">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Ubuntu:bold" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Vollkorn" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/css/github.css">
+    <link rel="stylesheet" href="/css/main.css">
+  </head>
+  <body>
+    <header class="header-top">
+      <div class="inner">
+        <div class="wrapper-title"><a href="http://blog.elfilo.net"><img src="/images/bg-logo1.png"></a></div>
+        <div class="mensaje"><img src="/images/texto.png" alt="Trozos de imaginería cultural profunda que se han desprendido y adquirido vida propia"></div>
+        <div id="menuh">
+          <ul>
+            <li><a href="/sobremi.html">Sobre mi /</a></li>
+            <li><a href="/archive.html">Archivo /</a></li>
+            <li><a href="#">Otros /</a></li>
+          </ul>
+        </div>
+      </div>
+    </header>
+    <div id="content">
+      <article class="post">
+        <header>
+          <h2>
+            <h2>Tengo nuevo amigo http://meemoo.org/</h2>
+          </h2>
+          <p><span class="author">karlos g liberal</span>
+          </p>
+        </header>
+        <section class="content"><p>Pues eso que andaba yo metiéndole un rato al <a href="http://idflood.github.com/ThreeNodes.js/">threenodes</a> (mola aunque es un poco tosco) vi que el colega que lo esta desarrollando <a href="https://twitter.com/idflood">@idflood</a> hablaba de <a href="http://meemoo.org">meemoo.org</a> 
+
+</p>
+<p>La idea es brutal es rollo &quot;rayitas&quot; que unen &quot;cagitas&quot; tipo <a href="http://puredata.info/">pure-data</a> o los guays de <a href="http://blog.elfilo.net/articles/nuevo-amigo-meemoo/vvvv.org">vvvv</a> XD, 
+La mecánica es similar cada módulo (serian los nods en 4v), dividido por tipos y cada uno de ellos tiene tantas entradas y salidas como corresponda, y como en todos estos softwares con la unión de ellas se hace el patch. Pero la caña reside en que cada caja es &quot;purito html&quot; con javascript que es el que crea las entradas y salidas. 
+
+</p>
+<p>Dicho de otra manera cualquier locura que se pueda hacer en html5 se le puede añadir estas entradas y salidas y entonces pueden ser enganchadas en meemoo.org. 
+Por ejemplo puedes añadir en tu servidor un html (con su javascript) y esto puede ser añadido desde la sección de modules &quot;search or url&quot; 
+
+</p>
+<p>Por supuesto podemos guardar el proyecto, crea un json con cada una de las propiedades y en el se pueden ver los enlaces a los modulos, pego un ejemplo
+
+
+</p>
+<pre><code>{
+  "info": {
+    "title": "(speech to) text to speech",
+    "author": "forresto",
+    "description": "(in chrome, speech to) text to speech",
+    "url": "text2speech"
+  },
+  "nodes": [
+    {
+      "src": "http://forresto.github.com/meemoo-modules/speech2text.html",
+      "x": 162,
+      "y": 61,
+      "z": 0,
+      "w": 346,
+      "h": 98,
+      "state": {},
+      "id": 1
+    },
+    {
+      "src": "http://forresto.github.com/meemoo-speak.js/text2speech.html",
+      "x": 234,
+      "y": 221,
+      "z": 0,
+      "w": 167,
+      "h": 117,
+      "state": {
+        "amplitude": 100,
+        "pitch": 50,
+        "speed": 175,
+        "wordgap": 0
+      },
+      "id": 2
+    },</code></pre>
+<p>Bueno pues si este código lo guardas en un <a href="https://gist.github.com/">gist</a> puedes visualizar tus patch de esta manera <a href="http://meemoo.org/iframework/#gist/3124854"><a href="http://meemoo.org/iframework/#gist/3124854">http://meemoo.org/iframework/#gist/3124854</a></a> el número al final es el id del gist creado.
+
+</p>
+<p>El potencial es brutal.
+
+</p>
+<p>Os lo aviso os voy a volver locos con el juguetico 
+
+</p>
+<p>Referencias
+
+</p>
+<ul>
+<li><a href="http://meemoo.org/iframework/"><a href="http://meemoo.org/iframework/">http://meemoo.org/iframework/</a></a> -&gt; este es la demo que explica el temita</li>
+<li><a href="http://meemoo.org/hack-our-apps/"><a href="http://meemoo.org/hack-our-apps/">http://meemoo.org/hack-our-apps/</a></a> -&gt; galeria de patch</li>
+<li><a href="http://forresto.github.com/meemoo-image/text.html"><a href="http://forresto.github.com/meemoo-image/text.html">http://forresto.github.com/meemoo-image/text.html</a></a> -&gt; ejemplo de módulo </li>
+<li><a href="https://twitter.com/forresto">@forresto</a> -&gt; el crack que lo ha desarrollado</li>
+</ul>
+
+          <div id="disqus_thread">
+            <script type="text/javascript">
+              var disqus_shortname = 'karlosgliberalblog';
+              (function() {
+                  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+              })();
+            </script>
+          </div></section>
+      </article>
+    </div>
+  </body>
+</html>

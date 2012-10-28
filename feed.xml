@@ -115,6 +115,67 @@ Y aquí se puede descargar: &lt;a href=&quot;https://github.com/karlosgliberal/c
 </description>
     </item>
     <item>
+      <title>Drupalcamp 2012 impresiones</title>
+      <link>http://blog.elfilo.net/articles/drupalcamp-2012/</link>
+      <pubDate>Fri, 26 Oct 2012 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/drupalcamp-2012/</guid>
+      <author></author>
+      <description>&lt;p&gt;El fin de semana pasado &lt;a href=&quot;http://twitter.com/aitor_rl&quot;&gt;@aitor_rl&lt;/a&gt; y yo nos pasamos por la &lt;a href=&quot;http://2012.drupalcamp.es/es&quot;&gt;Drupalcamp&lt;/a&gt; que este año tocaba en Madrid.
+La verdad es que el tema se nos hacía un poco raro, era la primera drupalcamp desde el &lt;a href=&quot;http://www.investic.net/blog/karlos/investic-cierra-sus-puertas&quot;&gt;cierre&lt;/a&gt; de investic y bueno, nos costó un poco decidirnos.
+
+&lt;/p&gt;
+&lt;p&gt;Ahora Aitor y yo andamos terminando (o continuando) pequeñas cosas que teníamos en investic y metiéndonos en nuevos &lt;a href=&quot;http://visualabs.summeroflabs.eu/&quot;&gt;berenjenales&lt;/a&gt; y claro está, &lt;a href=&quot;http://drupal.org&quot;&gt;drupal&lt;/a&gt; es nuestro amiguito para casi todo lo que hacemos. 
+
+&lt;/p&gt;
+&lt;p&gt;En esta drupalcamp propuse dar la charla &lt;a href=&quot;http://2012.drupalcamp.es/es/sesiones/drupal-y-nodejs-amigos-o-enemigos-103&quot;&gt;Drupal y node.js ¿Amigos o Enemigos?&lt;/a&gt; que, como más de uno ya sabe, llevo tiempo coqueteando con este entorno. La charla creo que me salió más/menos bien, siempre te quedas con la duda de si mejor más ejemplos/código, o yo que sé. Pero mi sensación fue buena y la peña así me lo hizo saber. 
+
+&lt;/p&gt;
+&lt;p&gt;Con la charla tenía dos intenciones
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dar a conocer &lt;a href=&quot;http://nodejs.org&quot;&gt;Node.js&lt;/a&gt; y su ecosistema&lt;/li&gt;
+&lt;li&gt;Hablar sobre la filosofía de node.js&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La comunidad node.js es brutalmente anarquica en algunas cosas y esa manera de funcionar se puede contraponer perfectamente con la de Drupal. Aparte que para algunos temas son entornos perfectamente complementarios, pero en la parte filosófica las comunidades son diferentes. 
+
+&lt;/p&gt;
+&lt;p&gt;Por poner un ejemplo, en drupal para poder contribuir con un módulo tienes que pasar por un proceso de validación, tanto de calidad en el código como de estándares y no duplicaciones. Con esto se quiere buscar la tan ansiada calidad. 
+
+&lt;/p&gt;
+&lt;p&gt;En la comunidad de node.js para poder contribuir con un módulo sólo te tienes que dar de alta como usuario en npm y publicar tu módulo. Esto hace que en sólo dos años existan más de 16.000 módulos (20.000 tiene drupal en más de 10 años). Cada cual que valore donde encaja mejor. Mi intención con la charla fue ofrecer este punto de vista, a mi entender, más macarra. 
+
+&lt;/p&gt;
+&lt;p&gt;Por supuesto, el evento fue increíble, especialmente el lado humana. Sólo cuando vives y te mueves por una comunidad del software libre como es la de drupal te das cuenta de que el software y la tecnología es cosa de personas y por eso es tan apasionante. 
+
+&lt;/p&gt;
+&lt;p&gt;De la drupalcamp me quedo con varias cosas:
+
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;symfony&lt;/li&gt;
+&lt;li&gt;symfony&lt;/li&gt;
+&lt;li&gt;symfony&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Pues eso, que drupal 8 con sus iniciativas esta repletito de symfony. Creo que la apuesta es potente y también creo que interesante. Si symfony tiene las cosas que drupal necesita, para que ostias vamos a reinventar la rueda. El miedo que me da es si para drupal 8 se llegará con todo en condiciones. Aún me acuerdo del desaguisado del media en drupal 7 o del OG. Pero bueno, eso es  adelantarnos. 
+
+&lt;/p&gt;
+&lt;p&gt;Eso sí, a ver quien es el guapo que monta un equipo completo y competente para Drupal8. Entre el experto en Drupal, el de symfony, el de maquetación (que esperemos tengan mejor vida con Twig que ahora) diseñador, etc . Esto pinta que será duro. 
+
+&lt;/p&gt;
+&lt;p&gt;En la parte que me toca me da mucha pereza empezar con Symfony. Sé que estoy muy contaminado con drupal y que reciclarme en otra cosa es difícil (está siendo difícil), pero la deriva de php me cuesta, y javascript me tira mucho. Sea como sea, ahora drupal es mi compañero de trabajo y está claro que es el mejor cms libre del momento. 
+
+&lt;/p&gt;
+&lt;p&gt;Ver charla &lt;a href=&quot;http://blog.elfilo.net/charla_nodejs/&quot;&gt;Drupal y node.js ¿Amigos o Enemigos?&lt;/a&gt;
+Codigo de la charla &lt;a href=&quot;https://github.com/karlosgliberal/charla_nodejs&quot;&gt;Drupal y node.js ¿Amigos o Enemigos?&lt;/a&gt;
+
+
+&lt;/p&gt;
+&lt;p&gt;Nos vemos en la siguiente drupalcamp XD
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Tengo nuevo amigo http://meemoo.org/</title>
       <link>http://blog.elfilo.net/articles/nuevo-amigo-meemoo/</link>
       <pubDate>Tue, 11 Sep 2012 23:00:00 +0200</pubDate>
@@ -217,6 +278,19 @@ Por ejemplo puedes añadir en tu servidor un html (con su javascript) y esto pue
 </description>
     </item>
     <item>
+      <title>Teknotrakitana, jugando con VVVV y osc</title>
+      <link>http://blog.elfilo.net/articles/teknotrakintana/</link>
+      <pubDate>Fri, 01 Apr 2011 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/teknotrakintana/</guid>
+      <author></author>
+      <description>&lt;p&gt;Este viernes volvimos a juntarnos los &quot;teknotrakitanos&quot; (un dia de esto explicare de donde viene el nombre). En su&nbsp;&lt;a href=&quot;http://karlosgliberal.investic.net/blog/teknotrakitana-laboratorio-para-experimentar-con-la-creaci%C3%B3n-art%C3%ADstica-visual&quot; title=&quot;tekotrakitanos&quot;&gt;momento&lt;/a&gt;&nbsp;ya conte cual era nuestra intenci&oacute;n con estas quedadas. Ahora andamos intentando darle mas forma, buscando algo &quot;concreto&quot; para hacer, pero bueno eso cuando este ya lo contaremos.&lt;/p&gt;
+&lt;p&gt;En esta quedada hablamos con lo que cada uno esta jugando y nos&nbsp;encontramos&nbsp;con un denominador com&uacute;n &lt;a href=&quot;http://goo.gl/ZFrT1&quot; title=&quot;osc&quot;&gt;OSC&lt;/a&gt;.&nbsp; Open sound control es un protocolo multimedia que tiene como intenci&oacute;n mejorar las carencias del midi.Lo cierto es que su versatilidad es brutal.&lt;/p&gt;
+&lt;p&gt;Nosotros parte del rato lo dedicamos a conectar en &quot;serie&quot; distintos dispositivos con osc, al VVVV al touchosc del ipad y de un android&nbsp;as&iacute;&nbsp;como a un node.js. Se le ve mucho color&lt;/p&gt;
+&lt;p&gt;Patxi nuestro vvvv nos conto las&nbsp;incre&iacute;bles&nbsp;posibilidades del sistema para crear clusters con, boysgroups. Y este es el ejemplo que hicimos:&lt;/p&gt;
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;390&quot; src=&quot;http://www.youtube.com/embed/xeLUKd1NFxg&quot; title=&quot;YouTube video player&quot; width=&quot;480&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Residencia SummerOfLabs Euskadi</title>
       <link>http://blog.elfilo.net/articles/residencia-visualizacion-summeroflabs-eu/</link>
       <pubDate>Thu, 26 Jul 2012 22:00:00 +0200</pubDate>
@@ -255,19 +329,6 @@ Por ejemplo puedes añadir en tu servidor un html (con su javascript) y esto pue
 &lt;p&gt;En posteriores post profundizare con cada uno de los elementos que hemos usado.
 
 &lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Teknotrakitana, jugando con VVVV y osc</title>
-      <link>http://blog.elfilo.net/articles/teknotrakintana/</link>
-      <pubDate>Fri, 01 Apr 2011 15:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://blog.elfilo.net/articles/teknotrakintana/</guid>
-      <author></author>
-      <description>&lt;p&gt;Este viernes volvimos a juntarnos los &quot;teknotrakitanos&quot; (un dia de esto explicare de donde viene el nombre). En su&nbsp;&lt;a href=&quot;http://karlosgliberal.investic.net/blog/teknotrakitana-laboratorio-para-experimentar-con-la-creaci%C3%B3n-art%C3%ADstica-visual&quot; title=&quot;tekotrakitanos&quot;&gt;momento&lt;/a&gt;&nbsp;ya conte cual era nuestra intenci&oacute;n con estas quedadas. Ahora andamos intentando darle mas forma, buscando algo &quot;concreto&quot; para hacer, pero bueno eso cuando este ya lo contaremos.&lt;/p&gt;
-&lt;p&gt;En esta quedada hablamos con lo que cada uno esta jugando y nos&nbsp;encontramos&nbsp;con un denominador com&uacute;n &lt;a href=&quot;http://goo.gl/ZFrT1&quot; title=&quot;osc&quot;&gt;OSC&lt;/a&gt;.&nbsp; Open sound control es un protocolo multimedia que tiene como intenci&oacute;n mejorar las carencias del midi.Lo cierto es que su versatilidad es brutal.&lt;/p&gt;
-&lt;p&gt;Nosotros parte del rato lo dedicamos a conectar en &quot;serie&quot; distintos dispositivos con osc, al VVVV al touchosc del ipad y de un android&nbsp;as&iacute;&nbsp;como a un node.js. Se le ve mucho color&lt;/p&gt;
-&lt;p&gt;Patxi nuestro vvvv nos conto las&nbsp;incre&iacute;bles&nbsp;posibilidades del sistema para crear clusters con, boysgroups. Y este es el ejemplo que hicimos:&lt;/p&gt;
-&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;390&quot; src=&quot;http://www.youtube.com/embed/xeLUKd1NFxg&quot; title=&quot;YouTube video player&quot; width=&quot;480&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>

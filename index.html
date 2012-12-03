@@ -33,6 +33,42 @@
     <div id="content">
       <article class="post">
         <header>
+          <h2><a href="/articles/fotomaratoia/">Fotomaratoia html5</a></h2>
+          <p><span class="author">karlos g liberal</span>
+          </p>
+        </header>
+        <section class="content"><p>Proyecto basado en el proyecto <a href="https://raw.github.com/rwldrn/dmv/">dvm</a> que como ponen en su descripción es esto: 
+Node.js powered, Jitsu Hosted, WebRTC connected, 100% JavaScript, Camera &gt; Web &gt; Server Photobooth-style image capture program.
+
+</p>
+<p>La idea del proyecto ha sido crear un fotomatón haciendo uso de la camara de la maquina mediante <a href="http://www.html5rocks.com/en/tutorials/getusermedia/intro/">html5</a> que almacene las fotos en el servidor <a href="http://nodejs.org">nodejs</a> pudiendolas mandar por correo <a href="http://www.nodemailer.com/">nodemailer</a> y que se pudiera hacer un chroma key en el fondo para surtituirlo el chroma por las fotos (en este caso del evento <a href="http://xare.eu">xare.eu</a> que es el que nos hizo el encargo) el chroma key lo hemos ralizado con <a href="http://seriouslyjs.org">seriouslyjs.org</a> un proyecto brutal
+
+
+</p>
+<p>El código es puro spaghetti western. Un día aprendere que la cocina japo mola mas con su rollo lean pero por ahora todo me sale rollo italiano. 
+
+</p>
+<p>En la <a href="http://fotomaratoia.interzonas.info">demo</a> el colorpicker permite elegir el color del chroma key, y cuando se pulsa a las imagenes se activa el chroma y los sustituye por la imagen elegida. Mediate <a href="http://http://socket.io/">socket.io</a> mandamos al servidor tanto el buffer con la imagen del canvas modificada por seriously así como la info del correo. 
+
+</p>
+<p>Este es el resultado:
+
+</p>
+<p><img src="http://blog.elfilo.net/articles/fotomaratoia/fotomaton_xare.jpg" alt="fotomaton_xare">
+
+</p>
+<p>Para cualquier cosa <a href="http://twitter.com/patxangas">@patxangas</a>
+<a href="http://twitter.com/aitor_rl">@aitor_rl</a> se ha currado el diseño y que todo se vea en su sitio
+y <a href="http://www.elurmaluta.net">txo</a> de <a href="http://eragin.com">eragin.com</a> responsables del evento es el diseñador de las imágenes.
+
+
+</p>
+<p>Funciona con estos navegadores: <a href="http://tools.google.com/dlpage/chromesxs">Canary</a>, <a href="http://dev.opera.com/articles/view/labs-more-fun-using-the-web-with-getusermedia-and-native-pages/">Opera</a> and <a href="http://my.opera.com/chooseopera/blog/2012/02/27/opera-mini-7-next-and-opera-mobile-12">Opera Mobile 12</a>. <a href="http://weblog.bocoup.com/javascript-webrtc-opera-mobile-12/">Read More</a>
+</p>
+</section>
+      </article>
+      <article class="post">
+        <header>
           <h2><a href="/articles/drupalcamp-2012/">Drupalcamp 2012 impresiones</a></h2>
           <p><span class="author">karlos g liberal</span>
           </p>

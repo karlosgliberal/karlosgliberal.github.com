@@ -5,37 +5,9 @@
     <atom:link href="http://blog.elfilo.net/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://blog.elfilo.net</link>
     <description>Trozos de imaginería cultural profunda que se ha desprendido y adquirido vida propia</description>
-    <pubDate>Mon, 11 Apr 2011 15:00:00 +0200</pubDate>
+    <pubDate>Mon, 23 Jul 2012 22:00:00 +0200</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
-    <item>
-      <title>Arduino controlando un servo mediante node.js</title>
-      <link>http://blog.elfilo.net/articles/arduino-serve-nodejs/</link>
-      <pubDate>Mon, 11 Apr 2011 15:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://blog.elfilo.net/articles/arduino-serve-nodejs/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;p&gt;Que node.js empieza ha ser un entorno muy poderoso empieza ha estar claro, el motor v8 es poderoso y la pe&ntilde;a le esta sacando chispas &nbsp;por lo menos en el contexto de node.js&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;En este caso para una &quot;frikada&quot; casera se me ocurrio sacar mi vieja placa de arduinio y ver si podia mover un servo (tambi&eacute;n viejo) y en un ctrl+tab tonto de dispersion, se&nbsp;encendi&oacute;&nbsp;la bombilla &iquest;y si se puede usar node.js para controlar el servo? entoces &iquest;habr&aacute; alg&uacute;n modulo que trabaje con el puerto seri&eacute;? Node.js empieza ha ser como drupal, siempre hay alguien que lo ha probado, creado o mejorado.&nbsp;&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;&lt;a href=&quot; https://github.com/voodootikigod/node-serialport&quot; title=&quot; https://github.com/voodootikigod/node-serialport&quot;&gt;&lt;a href=&quot;https://github.com/voodootikigod/node-serialport&lt;/a&gt;&lt;/p&gt;&quot;&gt;https://github.com/voodootikigod/node-serialport&lt;/a&gt;&lt;/p&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Este es el modulo instalaci&oacute;n cl&aacute;sica con npm:&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;&lt;code&gt;npm install serialport&lt;/code&gt;&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;y mus :)&nbsp;&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;El resultado se puede ver en el v&iacute;deo, sencillo control con un slide de jquery.ui&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;390&quot; src=&quot;http://www.youtube.com/embed/LnJBZPeDbtE&quot; title=&quot;YouTube video player&quot; width=&quot;480&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Pego el c&oacute;digo en un gist, ya que no es mas que una pruba
-&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
-&lt;/p&gt;
-&lt;script src=&quot;https://gist.github.com/901812.js&quot;&gt; &lt;/script&gt;
-</description>
-    </item>
     <item>
       <title>Cambio de blog WinterSmith es mi colega</title>
       <link>http://blog.elfilo.net/articles/cambio-blog-wintersmith/</link>
@@ -87,6 +59,34 @@ $ wintersmith preview&lt;/code&gt;&lt;/pre&gt;
 
 
 &lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Arduino controlando un servo mediante node.js</title>
+      <link>http://blog.elfilo.net/articles/arduino-serve-nodejs/</link>
+      <pubDate>Mon, 11 Apr 2011 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/arduino-serve-nodejs/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;p&gt;Que node.js empieza ha ser un entorno muy poderoso empieza ha estar claro, el motor v8 es poderoso y la pe&ntilde;a le esta sacando chispas &nbsp;por lo menos en el contexto de node.js&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;En este caso para una &quot;frikada&quot; casera se me ocurrio sacar mi vieja placa de arduinio y ver si podia mover un servo (tambi&eacute;n viejo) y en un ctrl+tab tonto de dispersion, se&nbsp;encendi&oacute;&nbsp;la bombilla &iquest;y si se puede usar node.js para controlar el servo? entoces &iquest;habr&aacute; alg&uacute;n modulo que trabaje con el puerto seri&eacute;? Node.js empieza ha ser como drupal, siempre hay alguien que lo ha probado, creado o mejorado.&nbsp;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href=&quot; https://github.com/voodootikigod/node-serialport&quot; title=&quot; https://github.com/voodootikigod/node-serialport&quot;&gt;&lt;a href=&quot;https://github.com/voodootikigod/node-serialport&lt;/a&gt;&lt;/p&gt;&quot;&gt;https://github.com/voodootikigod/node-serialport&lt;/a&gt;&lt;/p&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Este es el modulo instalaci&oacute;n cl&aacute;sica con npm:&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;code&gt;npm install serialport&lt;/code&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;y mus :)&nbsp;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;El resultado se puede ver en el v&iacute;deo, sencillo control con un slide de jquery.ui&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;390&quot; src=&quot;http://www.youtube.com/embed/LnJBZPeDbtE&quot; title=&quot;YouTube video player&quot; width=&quot;480&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Pego el c&oacute;digo en un gist, ya que no es mas que una pruba
+&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/901812.js&quot;&gt; &lt;/script&gt;
 </description>
     </item>
     <item>
@@ -189,6 +189,9 @@ Node.js powered, Jitsu Hosted, WebRTC connected, 100% JavaScript, Camera &gt; We
 
 &lt;/p&gt;
 &lt;p&gt;La idea del proyecto ha sido crear un fotomatón haciendo uso de la cámara de la máquina mediante &lt;a href=&quot;http://www.html5rocks.com/en/tutorials/getusermedia/intro/&quot;&gt;html5&lt;/a&gt; que almacene las fotos en el servidor &lt;a href=&quot;http://nodejs.org&quot;&gt;nodejs&lt;/a&gt; pudiendolas mandar por correo &lt;a href=&quot;http://www.nodemailer.com/&quot;&gt;nodemailer&lt;/a&gt; y que se pudiera hacer un chroma key en el fondo para surtituirlo el chroma por las fotos (en este caso del evento &lt;a href=&quot;http://xare.eu&quot;&gt;xare.eu&lt;/a&gt;. Que es el que nos hizo el encargo). El chroma key lo hemos realizado con &lt;a href=&quot;http://seriouslyjs.org&quot;&gt;seriouslyjs.org&lt;/a&gt;. un proyecto brutal
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://blog.elfilo.net/articles/fotomaratoia/fotomratoia.jpg&quot; alt=&quot;fotomaratoia&quot;&gt;
 
 &lt;/p&gt;
 &lt;p&gt;El código es puro spaghetti western. Un día aprenderé que la cocina japo mola más con su rollo lean, pero por ahora todo me sale rollo italiano. 

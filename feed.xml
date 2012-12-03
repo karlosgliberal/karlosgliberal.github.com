@@ -181,29 +181,35 @@ Codigo de la charla &lt;a href=&quot;https://github.com/karlosgliberal/charla_no
       <pubDate>Mon, 03 Dec 2012 15:00:00 +0100</pubDate>
       <guid isPermaLink="true">http://blog.elfilo.net/articles/fotomaratoia/</guid>
       <author></author>
-      <description>&lt;p&gt;Proyecto basado en el proyecto &lt;a href=&quot;https://raw.github.com/rwldrn/dmv/&quot;&gt;dvm&lt;/a&gt; que como ponen en su descripción es esto: 
+      <description>&lt;p&gt;Demo: &lt;a href=&quot;http://blog.elfilo.net/articles/fotomaratoia/fotomaratoia.interzonas.info&quot;&gt;fotomaratoia.interzonas.info&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Proyecto basado en el proyecto &lt;a href=&quot;https://raw.github.com/rwldrn/dmv/&quot;&gt;dvm&lt;/a&gt; que como ponen en su descripción es esto: 
 Node.js powered, Jitsu Hosted, WebRTC connected, 100% JavaScript, Camera &gt; Web &gt; Server Photobooth-style image capture program.
 
 &lt;/p&gt;
-&lt;p&gt;La idea del proyecto ha sido crear un fotomatón haciendo uso de la camara de la maquina mediante &lt;a href=&quot;http://www.html5rocks.com/en/tutorials/getusermedia/intro/&quot;&gt;html5&lt;/a&gt; que almacene las fotos en el servidor &lt;a href=&quot;http://nodejs.org&quot;&gt;nodejs&lt;/a&gt; pudiendolas mandar por correo &lt;a href=&quot;http://www.nodemailer.com/&quot;&gt;nodemailer&lt;/a&gt; y que se pudiera hacer un chroma key en el fondo para surtituirlo el chroma por las fotos (en este caso del evento &lt;a href=&quot;http://xare.eu&quot;&gt;xare.eu&lt;/a&gt; que es el que nos hizo el encargo) el chroma key lo hemos ralizado con &lt;a href=&quot;http://seriouslyjs.org&quot;&gt;seriouslyjs.org&lt;/a&gt; un proyecto brutal
-
-
-&lt;/p&gt;
-&lt;p&gt;El código es puro spaghetti western. Un día aprendere que la cocina japo mola mas con su rollo lean pero por ahora todo me sale rollo italiano. 
+&lt;p&gt;La idea del proyecto ha sido crear un fotomatón haciendo uso de la cámara de la máquina mediante &lt;a href=&quot;http://www.html5rocks.com/en/tutorials/getusermedia/intro/&quot;&gt;html5&lt;/a&gt; que almacene las fotos en el servidor &lt;a href=&quot;http://nodejs.org&quot;&gt;nodejs&lt;/a&gt; pudiendolas mandar por correo &lt;a href=&quot;http://www.nodemailer.com/&quot;&gt;nodemailer&lt;/a&gt; y que se pudiera hacer un chroma key en el fondo para surtituirlo el chroma por las fotos (en este caso del evento &lt;a href=&quot;http://xare.eu&quot;&gt;xare.eu&lt;/a&gt;. Que es el que nos hizo el encargo). El chroma key lo hemos realizado con &lt;a href=&quot;http://seriouslyjs.org&quot;&gt;seriouslyjs.org&lt;/a&gt;. un proyecto brutal
 
 &lt;/p&gt;
-&lt;p&gt;En la &lt;a href=&quot;http://fotomaratoia.interzonas.info&quot;&gt;demo&lt;/a&gt; el colorpicker permite elegir el color del chroma key, y cuando se pulsa a las imagenes se activa el chroma y los sustituye por la imagen elegida. Mediate &lt;a href=&quot;http://http://socket.io/&quot;&gt;socket.io&lt;/a&gt; mandamos al servidor tanto el buffer con la imagen del canvas modificada por seriously así como la info del correo. 
+&lt;p&gt;El código es puro spaghetti western. Un día aprenderé que la cocina japo mola más con su rollo lean, pero por ahora todo me sale rollo italiano. 
 
 &lt;/p&gt;
-&lt;p&gt;Este es el resultado:
+&lt;p&gt;En la &lt;a href=&quot;http://fotomaratoia.interzonas.info&quot;&gt;demo&lt;/a&gt; el colorpicker permite elegir el color del chroma key y cuando se pulsa a las imágenes se activa el chroma y los sustituye por la imagen elegida. Mediate &lt;a href=&quot;http://http://socket.io/&quot;&gt;socket.io&lt;/a&gt; mandamos al servidor tanto el buffer con la imagen del canvas modificada por seriously, así como la info del correo. 
+
+&lt;/p&gt;
+&lt;p&gt;Este es un collage con las fotos de evento:
 
 &lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://blog.elfilo.net/articles/fotomaratoia/fotomaton_xare.jpg&quot; alt=&quot;fotomaton_xare&quot;&gt;
 
 &lt;/p&gt;
-&lt;p&gt;Para cualquier cosa &lt;a href=&quot;http://twitter.com/patxangas&quot;&gt;@patxangas&lt;/a&gt;
-&lt;a href=&quot;http://twitter.com/aitor_rl&quot;&gt;@aitor_rl&lt;/a&gt; se ha currado el diseño y que todo se vea en su sitio
-y &lt;a href=&quot;http://www.elurmaluta.net&quot;&gt;txo&lt;/a&gt; de &lt;a href=&quot;http://eragin.com&quot;&gt;eragin.com&lt;/a&gt; responsables del evento es el diseñador de las imágenes.
+&lt;p&gt;Para cualquier duda podes conmigo (&lt;a href=&quot;http://twitter.com/patxangas&quot;&gt;@patxangas&lt;/a&gt;).
+
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/aitor_rl&quot;&gt;@aitor_rl&lt;/a&gt; se ha currado el diseño y que todo se vea en su sitio.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.elurmaluta.net&quot;&gt;txo&lt;/a&gt; de &lt;a href=&quot;http://eragin.com&quot;&gt;eragin.com&lt;/a&gt;, responsables del evento, es el diseñador de las imágenes.
 
 
 &lt;/p&gt;

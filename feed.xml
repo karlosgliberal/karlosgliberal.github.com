@@ -37,84 +37,6 @@
 </description>
     </item>
     <item>
-      <title>Cambio de blog WinterSmith es mi colega</title>
-      <link>http://blog.elfilo.net/articles/cambio-blog-wintersmith/</link>
-      <pubDate>Mon, 23 Jul 2012 22:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://blog.elfilo.net/articles/cambio-blog-wintersmith/</guid>
-      <author></author>
-      <description>&lt;p&gt;La peña suele mantener con mucho gusto sus blogs. Los miman y cuentan cuantas entradas tienen, cuentos comentarios y hists, este no es mi caso. Yo podría hacer lo mismo pero con blogs en vez de con posts. Es lo que tiene, cada poco me aburro del que tenia, y me monto uno nuevo. Creo que lo hago con la excusa de que este si este será el blog definitivo donde escribiré muchas post. Las excusas son muchas:
-
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ya no me gusta wordpress&lt;/li&gt;
-&lt;li&gt;Es que con drupal trabajo todos los días &lt;/li&gt;
-&lt;li&gt;El diseño es muy feo. &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Sea como sea lo he vuelto ha hacer. Pero en este caso, en serio, este será el definitivo, lo prometo XD
-
-&lt;/p&gt;
-&lt;p&gt;Los motivos para cambiar de blog (excusas) son que en el blog &lt;a href=&quot;http://www.investic.net/blog/karlos/&quot;&gt;karlos-investic&lt;/a&gt; no tiene mucho sentido andar creando nuevas entradas,  y por supuesto la más importante yo quiero ser &quot;guay&quot; y quiero tener mi blog en &lt;a href=&quot;http://pages.github.com/&quot;&gt;github&lt;/a&gt;. 
-
-&lt;/p&gt;
-&lt;p&gt;Como no podía ser de otra manera empece con &lt;a href=&quot;http://octopress.org/&quot;&gt;&lt;a href=&quot;http://octopress.org/&quot;&gt;http://octopress.org/&lt;/a&gt;&lt;/a&gt; pero ya que usaba una herramienta hacker  por qué no usar una herramienta &quot;hacker, hacker de verdad&quot;. Octopress es una caña mola mucho, te creas un markdown y luego con un push al github tienes el post creado, pero resulta que en &lt;a href=&quot;http://nodejs.com&quot;&gt;nodejs&lt;/a&gt; existe una herramienta similar (bueno siendo sinceros un poquito mas sencilla que octopress)
-
-&lt;/p&gt;
-&lt;h3&gt;wintersmith&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;http://jnordberg.github.com/wintersmith/&quot;&gt;wintersmith&lt;/a&gt; Es un sistema muy flexible para la generación de páginas html es curioso como funciona. 
-
-&lt;/p&gt;
-&lt;p&gt;Para instalarlos es simple, tener instalado &lt;a href=&quot;http://npmjs.org/&quot;&gt;npm&lt;/a&gt; y seguir estos comandos:
-
-&lt;/p&gt;
-&lt;p&gt;Instalar wintersmith
-
-&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ npm install wintersmith -g&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Crear nuevo sitio (crear un sitio de ejemplo a modo de blog)
-
-&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ wintersmith &lt;span class=&quot;keyword&quot;&gt;new&lt;/span&gt; &lt;path&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Visualizar el sitio base creado por wintersmith en el directorio articles/ están los index.md donde se crean los posts
-
-&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ cd &lt;path&gt;
-$ wintersmith preview&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Y por último generar los htmls 
-
-&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ wintersmith build&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Espermos que este sea uno de una larga lista de entradas de post
-
-
-&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Charla Visualabs Kabia</title>
-      <link>http://blog.elfilo.net/articles/charla_visualabs/</link>
-      <pubDate>Mon, 13  Aug 2012 16:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://blog.elfilo.net/articles/charla_visualabs/</guid>
-      <author></author>
-      <description>&lt;p&gt;Este Viernes se presentaron en &lt;a href=&quot;http://kabia.errenteria.net/&quot;&gt;&lt;a href=&quot;http://kabia.errenteria.net/&quot;&gt;http://kabia.errenteria.net/&lt;/a&gt;&lt;/a&gt; las residencias que se han ido trabajando en los previos del &lt;a href=&quot;http://summeroflabs.eu&quot;&gt;Summer of labs&lt;/a&gt; 
-
-&lt;/p&gt;
-&lt;p&gt;También era el pistoletazo de salido del Summeroflabs @euskadi y buena escusa para contar que habíamos estado haciendo en la residencia
-
-&lt;/p&gt;
-&lt;p&gt;En mi caso me toco exponer una presentación introductoria sobre la visualización de datos. 
-Prepare una charla sencilla, para todo los publicos
-
-&lt;/p&gt;
-&lt;p&gt;Aquí se puede ver la charla: &lt;a href=&quot;http://blog.elfilo.net/charla_visualabs/#/&quot;&gt;&lt;a href=&quot;http://blog.elfilo.net/charla_visualabs/&quot;&gt;http://blog.elfilo.net/charla_visualabs/&lt;/a&gt;&lt;/a&gt;
-Y aquí se puede descargar: &lt;a href=&quot;https://github.com/karlosgliberal/charla_visualabs&quot;&gt;&lt;a href=&quot;https://github.com/karlosgliberal/charla_visualabs&quot;&gt;https://github.com/karlosgliberal/charla_visualabs&lt;/a&gt;&lt;/a&gt;
-
-&lt;/p&gt;
-&lt;p&gt;Espero ir completándola, sobre todo con referencias y con las cosas que salgan en claro del Summeroflabs
-
-&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Drupalcamp 2012 impresiones</title>
       <link>http://blog.elfilo.net/articles/drupalcamp-2012/</link>
       <pubDate>Fri, 26 Oct 2012 15:00:00 +0200</pubDate>
@@ -176,47 +98,27 @@ Codigo de la charla &lt;a href=&quot;https://github.com/karlosgliberal/charla_no
 </description>
     </item>
     <item>
-      <title>Fotomaratoia html5</title>
-      <link>http://blog.elfilo.net/articles/fotomaratoia/</link>
-      <pubDate>Mon, 03 Dec 2012 15:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://blog.elfilo.net/articles/fotomaratoia/</guid>
+      <title>Charla Visualabs Kabia</title>
+      <link>http://blog.elfilo.net/articles/charla_visualabs/</link>
+      <pubDate>Mon, 13  Aug 2012 16:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/charla_visualabs/</guid>
       <author></author>
-      <description>&lt;p&gt;Demo: &lt;a href=&quot;http://fotomaratoia.interzonas.info&quot;&gt;fotomaratoia.interzonas.info&lt;/a&gt;
+      <description>&lt;p&gt;Este Viernes se presentaron en &lt;a href=&quot;http://kabia.errenteria.net/&quot;&gt;&lt;a href=&quot;http://kabia.errenteria.net/&quot;&gt;http://kabia.errenteria.net/&lt;/a&gt;&lt;/a&gt; las residencias que se han ido trabajando en los previos del &lt;a href=&quot;http://summeroflabs.eu&quot;&gt;Summer of labs&lt;/a&gt; 
 
 &lt;/p&gt;
-&lt;p&gt;Proyecto basado en el proyecto &lt;a href=&quot;https://raw.github.com/rwldrn/dmv/&quot;&gt;dvm&lt;/a&gt; que como ponen en su descripción es esto: 
-Node.js powered, Jitsu Hosted, WebRTC connected, 100% JavaScript, Camera &gt; Web &gt; Server Photobooth-style image capture program.
+&lt;p&gt;También era el pistoletazo de salido del Summeroflabs @euskadi y buena escusa para contar que habíamos estado haciendo en la residencia
 
 &lt;/p&gt;
-&lt;p&gt;La idea del proyecto ha sido crear un fotomatón haciendo uso de la cámara de la máquina mediante &lt;a href=&quot;http://www.html5rocks.com/en/tutorials/getusermedia/intro/&quot;&gt;html5&lt;/a&gt; que almacene las fotos en el servidor &lt;a href=&quot;http://nodejs.org&quot;&gt;nodejs&lt;/a&gt; pudiendolas mandar por correo &lt;a href=&quot;http://www.nodemailer.com/&quot;&gt;nodemailer&lt;/a&gt; y que se pudiera hacer un chroma key en el fondo para surtituirlo el chroma por las fotos (en este caso del evento &lt;a href=&quot;http://xare.eu&quot;&gt;xare.eu&lt;/a&gt;. Que es el que nos hizo el encargo). El chroma key lo hemos realizado con &lt;a href=&quot;http://seriouslyjs.org&quot;&gt;seriouslyjs.org&lt;/a&gt;. un proyecto brutal
+&lt;p&gt;En mi caso me toco exponer una presentación introductoria sobre la visualización de datos. 
+Prepare una charla sencilla, para todo los publicos
 
 &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://blog.elfilo.net/articles/fotomaratoia/fotomratoia.jpg&quot; alt=&quot;fotomaratoia&quot;&gt;
+&lt;p&gt;Aquí se puede ver la charla: &lt;a href=&quot;http://blog.elfilo.net/charla_visualabs/#/&quot;&gt;&lt;a href=&quot;http://blog.elfilo.net/charla_visualabs/&quot;&gt;http://blog.elfilo.net/charla_visualabs/&lt;/a&gt;&lt;/a&gt;
+Y aquí se puede descargar: &lt;a href=&quot;https://github.com/karlosgliberal/charla_visualabs&quot;&gt;&lt;a href=&quot;https://github.com/karlosgliberal/charla_visualabs&quot;&gt;https://github.com/karlosgliberal/charla_visualabs&lt;/a&gt;&lt;/a&gt;
 
 &lt;/p&gt;
-&lt;p&gt;El código es puro spaghetti western. Un día aprenderé que la cocina japo mola más con su rollo lean, pero por ahora todo me sale rollo italiano. 
+&lt;p&gt;Espero ir completándola, sobre todo con referencias y con las cosas que salgan en claro del Summeroflabs
 
-&lt;/p&gt;
-&lt;p&gt;En la &lt;a href=&quot;http://fotomaratoia.interzonas.info&quot;&gt;demo&lt;/a&gt; el colorpicker permite elegir el color del chroma key y cuando se pulsa a las imágenes se activa el chroma y los sustituye por la imagen elegida. Mediate &lt;a href=&quot;http://http://socket.io/&quot;&gt;socket.io&lt;/a&gt; mandamos al servidor tanto el buffer con la imagen del canvas modificada por seriously, así como la info del correo. 
-
-&lt;/p&gt;
-&lt;p&gt;Este es un collage con las fotos de evento:
-
-&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://blog.elfilo.net/articles/fotomaratoia/fotomaton_xare.jpg&quot; alt=&quot;fotomaton_xare&quot;&gt;
-
-&lt;/p&gt;
-&lt;p&gt;Para cualquier duda podes conmigo (&lt;a href=&quot;http://twitter.com/patxangas&quot;&gt;@patxangas&lt;/a&gt;).
-
-&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://twitter.com/aitor_rl&quot;&gt;@aitor_rl&lt;/a&gt; se ha currado el diseño y que todo se vea en su sitio.
-
-&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.elurmaluta.net&quot;&gt;txo&lt;/a&gt; de &lt;a href=&quot;http://eragin.com&quot;&gt;eragin.com&lt;/a&gt;, responsables del evento, es el diseñador de las imágenes.
-
-
-&lt;/p&gt;
-&lt;p&gt;Funciona con estos navegadores: &lt;a href=&quot;http://tools.google.com/dlpage/chromesxs&quot;&gt;Canary&lt;/a&gt;, &lt;a href=&quot;http://dev.opera.com/articles/view/labs-more-fun-using-the-web-with-getusermedia-and-native-pages/&quot;&gt;Opera&lt;/a&gt; and &lt;a href=&quot;http://my.opera.com/chooseopera/blog/2012/02/27/opera-mini-7-next-and-opera-mobile-12&quot;&gt;Opera Mobile 12&lt;/a&gt;. &lt;a href=&quot;http://weblog.bocoup.com/javascript-webrtc-opera-mobile-12/&quot;&gt;Read More&lt;/a&gt;
 &lt;/p&gt;
 </description>
     </item>
@@ -295,6 +197,52 @@ Por ejemplo puedes añadir en tu servidor un html (con su javascript) y esto pue
 </description>
     </item>
     <item>
+      <title>Fotomaratoia html5</title>
+      <link>http://blog.elfilo.net/articles/fotomaratoia/</link>
+      <pubDate>Mon, 03 Dec 2012 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/fotomaratoia/</guid>
+      <author></author>
+      <description>&lt;p&gt;Demo: &lt;a href=&quot;http://fotomaratoia.interzonas.info&quot;&gt;fotomaratoia.interzonas.info&lt;/a&gt;
+Codigo: &lt;a href=&quot;https://github.com/karlosgliberal/fotomaraton&quot;&gt;github.com/karlosgliberal/fotomaraton&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Proyecto basado en el proyecto &lt;a href=&quot;https://raw.github.com/rwldrn/dmv/&quot;&gt;dvm&lt;/a&gt; que como ponen en su descripción es esto: 
+Node.js powered, Jitsu Hosted, WebRTC connected, 100% JavaScript, Camera &gt; Web &gt; Server Photobooth-style image capture program.
+
+&lt;/p&gt;
+&lt;p&gt;La idea del proyecto ha sido crear un fotomatón haciendo uso de la cámara de la máquina mediante &lt;a href=&quot;http://www.html5rocks.com/en/tutorials/getusermedia/intro/&quot;&gt;html5&lt;/a&gt; que almacene las fotos en el servidor &lt;a href=&quot;http://nodejs.org&quot;&gt;nodejs&lt;/a&gt; pudiendolas mandar por correo &lt;a href=&quot;http://www.nodemailer.com/&quot;&gt;nodemailer&lt;/a&gt; y que se pudiera hacer un chroma key en el fondo para surtituirlo el chroma por las fotos (en este caso del evento &lt;a href=&quot;http://xare.eu&quot;&gt;xare.eu&lt;/a&gt;. Que es el que nos hizo el encargo). El chroma key lo hemos realizado con &lt;a href=&quot;http://seriouslyjs.org&quot;&gt;seriouslyjs.org&lt;/a&gt;. un proyecto brutal
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://blog.elfilo.net/articles/fotomaratoia/fotomratoia.jpg&quot; alt=&quot;fotomaratoia&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;El código es puro spaghetti western. Un día aprenderé que la cocina japo mola más con su rollo lean, pero por ahora todo me sale rollo italiano. 
+
+&lt;/p&gt;
+&lt;p&gt;En la &lt;a href=&quot;http://fotomaratoia.interzonas.info&quot;&gt;demo&lt;/a&gt; el colorpicker permite elegir el color del chroma key y cuando se pulsa a las imágenes se activa el chroma y los sustituye por la imagen elegida. Mediate &lt;a href=&quot;http://http://socket.io/&quot;&gt;socket.io&lt;/a&gt; mandamos al servidor tanto el buffer con la imagen del canvas modificada por seriously, así como la info del correo. 
+
+&lt;/p&gt;
+&lt;p&gt;Este es un collage con las fotos de evento:
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://blog.elfilo.net/articles/fotomaratoia/fotomaton_xare.jpg&quot; alt=&quot;fotomaton_xare&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Para cualquier duda podes conmigo (&lt;a href=&quot;http://twitter.com/patxangas&quot;&gt;@patxangas&lt;/a&gt;).
+
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/aitor_rl&quot;&gt;@aitor_rl&lt;/a&gt; se ha currado el diseño y que todo se vea en su sitio.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.elurmaluta.net&quot;&gt;txo&lt;/a&gt; de &lt;a href=&quot;http://eragin.com&quot;&gt;eragin.com&lt;/a&gt;, responsables del evento, es el diseñador de las imágenes.
+
+
+&lt;/p&gt;
+&lt;p&gt;Funciona con estos navegadores: &lt;a href=&quot;http://tools.google.com/dlpage/chromesxs&quot;&gt;Canary&lt;/a&gt;, &lt;a href=&quot;http://dev.opera.com/articles/view/labs-more-fun-using-the-web-with-getusermedia-and-native-pages/&quot;&gt;Opera&lt;/a&gt; and &lt;a href=&quot;http://my.opera.com/chooseopera/blog/2012/02/27/opera-mini-7-next-and-opera-mobile-12&quot;&gt;Opera Mobile 12&lt;/a&gt;. &lt;a href=&quot;http://weblog.bocoup.com/javascript-webrtc-opera-mobile-12/&quot;&gt;Read More&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Primeras pruebas con los datos abiertos de http://opendata.navarra.es</title>
       <link>http://blog.elfilo.net/articles/primeras-pruebas-opendata/</link>
       <pubDate>Thu, 01 Sep 2011 15:00:00 +0200</pubDate>
@@ -319,6 +267,72 @@ Por ejemplo puedes añadir en tu servidor un html (con su javascript) y esto pue
 &lt;p&gt;&lt;p&gt;Una vez realizada el mapa se puede exportar en png, pdf, o en &lt;a href=&quot;http://mapbox.com/documentation/mbtiles-file-formath.org/&quot;&gt;@developmentseed&lt;/a&gt; basado en sqlite3 una ca&ntilde;a vamos.&nbsp;&lt;/p&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;p&gt;Estoy en modo pruebas seguire contando.&lt;/p&gt;&quot;
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Teknotrakitana, jugando con VVVV y osc</title>
+      <link>http://blog.elfilo.net/articles/teknotrakintana/</link>
+      <pubDate>Fri, 01 Apr 2011 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/teknotrakintana/</guid>
+      <author></author>
+      <description>&lt;p&gt;Este viernes volvimos a juntarnos los &quot;teknotrakitanos&quot; (un dia de esto explicare de donde viene el nombre). En su&nbsp;&lt;a href=&quot;http://karlosgliberal.investic.net/blog/teknotrakitana-laboratorio-para-experimentar-con-la-creaci%C3%B3n-art%C3%ADstica-visual&quot; title=&quot;tekotrakitanos&quot;&gt;momento&lt;/a&gt;&nbsp;ya conte cual era nuestra intenci&oacute;n con estas quedadas. Ahora andamos intentando darle mas forma, buscando algo &quot;concreto&quot; para hacer, pero bueno eso cuando este ya lo contaremos.&lt;/p&gt;
+&lt;p&gt;En esta quedada hablamos con lo que cada uno esta jugando y nos&nbsp;encontramos&nbsp;con un denominador com&uacute;n &lt;a href=&quot;http://goo.gl/ZFrT1&quot; title=&quot;osc&quot;&gt;OSC&lt;/a&gt;.&nbsp; Open sound control es un protocolo multimedia que tiene como intenci&oacute;n mejorar las carencias del midi.Lo cierto es que su versatilidad es brutal.&lt;/p&gt;
+&lt;p&gt;Nosotros parte del rato lo dedicamos a conectar en &quot;serie&quot; distintos dispositivos con osc, al VVVV al touchosc del ipad y de un android&nbsp;as&iacute;&nbsp;como a un node.js. Se le ve mucho color&lt;/p&gt;
+&lt;p&gt;Patxi nuestro vvvv nos conto las&nbsp;incre&iacute;bles&nbsp;posibilidades del sistema para crear clusters con, boysgroups. Y este es el ejemplo que hicimos:&lt;/p&gt;
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;390&quot; src=&quot;http://www.youtube.com/embed/xeLUKd1NFxg&quot; title=&quot;YouTube video player&quot; width=&quot;480&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Cambio de blog WinterSmith es mi colega</title>
+      <link>http://blog.elfilo.net/articles/cambio-blog-wintersmith/</link>
+      <pubDate>Mon, 23 Jul 2012 22:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/cambio-blog-wintersmith/</guid>
+      <author></author>
+      <description>&lt;p&gt;La peña suele mantener con mucho gusto sus blogs. Los miman y cuentan cuantas entradas tienen, cuentos comentarios y hists, este no es mi caso. Yo podría hacer lo mismo pero con blogs en vez de con posts. Es lo que tiene, cada poco me aburro del que tenia, y me monto uno nuevo. Creo que lo hago con la excusa de que este si este será el blog definitivo donde escribiré muchas post. Las excusas son muchas:
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ya no me gusta wordpress&lt;/li&gt;
+&lt;li&gt;Es que con drupal trabajo todos los días &lt;/li&gt;
+&lt;li&gt;El diseño es muy feo. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sea como sea lo he vuelto ha hacer. Pero en este caso, en serio, este será el definitivo, lo prometo XD
+
+&lt;/p&gt;
+&lt;p&gt;Los motivos para cambiar de blog (excusas) son que en el blog &lt;a href=&quot;http://www.investic.net/blog/karlos/&quot;&gt;karlos-investic&lt;/a&gt; no tiene mucho sentido andar creando nuevas entradas,  y por supuesto la más importante yo quiero ser &quot;guay&quot; y quiero tener mi blog en &lt;a href=&quot;http://pages.github.com/&quot;&gt;github&lt;/a&gt;. 
+
+&lt;/p&gt;
+&lt;p&gt;Como no podía ser de otra manera empece con &lt;a href=&quot;http://octopress.org/&quot;&gt;&lt;a href=&quot;http://octopress.org/&quot;&gt;http://octopress.org/&lt;/a&gt;&lt;/a&gt; pero ya que usaba una herramienta hacker  por qué no usar una herramienta &quot;hacker, hacker de verdad&quot;. Octopress es una caña mola mucho, te creas un markdown y luego con un push al github tienes el post creado, pero resulta que en &lt;a href=&quot;http://nodejs.com&quot;&gt;nodejs&lt;/a&gt; existe una herramienta similar (bueno siendo sinceros un poquito mas sencilla que octopress)
+
+&lt;/p&gt;
+&lt;h3&gt;wintersmith&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://jnordberg.github.com/wintersmith/&quot;&gt;wintersmith&lt;/a&gt; Es un sistema muy flexible para la generación de páginas html es curioso como funciona. 
+
+&lt;/p&gt;
+&lt;p&gt;Para instalarlos es simple, tener instalado &lt;a href=&quot;http://npmjs.org/&quot;&gt;npm&lt;/a&gt; y seguir estos comandos:
+
+&lt;/p&gt;
+&lt;p&gt;Instalar wintersmith
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ npm install wintersmith -g&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Crear nuevo sitio (crear un sitio de ejemplo a modo de blog)
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ wintersmith &lt;span class=&quot;keyword&quot;&gt;new&lt;/span&gt; &lt;path&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Visualizar el sitio base creado por wintersmith en el directorio articles/ están los index.md donde se crean los posts
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ cd &lt;path&gt;
+$ wintersmith preview&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Y por último generar los htmls 
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ wintersmith build&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Espermos que este sea uno de una larga lista de entradas de post
+
+
 &lt;/p&gt;
 </description>
     </item>
@@ -361,19 +375,6 @@ Por ejemplo puedes añadir en tu servidor un html (con su javascript) y esto pue
 &lt;p&gt;En posteriores post profundizare con cada uno de los elementos que hemos usado.
 
 &lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Teknotrakitana, jugando con VVVV y osc</title>
-      <link>http://blog.elfilo.net/articles/teknotrakintana/</link>
-      <pubDate>Fri, 01 Apr 2011 15:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://blog.elfilo.net/articles/teknotrakintana/</guid>
-      <author></author>
-      <description>&lt;p&gt;Este viernes volvimos a juntarnos los &quot;teknotrakitanos&quot; (un dia de esto explicare de donde viene el nombre). En su&nbsp;&lt;a href=&quot;http://karlosgliberal.investic.net/blog/teknotrakitana-laboratorio-para-experimentar-con-la-creaci%C3%B3n-art%C3%ADstica-visual&quot; title=&quot;tekotrakitanos&quot;&gt;momento&lt;/a&gt;&nbsp;ya conte cual era nuestra intenci&oacute;n con estas quedadas. Ahora andamos intentando darle mas forma, buscando algo &quot;concreto&quot; para hacer, pero bueno eso cuando este ya lo contaremos.&lt;/p&gt;
-&lt;p&gt;En esta quedada hablamos con lo que cada uno esta jugando y nos&nbsp;encontramos&nbsp;con un denominador com&uacute;n &lt;a href=&quot;http://goo.gl/ZFrT1&quot; title=&quot;osc&quot;&gt;OSC&lt;/a&gt;.&nbsp; Open sound control es un protocolo multimedia que tiene como intenci&oacute;n mejorar las carencias del midi.Lo cierto es que su versatilidad es brutal.&lt;/p&gt;
-&lt;p&gt;Nosotros parte del rato lo dedicamos a conectar en &quot;serie&quot; distintos dispositivos con osc, al VVVV al touchosc del ipad y de un android&nbsp;as&iacute;&nbsp;como a un node.js. Se le ve mucho color&lt;/p&gt;
-&lt;p&gt;Patxi nuestro vvvv nos conto las&nbsp;incre&iacute;bles&nbsp;posibilidades del sistema para crear clusters con, boysgroups. Y este es el ejemplo que hicimos:&lt;/p&gt;
-&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;390&quot; src=&quot;http://www.youtube.com/embed/xeLUKd1NFxg&quot; title=&quot;YouTube video player&quot; width=&quot;480&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>

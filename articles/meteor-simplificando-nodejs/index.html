@@ -1,0 +1,150 @@
+
+<!-- extends layout--><!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>El Filo 0.1
+    </title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="/js/underscore-min.js"></script>
+    <link rel="alternate" href="http://blog.elfilo.net/feed.xml" type="application/rss+xml" title="Trozos de imaginería cultural profunda que se ha desprendido y adquirido vida propia">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Audiowide">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Ubuntu:bold" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Vollkorn" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/css/github.css">
+    <link rel="stylesheet" href="/css/main.css">
+  </head>
+  <body>
+    <header class="header-top">
+      <div class="inner">
+        <div class="wrapper-title"><a href="http://blog.elfilo.net"><img src="/images/bg-logo1.png"></a></div>
+        <div class="mensaje"><img src="/images/texto.png" alt="Trozos de imaginería cultural profunda que se han desprendido y adquirido vida propia"></div>
+        <div id="menuh">
+          <ul>
+            <li><a href="/sobremi.html">Sobre mi /</a></li>
+            <li><a href="/archive.html">Archivo /</a></li>
+            <li><a href="#">Otros /</a></li>
+          </ul>
+        </div>
+      </div>
+    </header>
+    <div id="content">
+      <article class="post">
+        <header>
+          <h2>
+            <h2>Meteor simplificando nodejs</h2>
+          </h2>
+          <p><span class="author">karlos g liberal</span>
+          </p>
+        </header>
+        <section class="content"><p>Qué difícil es esto de mantener un blog con un poco de ritmo, y no será por la de cosas interesantes que quiero compartir, pero así son las cosas
+
+</p>
+<p>Hoy quiero hablaros de <a href="http://meteor.com">Meteor</a> según los propio creadores es <strong>la mejor forma de crear aplicaciones</strong>, si esta frase te parece pretenciosa, al loro con esta&#58;
+</p>
+<blockquote>
+<p>Meteor es un entorno ultra-simple para el desarrollo de sitios web modernos. Lo que antes tardaba semanas, incluso con las mejores herramientas, ahora te cuesta horas con Meteor
+
+</p>
+</blockquote>
+<p>Pues, por muy increible que parezca esta frase, en cuanto te introduces un poco en Meteor ves que puede ser real.
+
+</p>
+<p>Lo primero que sorprende es su instalación&#58;
+
+</p>
+<p><code> curl https://install.meteor.com | /bin/sh </code>
+
+</p>
+<p>Así se crea un proyecto&#58;
+
+</p>
+<p><code> meteor create myapp </code>
+
+</p>
+<p>Ejecutar de forma local el proyecto&#58;
+
+</p>
+<pre><code> $ cd myapp
+ $ meteor
+ Running on: http:<span class="comment">//localhost:3000/</span></code></pre>
+<p>Meteor ofrece la posibilidad con un comando de hacer un deploy del proyecto en su propia infraestructura&#58;
+</p>
+<pre><code>$ meteor deploy myapp.meteor.com</code></pre>
+<p>Se intuye que esta puede ser una forma de moneratización del proyecto, al más puro estilo <a href="http://nodejitsu.com">nodejitsu</a>. Lo cierto es que la simpleza de meteor tanto en la instalación como a la hora de ponerte a trabajar hacen el proyecto muy atractivo.
+
+</p>
+<p>Meteor es un stack completo, viene con todo lo necesario para ponerte a trabajar, funciona gracias a <a href="http://nodejs.org">nodejs</a> tanto en la parte de la ejecución como en el servidor. 
+
+</p>
+<p>Aunque Meteor usa nodejs intensivamente su forma no es tan ortodoxa como en otros frameworks (<a href="http://derbyjs.com/">dervy</a>, <a href="http://flatironjs.org/">flatlirojs</a> ), en parte por el uso que hace de <a href="https://github.com/laverdet/node-fibers">fibers</a> para el control de la asincronía algo no exento de <a href="http://bjouhier.wordpress.com/2012/03/11/fibers-and-threads-in-node-js-what-for/">polémica</a>. Otro de los temas que ha sorprendido es que su sistema de paquetes no sea compatible con <a href="http://blog.elfilo.net/articles/meteor-simplificando-nodejs/npmjs.org">npm</a>, les da más control sobre lo que entra en Meteor pero impide aprovecharse de la gran cantidad de paquetes en npm. De todos modos esto pinta que cambiará
+
+</p>
+<p>Veamos ahora los 7 principios según su propia web&#58;
+
+</p>
+<ul>
+<li><strong>Datos en la red</strong>&#58; No se manda porciones de Html sobre la red, se mandan datos al cliente y es él el que decide si lo renderiza.</li>
+<li><strong>Un sólo lenguaje</strong>&#58; Escribe tanto el cliente como el servidor en un solo lenguaje Javascript.</li>
+<li><strong>La base de datos en todas partes</strong>&#58; Utiliza de forma transparente la API de acceso a la base de datos tanto en el cliente como en el servidor.</li>
+<li><strong>Compensación de latencia</strong>&#58; En el cliente se simula el precacheo para que se vea como si tuviera latencia cero en el acceso a la base de datos.</li>
+<li><strong>Sistema completo para la programación reactiva</strong>&#58; Construye en tiempo real por defecto, todas las capas desde la base de datos al sistema de plantillas son accesbles por su sistema de orientación a eventos.</li>
+<li><strong>Abraza otros ecosistmas</strong>&#58; Meteor es open source y se integra antes que remplaza otras herramientas o frameworks en open sorce.</li>
+<li><strong>Simplicity Equals Productivity</strong>&#58; La mejora manera de que algo parezca simple es que en realidad sea simple, esto se logra con una API limpia que trae una belleza clásica.</li>
+</ul>
+<p>Meteor tiene cosas curiosas, que permiten hacer &quot;webs&quot; tambien de forma curiosa, una de las que más sorprenden es lo que ellos llaman <a href="http://en.wikipedia.org/wiki/Reactive_programming">programación reactiva</a> el ejemplo clásico es con una hoja de calculo, los datos introducidos van modificando un campo concreto.
+
+</p>
+<script src="https://gist.github.com/karlosgliberal/5185894.js"></script>
+
+<p>La función Deps.autorun en relación con session permiten el binomio, computación ractiva + código de datos reactivos. Los argumentos de la funcion Deps.autorun se ejecutan la primera vez, pero si la sesión <code>currentRoomId </code> cambia se vuelven a ejecutar. En la <a href="http://docs.meteor.com/#reactivity">documentación</a> explican esto de una forma más clara.
+
+</p>
+<p>Parte de esta magia es debido a que Meteor usa <a href="http://www.mongodb.org/">mongodb</a> para la persistencia de datos, pero con un matiz. Esta persistencia también esta en el Cliente. Meteor mediante un sistema de Publicación/suscripción decide qué colecciones son y cómo son sincronizadas en el cliente, y el cliente tiene en cache toda la información que se ha sincronizado. Si a esto le unimos la movida de la &quot;programción rectiva&quot;, pues se intuye su potencial. 
+
+</p>
+<p>Otras de las claves es el uso que hace de <a href="http://handlebarsjs.com/">handlebarsjs</a> para el sistema de plantillas, su integración es exquisita. Si algo se le puede achacar a <a href="http://backbonejs.org/">backbone</a> (u otros frameworks similares) es su extraño uso de la gestión de <a href="http://stackoverflow.com/questions/5624929/backbone-view-el-confusion">plantillas</a>. En Meteor la cosa es tal que así&#58;
+
+</p>
+<script src="https://gist.github.com/karlosgliberal/5186400.js"></script>
+
+<p>En el body podemos llamar a nuestras plantillas de esta manera <code>{{&gt;categories}}</code> y meteor ya sabe que tiene la plantilla <code>&lt;template name=&quot;categories&quot;&gt;</code> a su disposición.
+
+</p>
+<p>Meteor tiene una estructura de directorios que permite ordenar el código del servidor, del cliente y del público de forma muy simple&#58;
+</p>
+<pre><code>➜  cesta 
+client <span class="keyword">public</span> server</code></pre>
+<p>Todos los ficheros que se colocan en el directorio <code>cliente</code> (o server ) son gestionados por meteor e incluidos en la ejecución de forma ordenada (esto puede ser algo raro). El directorio public se utiliza tipo assets, donde meter imágenes, o ficheros públicos. 
+
+</p>
+<p>En el directorio cliente es donde se situa el fichero .html para las plantillas, el .js para la app del lado del cliente y el .css.  
+
+</p>
+<script src="https://gist.github.com/karlosgliberal/5186473.js"></script>
+
+<p>Este es un ejemplo de la lógica del cliente, en otro Post explicaré con más detalle como funciona, pero en la función <code>Template.categories.events</code> se puede intuir su potencial. Por cada plantilla que tenemos podemos llamar a su lista de eventos, y sobre los elementos de la plantilla hacer lo que nos plazca. Es importante tener en cuanta que el sistema de plantillas es susceptible de la rectividad que caracteriza a Meteor. Podremos cambiar en caliente porciones de html dependiendo de las acciones que ocurran, por ejemplo con los eventos. 
+
+</p>
+<p>Esto no es más que una breve y desordenada pincelada de la potencia de Meteor. La comunidad está cogiendo forma y el proyecto está madurando mucho. Creo que es interesante tenerlo en cuenta ya que para aplicaciones con una interacción rica y el tiempo real Meteor destaca por encima de sus competidores. Espero seguir hablando de este entorno en otros posts.
+
+</p>
+<p>Dejo esta presentación que tengo preparada de Meteor <a href="http://www.slid.us/eeg5#/"><a href="http://www.slid.us/eeg5#/">http://www.slid.us/eeg5#/</a></a>, que está realizada con <a href="http://www.slid.us/eeg5#/"><a href="http://www.slid.us">http://www.slid.us</a></a>. Otro día hablaré de Slidus
+
+</p>
+
+          <div id="disqus_thread">
+            <script type="text/javascript">
+              var disqus_shortname = 'karlosgliberalblog';
+              (function() {
+                  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+              })();
+            </script>
+          </div></section>
+      </article>
+    </div>
+  </body>
+</html>

@@ -221,6 +221,109 @@ Node.js powered, Jitsu Hosted, WebRTC connected, 100% JavaScript, Camera &gt; We
 </description>
     </item>
     <item>
+      <title>Meteor simplificando nodejs</title>
+      <link>http://blog.elfilo.net/articles/meteor-simplificando-nodejs/</link>
+      <pubDate>Sun, 17 Mar 2013 21:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/meteor-simplificando-nodejs/</guid>
+      <author></author>
+      <description>&lt;p&gt;Qué difícil es esto de mantener un blog con un poco de ritmo, y no será por la de cosas interesantes que quiero compartir, pero así son las cosas
+
+&lt;/p&gt;
+&lt;p&gt;Hoy quiero hablaros de &lt;a href=&quot;http://meteor.com&quot;&gt;Meteor&lt;/a&gt; según los propio creadores es &lt;strong&gt;la mejor forma de crear aplicaciones&lt;/strong&gt;, si esta frase te parece pretenciosa, al loro con esta&#58;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Meteor es un entorno ultra-simple para el desarrollo de sitios web modernos. Lo que antes tardaba semanas, incluso con las mejores herramientas, ahora te cuesta horas con Meteor
+
+&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Pues, por muy increible que parezca esta frase, en cuanto te introduces un poco en Meteor ves que puede ser real.
+
+&lt;/p&gt;
+&lt;p&gt;Lo primero que sorprende es su instalación&#58;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;code&gt; curl https://install.meteor.com | /bin/sh &lt;/code&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Así se crea un proyecto&#58;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;code&gt; meteor create myapp &lt;/code&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Ejecutar de forma local el proyecto&#58;
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; $ cd myapp
+ $ meteor
+ Running on: http:&lt;span class=&quot;comment&quot;&gt;//localhost:3000/&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Meteor ofrece la posibilidad con un comando de hacer un deploy del proyecto en su propia infraestructura&#58;
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ meteor deploy myapp.meteor.com&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Se intuye que esta puede ser una forma de moneratización del proyecto, al más puro estilo &lt;a href=&quot;http://nodejitsu.com&quot;&gt;nodejitsu&lt;/a&gt;. Lo cierto es que la simpleza de meteor tanto en la instalación como a la hora de ponerte a trabajar hacen el proyecto muy atractivo.
+
+&lt;/p&gt;
+&lt;p&gt;Meteor es un stack completo, viene con todo lo necesario para ponerte a trabajar, funciona gracias a &lt;a href=&quot;http://nodejs.org&quot;&gt;nodejs&lt;/a&gt; tanto en la parte de la ejecución como en el servidor. 
+
+&lt;/p&gt;
+&lt;p&gt;Aunque Meteor usa nodejs intensivamente su forma no es tan ortodoxa como en otros frameworks (&lt;a href=&quot;http://derbyjs.com/&quot;&gt;dervy&lt;/a&gt;, &lt;a href=&quot;http://flatironjs.org/&quot;&gt;flatlirojs&lt;/a&gt; ), en parte por el uso que hace de &lt;a href=&quot;https://github.com/laverdet/node-fibers&quot;&gt;fibers&lt;/a&gt; para el control de la asincronía algo no exento de &lt;a href=&quot;http://bjouhier.wordpress.com/2012/03/11/fibers-and-threads-in-node-js-what-for/&quot;&gt;polémica&lt;/a&gt;. Otro de los temas que ha sorprendido es que su sistema de paquetes no sea compatible con &lt;a href=&quot;http://blog.elfilo.net/articles/meteor-simplificando-nodejs/npmjs.org&quot;&gt;npm&lt;/a&gt;, les da más control sobre lo que entra en Meteor pero impide aprovecharse de la gran cantidad de paquetes en npm. De todos modos esto pinta que cambiará
+
+&lt;/p&gt;
+&lt;p&gt;Veamos ahora los 7 principios según su propia web&#58;
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Datos en la red&lt;/strong&gt;&#58; No se manda porciones de Html sobre la red, se mandan datos al cliente y es él el que decide si lo renderiza.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Un sólo lenguaje&lt;/strong&gt;&#58; Escribe tanto el cliente como el servidor en un solo lenguaje Javascript.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;La base de datos en todas partes&lt;/strong&gt;&#58; Utiliza de forma transparente la API de acceso a la base de datos tanto en el cliente como en el servidor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compensación de latencia&lt;/strong&gt;&#58; En el cliente se simula el precacheo para que se vea como si tuviera latencia cero en el acceso a la base de datos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sistema completo para la programación reactiva&lt;/strong&gt;&#58; Construye en tiempo real por defecto, todas las capas desde la base de datos al sistema de plantillas son accesbles por su sistema de orientación a eventos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Abraza otros ecosistmas&lt;/strong&gt;&#58; Meteor es open source y se integra antes que remplaza otras herramientas o frameworks en open sorce.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simplicity Equals Productivity&lt;/strong&gt;&#58; La mejora manera de que algo parezca simple es que en realidad sea simple, esto se logra con una API limpia que trae una belleza clásica.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Meteor tiene cosas curiosas, que permiten hacer &quot;webs&quot; tambien de forma curiosa, una de las que más sorprenden es lo que ellos llaman &lt;a href=&quot;http://en.wikipedia.org/wiki/Reactive_programming&quot;&gt;programación reactiva&lt;/a&gt; el ejemplo clásico es con una hoja de calculo, los datos introducidos van modificando un campo concreto.
+
+&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/karlosgliberal/5185894.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;La función Deps.autorun en relación con session permiten el binomio, computación ractiva + código de datos reactivos. Los argumentos de la funcion Deps.autorun se ejecutan la primera vez, pero si la sesión &lt;code&gt;currentRoomId &lt;/code&gt; cambia se vuelven a ejecutar. En la &lt;a href=&quot;http://docs.meteor.com/#reactivity&quot;&gt;documentación&lt;/a&gt; explican esto de una forma más clara.
+
+&lt;/p&gt;
+&lt;p&gt;Parte de esta magia es debido a que Meteor usa &lt;a href=&quot;http://www.mongodb.org/&quot;&gt;mongodb&lt;/a&gt; para la persistencia de datos, pero con un matiz. Esta persistencia también esta en el Cliente. Meteor mediante un sistema de Publicación/suscripción decide qué colecciones son y cómo son sincronizadas en el cliente, y el cliente tiene en cache toda la información que se ha sincronizado. Si a esto le unimos la movida de la &quot;programción rectiva&quot;, pues se intuye su potencial. 
+
+&lt;/p&gt;
+&lt;p&gt;Otras de las claves es el uso que hace de &lt;a href=&quot;http://handlebarsjs.com/&quot;&gt;handlebarsjs&lt;/a&gt; para el sistema de plantillas, su integración es exquisita. Si algo se le puede achacar a &lt;a href=&quot;http://backbonejs.org/&quot;&gt;backbone&lt;/a&gt; (u otros frameworks similares) es su extraño uso de la gestión de &lt;a href=&quot;http://stackoverflow.com/questions/5624929/backbone-view-el-confusion&quot;&gt;plantillas&lt;/a&gt;. En Meteor la cosa es tal que así&#58;
+
+&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/karlosgliberal/5186400.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;En el body podemos llamar a nuestras plantillas de esta manera &lt;code&gt;{{&gt;categories}}&lt;/code&gt; y meteor ya sabe que tiene la plantilla &lt;code&gt;&lt;template name=&quot;categories&quot;&gt;&lt;/code&gt; a su disposición.
+
+&lt;/p&gt;
+&lt;p&gt;Meteor tiene una estructura de directorios que permite ordenar el código del servidor, del cliente y del público de forma muy simple&#58;
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;➜  cesta 
+client &lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; server&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Todos los ficheros que se colocan en el directorio &lt;code&gt;cliente&lt;/code&gt; (o server ) son gestionados por meteor e incluidos en la ejecución de forma ordenada (esto puede ser algo raro). El directorio public se utiliza tipo assets, donde meter imágenes, o ficheros públicos. 
+
+&lt;/p&gt;
+&lt;p&gt;En el directorio cliente es donde se situa el fichero .html para las plantillas, el .js para la app del lado del cliente y el .css.  
+
+&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/karlosgliberal/5186473.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Este es un ejemplo de la lógica del cliente, en otro Post explicaré con más detalle como funciona, pero en la función &lt;code&gt;Template.categories.events&lt;/code&gt; se puede intuir su potencial. Por cada plantilla que tenemos podemos llamar a su lista de eventos, y sobre los elementos de la plantilla hacer lo que nos plazca. Es importante tener en cuanta que el sistema de plantillas es susceptible de la rectividad que caracteriza a Meteor. Podremos cambiar en caliente porciones de html dependiendo de las acciones que ocurran, por ejemplo con los eventos. 
+
+&lt;/p&gt;
+&lt;p&gt;Esto no es más que una breve y desordenada pincelada de la potencia de Meteor. La comunidad está cogiendo forma y el proyecto está madurando mucho. Creo que es interesante tenerlo en cuenta ya que para aplicaciones con una interacción rica y el tiempo real Meteor destaca por encima de sus competidores. Espero seguir hablando de este entorno en otros posts.
+
+&lt;/p&gt;
+&lt;p&gt;Dejo esta presentación que tengo preparada de Meteor &lt;a href=&quot;http://www.slid.us/eeg5#/&quot;&gt;&lt;a href=&quot;http://www.slid.us/eeg5#/&quot;&gt;http://www.slid.us/eeg5#/&lt;/a&gt;&lt;/a&gt;, que está realizada con &lt;a href=&quot;http://www.slid.us/eeg5#/&quot;&gt;&lt;a href=&quot;http://www.slid.us&quot;&gt;http://www.slid.us&lt;/a&gt;&lt;/a&gt;. Otro día hablaré de Slidus
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Tengo nuevo amigo http://meemoo.org/</title>
       <link>http://blog.elfilo.net/articles/nuevo-amigo-meemoo/</link>
       <pubDate>Tue, 11 Sep 2012 23:00:00 +0200</pubDate>

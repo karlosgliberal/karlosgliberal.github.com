@@ -33,6 +33,49 @@
     <div id="content">
       <article class="post">
         <header>
+          <h2><a href="/articles/minimal-eguraldi-app-con-angularjs/">Minimal Eguraldi App con Angularjs</a></h2>
+          <p><span class="author">karlos g liberal</span>
+          </p>
+        </header>
+        <section class="content"><p>Demo: <a href="http://minimaleguraldiapp.interzonas.info">minimaleguraldiapp.interzonas.info</a>
+Github: <a href="https://github.com/karlosgliberal/eguraldia">github.com/karlosgliberal/eguraldia</a>
+
+
+</p>
+<p>El otro día me comentaban <a href="http://twitter.com/aitor_rl">@Aitor_rl</a> y <a href="http://twitter.com/merisu">@merisu</a> que mientras otros hacen catas de vino o cervezas yo hago catas de frameworks. Y algo de razón sí que tienen. Me gusta probar frameworks y de esta manera veo lo que hacen los buenos y aprendo mucho, sobre todo de la base, que es en lo que estoy ahora.
+
+</p>
+<p>En esta ocasión el framework que estoy probando es <a href="http://angularjs.org/">Angularjs</a>. Lo curioso es cómo llegue a Angularjs.
+
+</p>
+<p>Para la web de Interzonas (que estamos a punto de publicar) tenía ganas de meterle mano a <a href="http://gruntjs.com/">gruntjs</a>, un gestor de tareas al estilo maven o ant, pero para el lado del cliente. Con Gruntjs puedes automatizar la minificación de los ficheros js o css, pasar los test, o crear copias de ficheros para el paso a producción. Lo cierto es que casi podrías mandar a calentar el té, pues empieza a ser muy exagerado las cosas que está haciendo la peña con Gruntjs. Bueno, pues a la que empiezo a mirar Gruntjs me encuentro con <a href="http://yeoman.io/">yoeman.io</a> que como ellos dicen: &quot;Modern workflow for modern webapps&quot; .
+
+</p>
+<p>Yoeman es un conjunto de herramientas que relacionadas permiten organizar y trabajar en webapps con distintos frameworks. Yoeman tiene por un lado &quot;yo&quot; para crear los &quot;scaffolds&quot; (no sé cómo traducirlos, algo así como los andamios de la aplicación ), Gruntjs que lo usaremos como gestor de tareas, y <a href="http://bower.io/">bower.io</a> es un gestor de components (creado por twiiter) tipo <a href="http://npmjs.org">npm</a> pero para la web <code> npm install -g bower </code> y con <code>bower install jquery </code> descargaríamos jquery en el directorio componets/jquery/jquery.*. Un enrevesado sistema que permite ordenar muchas piezas para hacer webapps modernas. 
+
+</p>
+<p>Espero hablar de gruntjs y bower en otro post. 
+
+</p>
+<p>Pero por si te habías olvidado (fácil con tanta introducción) estábamos hablando de Angularjs. Mirando lo ejemplos de yoeman.io me fijé que Angularjs era muy referenciado en la documentación y entre esto y el movimiento que estoy viendo de gente que sigo y algún proyecto que sabía que estaba realizado con Angular, pues tomé la decisión.
+
+
+</p>
+<p>Aclaro que este no será un post profundo sobre Angular, más bien unas pinceladas, estoy jugando en otro proyecto algo más complejo que el &quot;Minimal Egurladi App&quot; y con ese probablemente profundizaré más. 
+El proyecto que se puede acceder desde <a href="http://blog.elfilo.net/articles/minimal-eguraldi-app-con-angularjs/Enlace">aquí</a> es poca cosa. Descubrí unos iconos en cavas representando el tiempo muy guapos y que con ellos se podía hacer una app sencilla que te diga la temperatura de la ciudad y que te ponga el icono correspondiente.
+
+</p>
+<p><img src="http://blog.elfilo.net/articles/minimal-eguraldi-app-con-angularjs/eguraldia.png" alt="eguraldi">
+
+</p>
+<p>La app no tiene más que un formulario que cuando das a enter o al botón hace una petición a un servicio web con datos meteorológicos, y con el json que devuelve el servicio podemos cambiar el icono y poner la temperatura. Es un proyecto sencillo pero que permite armar muchas de las piezas de Angularjs.
+
+</p>
+</section>
+        <p class="read-more"><a href="/articles/minimal-eguraldi-app-con-angularjs/">Leer más</a></p>
+      </article>
+      <article class="post">
+        <header>
           <h2><a href="/articles/meteor-simplificando-nodejs/">Meteor simplificando nodejs</a></h2>
           <p><span class="author">karlos g liberal</span>
           </p>
@@ -97,42 +140,8 @@
 </p>
 <script src="https://gist.github.com/karlosgliberal/5185894.js"></script>
 
-<p>La función Deps.autorun en relación con session permiten el binomio, computación ractiva + código de datos reactivos. Los argumentos de la funcion Deps.autorun se ejecutan la primera vez, pero si la sesión <code>currentRoomId </code> cambia se vuelven a ejecutar. En la <a href="http://docs.meteor.com/#reactivity">documentación</a> explican esto de una forma más clara.
-
-</p>
-<p>Parte de esta magia es debido a que Meteor usa <a href="http://www.mongodb.org/">mongodb</a> para la persistencia de datos, pero con un matiz. Esta persistencia también esta en el Cliente. Meteor mediante un sistema de Publicación/suscripción decide qué colecciones son y cómo son sincronizadas en el cliente, y el cliente tiene en cache toda la información que se ha sincronizado. Si a esto le unimos la movida de la &quot;programción rectiva&quot;, pues se intuye su potencial. 
-
-</p>
-<p>Otras de las claves es el uso que hace de <a href="http://handlebarsjs.com/">handlebarsjs</a> para el sistema de plantillas, su integración es exquisita. Si algo se le puede achacar a <a href="http://backbonejs.org/">backbone</a> (u otros frameworks similares) es su extraño uso de la gestión de <a href="http://stackoverflow.com/questions/5624929/backbone-view-el-confusion">plantillas</a>. En Meteor la cosa es tal que así&#58;
-
-</p>
-<script src="https://gist.github.com/karlosgliberal/5186400.js"></script>
-
-<p>En el body podemos llamar a nuestras plantillas de esta manera <code>{{&gt;categories}}</code> y meteor ya sabe que tiene la plantilla <code>&lt;template name=&quot;categories&quot;&gt;</code> a su disposición.
-
-</p>
-<p>Meteor tiene una estructura de directorios que permite ordenar el código del servidor, del cliente y del público de forma muy simple&#58;
-</p>
-<pre><code>➜  cesta 
-client <span class="keyword">public</span> server</code></pre>
-<p>Todos los ficheros que se colocan en el directorio <code>cliente</code> (o server ) son gestionados por meteor e incluidos en la ejecución de forma ordenada (esto puede ser algo raro). El directorio public se utiliza tipo assets, donde meter imágenes, o ficheros públicos. 
-
-</p>
-<p>En el directorio cliente es donde se situa el fichero .html para las plantillas, el .js para la app del lado del cliente y el .css.  
-
-</p>
-<script src="https://gist.github.com/karlosgliberal/5186473.js"></script>
-
-<p>Este es un ejemplo de la lógica del cliente, en otro Post explicaré con más detalle como funciona, pero en la función <code>Template.categories.events</code> se puede intuir su potencial. Por cada plantilla que tenemos podemos llamar a su lista de eventos, y sobre los elementos de la plantilla hacer lo que nos plazca. Es importante tener en cuanta que el sistema de plantillas es susceptible de la rectividad que caracteriza a Meteor. Podremos cambiar en caliente porciones de html dependiendo de las acciones que ocurran, por ejemplo con los eventos. 
-
-</p>
-<p>Esto no es más que una breve y desordenada pincelada de la potencia de Meteor. La comunidad está cogiendo forma y el proyecto está madurando mucho. Creo que es interesante tenerlo en cuenta ya que para aplicaciones con una interacción rica y el tiempo real Meteor destaca por encima de sus competidores. Espero seguir hablando de este entorno en otros posts.
-
-</p>
-<p>Dejo esta presentación que tengo preparada de Meteor <a href="http://www.slid.us/eeg5#/"><a href="http://www.slid.us/eeg5#/">http://www.slid.us/eeg5#/</a></a>, que está realizada con <a href="http://www.slid.us/eeg5#/"><a href="http://www.slid.us">http://www.slid.us</a></a>. Otro día hablaré de Slidus
-
-</p>
 </section>
+        <p class="read-more"><a href="/articles/meteor-simplificando-nodejs/">Leer más</a></p>
       </article>
       <article class="post">
         <header>
@@ -485,19 +494,6 @@ $ wintersmith preview</code></pre>
 <p><p>Pego el c&oacute;digo en un gist, ya que no es mas que una pruba
 </section>
         <p class="read-more"><a href="/articles/arduino-serve-nodejs/">Leer más</a></p>
-      </article>
-      <article class="post">
-        <header>
-          <h2><a href="/articles/teknotrakintana/">Teknotrakitana, jugando con VVVV y osc</a></h2>
-          <p><span class="author">karlos g liberal</span>
-          </p>
-        </header>
-        <section class="content"><p>Este viernes volvimos a juntarnos los &quot;teknotrakitanos&quot; (un dia de esto explicare de donde viene el nombre). En su&nbsp;<a href="http://karlosgliberal.investic.net/blog/teknotrakitana-laboratorio-para-experimentar-con-la-creaci%C3%B3n-art%C3%ADstica-visual" title="tekotrakitanos">momento</a>&nbsp;ya conte cual era nuestra intenci&oacute;n con estas quedadas. Ahora andamos intentando darle mas forma, buscando algo &quot;concreto&quot; para hacer, pero bueno eso cuando este ya lo contaremos.</p>
-<p>En esta quedada hablamos con lo que cada uno esta jugando y nos&nbsp;encontramos&nbsp;con un denominador com&uacute;n <a href="http://goo.gl/ZFrT1" title="osc">OSC</a>.&nbsp; Open sound control es un protocolo multimedia que tiene como intenci&oacute;n mejorar las carencias del midi.Lo cierto es que su versatilidad es brutal.</p>
-<p>Nosotros parte del rato lo dedicamos a conectar en &quot;serie&quot; distintos dispositivos con osc, al VVVV al touchosc del ipad y de un android&nbsp;as&iacute;&nbsp;como a un node.js. Se le ve mucho color</p>
-<p>Patxi nuestro vvvv nos conto las&nbsp;incre&iacute;bles&nbsp;posibilidades del sistema para crear clusters con, boysgroups. Y este es el ejemplo que hicimos:</p>
-<p><iframe frameborder="0" height="390" src="http://www.youtube.com/embed/xeLUKd1NFxg" title="YouTube video player" width="480"></iframe></p>
-</section>
       </article><a href="archive.html" id="archive">Visit the archives!</a>
     </div>
     <footer>

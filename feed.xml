@@ -286,6 +286,7 @@ Node.js powered, Jitsu Hosted, WebRTC connected, 100% JavaScript, Camera &gt; We
 &lt;/p&gt;
 &lt;script src=&quot;https://gist.github.com/karlosgliberal/5185894.js&quot;&gt;&lt;/script&gt;
 
+&lt;h2&gt;Profundizando&lt;/h2&gt;
 &lt;p&gt;La función Deps.autorun en relación con session permiten el binomio, computación ractiva + código de datos reactivos. Los argumentos de la funcion Deps.autorun se ejecutan la primera vez, pero si la sesión &lt;code&gt;currentRoomId &lt;/code&gt; cambia se vuelven a ejecutar. En la &lt;a href=&quot;http://docs.meteor.com/#reactivity&quot;&gt;documentación&lt;/a&gt; explican esto de una forma más clara.
 
 &lt;/p&gt;
@@ -320,6 +321,181 @@ client &lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; server&lt;/code
 &lt;/p&gt;
 &lt;p&gt;Dejo esta presentación que tengo preparada de Meteor &lt;a href=&quot;http://www.slid.us/eeg5#/&quot;&gt;&lt;a href=&quot;http://www.slid.us/eeg5#/&quot;&gt;http://www.slid.us/eeg5#/&lt;/a&gt;&lt;/a&gt;, que está realizada con &lt;a href=&quot;http://www.slid.us/eeg5#/&quot;&gt;&lt;a href=&quot;http://www.slid.us&quot;&gt;http://www.slid.us&lt;/a&gt;&lt;/a&gt;. Otro día hablaré de Slidus
 
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Minimal Eguraldi App con Angularjs</title>
+      <link>http://blog.elfilo.net/articles/minimal-eguraldi-app-con-angularjs/</link>
+      <pubDate>Tue, 14 May 2013 21:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/minimal-eguraldi-app-con-angularjs/</guid>
+      <author></author>
+      <description>&lt;p&gt;Demo: &lt;a href=&quot;http://minimaleguraldiapp.interzonas.info&quot;&gt;minimaleguraldiapp.interzonas.info&lt;/a&gt;
+Github: &lt;a href=&quot;https://github.com/karlosgliberal/eguraldia&quot;&gt;github.com/karlosgliberal/eguraldia&lt;/a&gt;
+
+
+&lt;/p&gt;
+&lt;p&gt;El otro día me comentaban &lt;a href=&quot;http://twitter.com/aitor_rl&quot;&gt;@Aitor_rl&lt;/a&gt; y &lt;a href=&quot;http://twitter.com/merisu&quot;&gt;@merisu&lt;/a&gt; que mientras otros hacen catas de vino o cervezas yo hago catas de frameworks. Y algo de razón sí que tienen. Me gusta probar frameworks y de esta manera veo lo que hacen los buenos y aprendo mucho, sobre todo de la base, que es en lo que estoy ahora.
+
+&lt;/p&gt;
+&lt;p&gt;En esta ocasión el framework que estoy probando es &lt;a href=&quot;http://angularjs.org/&quot;&gt;Angularjs&lt;/a&gt;. Lo curioso es cómo llegue a Angularjs.
+
+&lt;/p&gt;
+&lt;p&gt;Para la web de Interzonas (que estamos a punto de publicar) tenía ganas de meterle mano a &lt;a href=&quot;http://gruntjs.com/&quot;&gt;gruntjs&lt;/a&gt;, un gestor de tareas al estilo maven o ant, pero para el lado del cliente. Con Gruntjs puedes automatizar la minificación de los ficheros js o css, pasar los test, o crear copias de ficheros para el paso a producción. Lo cierto es que casi podrías mandar a calentar el té, pues empieza a ser muy exagerado las cosas que está haciendo la peña con Gruntjs. Bueno, pues a la que empiezo a mirar Gruntjs me encuentro con &lt;a href=&quot;http://yeoman.io/&quot;&gt;yoeman.io&lt;/a&gt; que como ellos dicen: &quot;Modern workflow for modern webapps&quot; .
+
+&lt;/p&gt;
+&lt;p&gt;Yoeman es un conjunto de herramientas que relacionadas permiten organizar y trabajar en webapps con distintos frameworks. Yoeman tiene por un lado &quot;yo&quot; para crear los &quot;scaffolds&quot; (no sé cómo traducirlos, algo así como los andamios de la aplicación ), Gruntjs que lo usaremos como gestor de tareas, y &lt;a href=&quot;http://bower.io/&quot;&gt;bower.io&lt;/a&gt; es un gestor de components (creado por twiiter) tipo &lt;a href=&quot;http://npmjs.org&quot;&gt;npm&lt;/a&gt; pero para la web &lt;code&gt; npm install -g bower &lt;/code&gt; y con &lt;code&gt;bower install jquery &lt;/code&gt; descargaríamos jquery en el directorio componets/jquery/jquery.*. Un enrevesado sistema que permite ordenar muchas piezas para hacer webapps modernas. 
+
+&lt;/p&gt;
+&lt;p&gt;Espero hablar de gruntjs y bower en otro post. 
+
+&lt;/p&gt;
+&lt;p&gt;Pero por si te habías olvidado (fácil con tanta introducción) estábamos hablando de Angularjs. Mirando lo ejemplos de yoeman.io me fijé que Angularjs era muy referenciado en la documentación y entre esto y el movimiento que estoy viendo de gente que sigo y algún proyecto que sabía que estaba realizado con Angular, pues tomé la decisión.
+
+
+&lt;/p&gt;
+&lt;p&gt;Aclaro que este no será un post profundo sobre Angular, más bien unas pinceladas, estoy jugando en otro proyecto algo más complejo que el &quot;Minimal Egurladi App&quot; y con ese probablemente profundizaré más. 
+El proyecto que se puede acceder desde &lt;a href=&quot;http://blog.elfilo.net/articles/minimal-eguraldi-app-con-angularjs/Enlace&quot;&gt;aquí&lt;/a&gt; es poca cosa. Descubrí unos iconos en cavas representando el tiempo muy guapos y que con ellos se podía hacer una app sencilla que te diga la temperatura de la ciudad y que te ponga el icono correspondiente.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://blog.elfilo.net/articles/minimal-eguraldi-app-con-angularjs/eguraldia.png&quot; alt=&quot;eguraldi&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;La app no tiene más que un formulario que cuando das a enter o al botón hace una petición a un servicio web con datos meteorológicos, y con el json que devuelve el servicio podemos cambiar el icono y poner la temperatura. Es un proyecto sencillo pero que permite armar muchas de las piezas de Angularjs.
+
+&lt;/p&gt;
+&lt;h2&gt;Angularjs&lt;/h2&gt;
+&lt;p&gt;Angularjs es un proyecto mantenido por Google. y la verdad que con algunas cosas que estoy viendo de &lt;a href=&quot;http://www.dartlang.org/&quot;&gt;Dartlang&lt;/a&gt;, no se me hace raro que lo estén soportando. Se puede ver un ejemplo &lt;a href=&quot;http://www.dartlang.org/articles/web-ui/#two-way-binding&quot;&gt;aquí&lt;/a&gt; que suena mucho a Angularjs 
+
+&lt;/p&gt;
+&lt;p&gt;¿Pero qué tiene de especial Angularjs sobre el resto de frameworks? (backbone, emberjs, meteor, etc) 
+
+&lt;/p&gt;
+&lt;p&gt;La verdad que son varias las cosas, una de las más importantes es que permite una extensión del lenguaje HTML para manipular datos y esto lo hace de forma elegante y simple a diferencia de otros entornos. 
+Otro punto que a mí personalmente me ha gustado es el orden, todo tiene su sitio y las buenas prácticas hacen el proyecto muy sólido 
+. Esto tiene mucho que ver con el sistema de inyección de dependencias, es fácil ver las piezas que entran en juego en un proyecto Angularjs. De todos modos igual despiezando el proyecto se pueden apreciar mejor estas virtudes.
+
+&lt;/p&gt;
+&lt;p&gt;En el index.html tenemos dos elementos importantes:
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&lt;body ng-app=&lt;span class=&quot;string&quot;&gt;&quot;favoritosApp&quot;&lt;/span&gt;&gt;
+.....
+ &lt;div &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;container&quot;&lt;/span&gt; ng-view=&lt;span class=&quot;string&quot;&gt;&quot;&quot;&lt;/span&gt;&gt;
+
+ &lt;/div&gt;
+ ....&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Los elementos &lt;code&gt; ng-loquesea &lt;/code&gt; es lo que Angularjs llama Directivas Y que son las que permiten extender el lenguaje html y aportarle nuevos procedimientos y funcionalidades como el data binding (enlace de datos).
+
+&lt;/p&gt;
+&lt;p&gt;Aquí vemos dos &lt;code&gt; ng-app=&quot;favoritosApp&quot; &lt;/code&gt; es la forma fácil de arrancar la aplicación de hacer el típico init(). Luego tenemos &lt;code&gt; ng-view=&quot;&quot; &lt;/code&gt; donde indicamos que aquí, en este div, es donde se situará la o las plantillas con las que trabajaremos en la app. 
+
+&lt;/p&gt;
+&lt;p&gt;Una de las cosas interesantes de Angularjs es que mucha de la lógica recae en el html y aunque la sensación sea rara (o sucia) conforme vas trabajando ves que es todo lo contrario. Lo que me parece cierto y que lo ponen en muchos tutoriales, es que la cantidad de javascript necesario para crear un app se reduce y el que se genera es más asequible para personas con pocos conocimientos en js. 
+
+&lt;/p&gt;
+&lt;p&gt;Ahora toca el turno de app.js donde se asocian el resto de módulos (ya sean, directivas, filtros, servicios etc) y donde se puede definir el sistema de rutas de la app.
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;js&quot;&gt;
+&lt;span class=&quot;string&quot;&gt;'use strict'&lt;/span&gt;;
+
+angular.module(&lt;span class=&quot;string&quot;&gt;'favoritosApp'&lt;/span&gt;, [&lt;span class=&quot;string&quot;&gt;'FavoritosAppServices'&lt;/span&gt;, &lt;span class=&quot;string&quot;&gt;'ui'&lt;/span&gt;])
+  .config(&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; (&lt;span class=&quot;variable&quot;&gt;$routeProvider&lt;/span&gt;) {
+    &lt;span class=&quot;variable&quot;&gt;$routeProvider&lt;/span&gt;
+      .when(&lt;span class=&quot;string&quot;&gt;'/'&lt;/span&gt;, {
+        templateUrl: &lt;span class=&quot;string&quot;&gt;'views/main.html'&lt;/span&gt;,
+        controller: &lt;span class=&quot;string&quot;&gt;'MainCtrl'&lt;/span&gt;
+      })
+      .otherwise({
+        redirectTo: &lt;span class=&quot;string&quot;&gt;'/'&lt;/span&gt;
+      });
+  });&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;En este caso nuestra app &lt;code&gt;favoritosApp &lt;/code&gt; tiene estas dos dependencias que queremos cargar en el bootstrap &lt;code&gt; [&apos;FavoritosAppServices&apos;, &apos;ui&apos;]  &lt;/code&gt; y una sola ruta &lt;code&gt;.when(&apos;/&apos;, {&lt;/code&gt; a esta ruta se le asocia una plantilla desde una url y un controlador MainCtrl. El resto de rutas redirigen a la ruta /. Veamos la plantilla main.html
+
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;div &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;login&quot;&lt;/span&gt; ng-control=&lt;span class=&quot;string&quot;&gt;&quot;MainCtrl&quot;&lt;/span&gt;&gt;
+  &lt;div &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;login-screen&quot;&lt;/span&gt;&gt;
+    &lt;div &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;login-icon&quot;&lt;/span&gt;&gt;
+      &lt;canvas id=&lt;span class=&quot;string&quot;&gt;&quot;fog&quot;&lt;/span&gt; width=&lt;span class=&quot;string&quot;&gt;&quot;128&quot;&lt;/span&gt; height=&lt;span class=&quot;string&quot;&gt;&quot;128&quot;&lt;/span&gt;&gt;
+      &lt;/canvas&gt;
+      &lt;h4&gt;&lt;small&gt;{{init}}&lt;/small&gt;&lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;div &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;login-form&quot;&lt;/span&gt;&gt;
+      &lt;div &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;control-group&quot;&lt;/span&gt;&gt;
+        &lt;input type=&lt;span class=&quot;string&quot;&gt;&quot;text&quot;&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;login-field&quot;&lt;/span&gt; value=&lt;span class=&quot;string&quot;&gt;&quot;&quot;&lt;/span&gt; placeholder=&lt;span class=&quot;string&quot;&gt;&quot;ciudad&quot;&lt;/span&gt; id=&lt;span class=&quot;string&quot;&gt;&quot;ciudad&quot;&lt;/span&gt; ng-model=&lt;span class=&quot;string&quot;&gt;&quot;ciudad&quot;&lt;/span&gt; ng-change=&lt;span class=&quot;string&quot;&gt;&quot;borrar()&quot;&lt;/span&gt; ui-keypress=&lt;span class=&quot;string&quot;&gt;&quot;{13:'keypressCallback($event)'}&quot;&lt;/span&gt;&gt;
+        &lt;label &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;login-field-icon fui-eye-16&quot;&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;for&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;login-pass&quot;&lt;/span&gt;&gt;&lt;/label&gt;
+      &lt;/div&gt;
+      &lt;a &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;btn btn-primary btn-large btn-block&quot;&lt;/span&gt; href=&lt;span class=&quot;string&quot;&gt;&quot;#&quot;&lt;/span&gt; ng-click=&lt;span class=&quot;string&quot;&gt;&quot;update(ciudad)&quot;&lt;/span&gt;&gt;Enviar&lt;/a&gt;
+      &lt;a &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;login-link&quot;&lt;/span&gt; href=&lt;span class=&quot;string&quot;&gt;&quot;#&quot;&lt;/span&gt;&gt;Quieres saber funciona?&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Por partes. En el &lt;code&gt; &lt;div class=&quot;login&quot; ng-control=&quot;MainCtrl&quot;&gt; ...&lt;/div&gt;&lt;/code&gt; en este div ya vemos algo como: &lt;code&gt; ng-control=&quot;&quot; &lt;/code&gt; es otra Directiva.
+
+&lt;/p&gt;
+&lt;p&gt;En este caso estamos diciendo que este div (y su herencia) están asociados al controlador &quot;MainCtrl&quot; y que en este controlador recaerá el ámbito ($scope) de sus procedimientos. Por lo tanto y como se intuye Angularjs funciona con el patrón MVC pero a diferencia de otros Frameworks &lt;a href=&quot;http://docs.angularjs.org/guide/compiler&quot;&gt;el propio html&lt;/a&gt; con las directivas forma parte de la definición del MVC.
+
+&lt;/p&gt;
+&lt;p&gt;Esto se puede ver claro en esta línea &lt;code&gt;&lt;h4&gt;&lt;small&gt;{{init}}&lt;/small&gt;&lt;/h4&gt;&lt;/code&gt; con el &lt;code&gt;{{}}&lt;/code&gt; estamos haciendo el &lt;a href=&quot;http://docs.angularjs.org/guide/dev_guide.templates.databinding&quot;&gt;data binding&lt;/a&gt; Nuestro html hace de views y en &lt;code&gt; init &lt;/code&gt; vamos sincronizado los datos del modelo y gestionados por el controlador. 
+
+&lt;/p&gt;
+&lt;p&gt;Esto también se ve en esta línea:
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&lt;input type=&lt;span class=&quot;string&quot;&gt;&quot;text&quot;&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;login-field&quot;&lt;/span&gt; value=&lt;span class=&quot;string&quot;&gt;&quot;&quot;&lt;/span&gt; placeholder=&lt;span class=&quot;string&quot;&gt;&quot;ciudad&quot;&lt;/span&gt; id=&lt;span class=&quot;string&quot;&gt;&quot;ciudad&quot;&lt;/span&gt; ng-model=&lt;span class=&quot;string&quot;&gt;&quot;ciudad&quot;&lt;/span&gt; ng-change=&lt;span class=&quot;string&quot;&gt;&quot;borrar()&quot;&lt;/span&gt; ui-keypress=&lt;span class=&quot;string&quot;&gt;&quot;{13:'keypressCallback($event)'}&quot;&lt;/span&gt;&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Aquí con la directiva &lt;code&gt;ng-model=&quot;ciudad&quot; &lt;/code&gt; estamos haciendo otro enlace de datos bidireccional, que como se puede ver es usado por el botón mediante la directiva &lt;code&gt;ng-click=&quot;update(ciudad)&quot; &lt;/code&gt;. Por lo tanto tenemos muchas de las piezas 
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Veamos ahora la definición del controlador 
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;js&quot;&gt;&lt;span class=&quot;string&quot;&gt;'use strict'&lt;/span&gt;;
+
+angular.module(&lt;span class=&quot;string&quot;&gt;'favoritosApp'&lt;/span&gt;)
+  .controller(&lt;span class=&quot;string&quot;&gt;'MainCtrl'&lt;/span&gt;, &lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; (&lt;span class=&quot;variable&quot;&gt;$scope&lt;/span&gt;, Tiempo) {
+    &lt;span class=&quot;keyword&quot;&gt;var&lt;/span&gt; icons = &lt;span class=&quot;keyword&quot;&gt;new&lt;/span&gt; Skycons({color: &lt;span class=&quot;string&quot;&gt;'white'&lt;/span&gt;});
+    icons.add(&lt;span class=&quot;string&quot;&gt;'fog'&lt;/span&gt;, Skycons.FOG);
+    icons.play();
+    &lt;span class=&quot;variable&quot;&gt;$scope&lt;/span&gt;.init = &lt;span class=&quot;string&quot;&gt;'Minimal app del tiempo'&lt;/span&gt;;
+
+    &lt;span class=&quot;variable&quot;&gt;$scope&lt;/span&gt;.update = &lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; (ciudad) {
+      &lt;span class=&quot;variable&quot;&gt;$scope&lt;/span&gt;.tiempo = Tiempo.get({ciudad: ciudad}, &lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; (datos) {
+        &lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt;(typeof(datos[&lt;span class=&quot;number&quot;&gt;0&lt;/span&gt;].error) != &lt;span class=&quot;string&quot;&gt;&quot;undefined&quot;&lt;/span&gt;){
+          &lt;span class=&quot;variable&quot;&gt;$scope&lt;/span&gt;.ciudad = &lt;span class=&quot;string&quot;&gt;&quot;Busca otra ciudad u otro nombre&quot;&lt;/span&gt;;
+          &lt;span class=&quot;variable&quot;&gt;$scope&lt;/span&gt;.init = &lt;span class=&quot;string&quot;&gt;&quot;Busca otra ciudad u otro nombre&quot;&lt;/span&gt;
+        }&lt;span class=&quot;keyword&quot;&gt;else&lt;/span&gt;{
+          &lt;span class=&quot;keyword&quot;&gt;var&lt;/span&gt; iconoFin = _comparaIconos(datos[&lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;].icon);
+          &lt;span class=&quot;variable&quot;&gt;$scope&lt;/span&gt;.init = datos[&lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;].temp_c+&lt;span class=&quot;string&quot;&gt;'º '&lt;/span&gt;+ciudad;
+          &lt;span class=&quot;variable&quot;&gt;$scope&lt;/span&gt;.ciudad = &lt;span class=&quot;string&quot;&gt;&quot;&quot;&lt;/span&gt;;
+        }
+      });
+    }
+  })&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Con &lt;code&gt; angular.module(&apos;favoritosApp&apos;) &lt;/code&gt; indicamos que somos parte de la app favoritosApp y asociamos un controllador &apos;MainCtrl&apos; que inyectará las dependencias &apos;$scope&apos; y Tiempo que nos provee el servicio &lt;code&gt;FavoritosAppServices&lt;/code&gt; que asociábamos en el app.js. No voy a comentar el tema del servicio (ya lo haré en otro post) porque quiero centrarme en el $scope o ámbito de la aplicación. El $scope es un objeto que se referencia al modelo de la aplicación, pero que en definitiva lo que permite es trabajar con ámbitos controlados tanto en los datos que queremos sincronizar &lt;code&gt; $scope.init &lt;/code&gt; que referencia a &lt;code&gt;&lt;h4&gt;&lt;small&gt;{{init}}&lt;/small&gt;&lt;/h4&gt;&lt;/code&gt; o métodos como &lt;code&gt;$scope.update = function(ciudad){...}&lt;/code&gt; y que referencia a &lt;code&gt;ng-click=&quot;update(ciudad)&lt;/code&gt;, esto visto así igual suena raro, pero para mí fue amor a primera vista (mentira, a la segunda que al principio no lo entendía XD)
+
+&lt;/p&gt;
+&lt;p&gt;Cuando vi el tema de los $scope asociados a cada controlador me quedé encantado ya que es la típica pelea de javascript. Si no haces las cosas ordenadas al final te la das con el ámbito de tus definiciones. 
+
+&lt;/p&gt;
+&lt;p&gt;El resto creo que se entiende bien. El código está en github y es donde se puede ver todo (incuso lo feo). He dejado la apikey de servicio, si se muere se nos murió XD 
+
+&lt;/p&gt;
+&lt;p&gt;Creo que Angular tiene muchas posibilidades. Veo que esta pillando algo de vuelo pero que en comparación con otros como backbone le queda un rato. Sobre todo en un conector estable con un servicio rest como ya tienen otros entornos. 
+
+&lt;/p&gt;
+&lt;p&gt;Sobre Angularjs hay mucha documentación y manuales, así como vídeos. El tutorial de la web está bien, además también hacen referencia al tema de los test que están muy bien integrados en el entorno. 
+Recomiendo este proyecto para poder arrancar con todas las piezas &lt;a href=&quot;https://github.com/angular/angular-seed&quot;&gt;Angular-seed un por donde empezar&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Seguiré comentando cosas de angular.
+
+&lt;/p&gt;
+&lt;p&gt;Demo: &lt;a href=&quot;http://minimaleguraldiapp.interzonas.info&quot;&gt;minimaleguraldiapp.interzonas.info&lt;/a&gt;
+Github: &lt;a href=&quot;https://github.com/karlosgliberal/eguraldia&quot;&gt;github.com/karlosgliberal/eguraldia&lt;/a&gt;
 &lt;/p&gt;
 </description>
     </item>

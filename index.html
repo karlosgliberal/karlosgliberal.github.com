@@ -33,6 +33,43 @@
     <div id="content">
       <article class="post">
         <header>
+          <h2><a href="/articles/apps4health.es/">Apps4health hackathón</a></h2>
+          <p><span class="author">karlos g liberal</span>
+          </p>
+        </header>
+        <section class="content"><p><a href="http://apps4health.es">Apps4health</a> es en el último proyecto que nos hemos embarcado en <a href="http://interzonas.info">interzonas.info</a> gracias a la invitación de <a href="http://itxasodiaz.com/">Itxaso Díaz</a>. Con  Itxaso ya trabajé el año pasado en el <a href="http://summeroflabs.info">summeroflabs</a> y fue todo un placer. Y cuando en esta ocasión me invitó a mí y a <a href="https://twitter.com/josianito">@josianito</a> me pareció una oportunidad estupenda para volver a colaborar con ellos. Sus cerebros son los que cualquier científico loco quisiera despedazar para ver de donde sale tanto ingenio. 
+
+</p>
+<p>El evento lo promueve la ONG <a href="http://www.anesvad.org/es/">Anesvad</a> y pienso que pueden acertar con el formato tipo hackhatón social.  También colabora <a href="https://twitter.com/soyjavi">@soyjavi</a> de <a href="http://tapquo.com/">Tapquo</a> un tótem del &quot;code&quot; por estas tierras, que le dará mucho valor al evento en el aspecto técnico. 
+
+</p>
+<p><a href="http://apps4health.es">Apps4health</a> es un hackathón social.
+
+</p>
+<p><em>Un hackathon social es un evento que reúne a desarrolladores/as voluntarios/as en un maratón por un tiempo determinado para trabajar empleando el mínimo de recursos y máximo ingenio en crear aplicaciones móviles como respuesta a desafíos y problemas reales que intentarán mejorar la vida de las personas.</em> 
+
+</p>
+<p>La idea es sencilla, juntarnos todo un día con las propuestas que se indican en la web y prototipar una aplicación que pueda ayudar a los demás. Siempre me ha gustado la frase ciberpunk de <em>La calle dará su propio uso a las tecnologías</em> el hackhathón no es la calle pero es un intento de dar espacio a la calle. 
+
+</p>
+<p>Todo esto se realizará el sábado día 28 de septiembre en el <a href="http://espacioopen.com/">espacioopen.com</a> de 10 de a 22 horas. Interzonas estará por Bilbo esos días, para echar un cable en la medida de nuestras posibilidades.
+
+</p>
+<p>Prometo un post técnico explicando las tripas de <a href="http://apps4health.es">Apps4health</a>. Como adelanto digo que el front lo gobierna <a href="angularjs.org">Angularjs</a>, los colores y que todo este en orden <a href="http://foundation.zurb.com/">foundation</a>. Para enviar correos utilizamos un pequeño servicio con <a href="http://expressjs.com/">express.js</a> y <a href="https://github.com/andris9/Nodemailer">Nodemailer</a>, y para la persistencia de datos <a href="firebase.com">Firebase</a>. Por cierto, firebase es un proyecto tan simple y exquisito que lo queremos adoptar como gatito del taller de interzonas. 
+
+
+
+</p>
+<p><img src="apps4health.jpg" alt="apps4health.jpg">
+
+
+
+
+</p>
+</section>
+      </article>
+      <article class="post">
+        <header>
           <h2><a href="/articles/interzonas-info/">Interzonas.info</a></h2>
           <p><span class="author">karlos g liberal</span>
           </p>
@@ -59,7 +96,7 @@ Interzonas es un &quot;Taller estratégico en proyectos web&quot;. Y también es
 <p>Por cierto, ni qué decir que la web es una primera versión. Esta pequeña catedral que hemos hecho como dice <a href="http://twiiter.com/merisu">@merisu</a> tendrá nuevas revisiones. Si quieres ver el código puedes consultarlo en <a href="https://github.com/interzonas/interzonas">github</a>.
 
 </p>
-<p><img src="http://blog.elfilo.net/articles/interzonas-info/interzonas.png" alt="interzonas">
+<p><img src="interzonas.png" alt="interzonas">
 
 
 
@@ -98,10 +135,10 @@ Github: <a href="https://github.com/karlosgliberal/eguraldia">github.com/karlosg
 
 </p>
 <p>Aclaro que este no será un post profundo sobre Angular, más bien unas pinceladas, estoy jugando en otro proyecto algo más complejo que el &quot;Minimal Egurladi App&quot; y con ese probablemente profundizaré más. 
-El proyecto que se puede acceder desde <a href="http://blog.elfilo.net/articles/minimal-eguraldi-app-con-angularjs/Enlace">aquí</a> es poca cosa. Descubrí unos iconos en cavas representando el tiempo muy guapos y que con ellos se podía hacer una app sencilla que te diga la temperatura de la ciudad y que te ponga el icono correspondiente.
+El proyecto que se puede acceder desde <a href="Enlace">aquí</a> es poca cosa. Descubrí unos iconos en cavas representando el tiempo muy guapos y que con ellos se podía hacer una app sencilla que te diga la temperatura de la ciudad y que te ponga el icono correspondiente.
 
 </p>
-<p><img src="http://blog.elfilo.net/articles/minimal-eguraldi-app-con-angularjs/eguraldia.png" alt="eguraldi">
+<p><img src="eguraldia.png" alt="eguraldi">
 
 </p>
 <p>La app no tiene más que un formulario que cuando das a enter o al botón hace una petición a un servicio web con datos meteorológicos, y con el json que devuelve el servicio podemos cambiar el icono y poner la temperatura. Es un proyecto sencillo pero que permite armar muchas de las piezas de Angularjs.
@@ -156,7 +193,7 @@ El proyecto que se puede acceder desde <a href="http://blog.elfilo.net/articles/
 <p>Meteor es un stack completo, viene con todo lo necesario para ponerte a trabajar, funciona gracias a <a href="http://nodejs.org">nodejs</a> tanto en la parte de la ejecución como en el servidor. 
 
 </p>
-<p>Aunque Meteor usa nodejs intensivamente su forma no es tan ortodoxa como en otros frameworks (<a href="http://derbyjs.com/">dervy</a>, <a href="http://flatironjs.org/">flatlirojs</a> ), en parte por el uso que hace de <a href="https://github.com/laverdet/node-fibers">fibers</a> para el control de la asincronía algo no exento de <a href="http://bjouhier.wordpress.com/2012/03/11/fibers-and-threads-in-node-js-what-for/">polémica</a>. Otro de los temas que ha sorprendido es que su sistema de paquetes no sea compatible con <a href="http://blog.elfilo.net/articles/meteor-simplificando-nodejs/npmjs.org">npm</a>, les da más control sobre lo que entra en Meteor pero impide aprovecharse de la gran cantidad de paquetes en npm. De todos modos esto pinta que cambiará
+<p>Aunque Meteor usa nodejs intensivamente su forma no es tan ortodoxa como en otros frameworks (<a href="http://derbyjs.com/">dervy</a>, <a href="http://flatironjs.org/">flatlirojs</a> ), en parte por el uso que hace de <a href="https://github.com/laverdet/node-fibers">fibers</a> para el control de la asincronía algo no exento de <a href="http://bjouhier.wordpress.com/2012/03/11/fibers-and-threads-in-node-js-what-for/">polémica</a>. Otro de los temas que ha sorprendido es que su sistema de paquetes no sea compatible con <a href="npmjs.org">npm</a>, les da más control sobre lo que entra en Meteor pero impide aprovecharse de la gran cantidad de paquetes en npm. De todos modos esto pinta que cambiará
 
 </p>
 <p>Veamos ahora los 7 principios según su propia web&#58;
@@ -196,7 +233,7 @@ Node.js powered, Jitsu Hosted, WebRTC connected, 100% JavaScript, Camera &gt; We
 <p>La idea del proyecto ha sido crear un fotomatón haciendo uso de la cámara de la máquina mediante <a href="http://www.html5rocks.com/en/tutorials/getusermedia/intro/">html5</a> que almacene las fotos en el servidor <a href="http://nodejs.org">nodejs</a> pudiendolas mandar por correo <a href="http://www.nodemailer.com/">nodemailer</a> y que se pudiera hacer un chroma key en el fondo para surtituirlo el chroma por las fotos (en este caso del evento <a href="http://xare.eu">xare.eu</a>. Que es el que nos hizo el encargo). El chroma key lo hemos realizado con <a href="http://seriouslyjs.org">seriouslyjs.org</a>. un proyecto brutal
 
 </p>
-<p><img src="http://blog.elfilo.net/articles/fotomaratoia/fotomratoia.jpg" alt="fotomaratoia">
+<p><img src="fotomratoia.jpg" alt="fotomaratoia">
 
 </p>
 <p>El código es puro spaghetti western. Un día aprenderé que la cocina japo mola más con su rollo lean, pero por ahora todo me sale rollo italiano. 
@@ -208,7 +245,7 @@ Node.js powered, Jitsu Hosted, WebRTC connected, 100% JavaScript, Camera &gt; We
 <p>Este es un collage con las fotos de evento&#58;
 
 </p>
-<p><img src="http://blog.elfilo.net/articles/fotomaratoia/fotomaton_xare.jpg" alt="fotomaton_xare">
+<p><img src="fotomaton_xare.jpg" alt="fotomaton_xare">
 
 </p>
 <p>Para cualquier duda podes conmigo (<a href="http://twitter.com/patxangas">@patxangas</a>).
@@ -294,7 +331,7 @@ Codigo de la charla <a href="https://github.com/karlosgliberal/charla_nodejs">Dr
         <section class="content"><p>Pues eso que andaba yo metiéndole un rato al <a href="http://idflood.github.com/ThreeNodes.js/">threenodes</a> (mola aunque es un poco tosco) vi que el colega que lo esta desarrollando <a href="https://twitter.com/idflood">@idflood</a> hablaba de <a href="http://meemoo.org">meemoo.org</a> 
 
 </p>
-<p>La idea es brutal es rollo &quot;rayitas&quot; que unen &quot;cagitas&quot; tipo <a href="http://puredata.info/">pure-data</a> o los guays de <a href="http://blog.elfilo.net/articles/nuevo-amigo-meemoo/vvvv.org">vvvv</a> XD, 
+<p>La idea es brutal es rollo &quot;rayitas&quot; que unen &quot;cagitas&quot; tipo <a href="http://puredata.info/">pure-data</a> o los guays de <a href="vvvv.org">vvvv</a> XD, 
 La mecánica es similar cada módulo (serian los nods en 4v), dividido por tipos y cada uno de ellos tiene tantas entradas y salidas como corresponda, y como en todos estos softwares con la unión de ellas se hace el patch. Pero la caña reside en que cada caja es &quot;purito html&quot; con javascript que es el que crea las entradas y salidas. 
 
 </p>
@@ -389,7 +426,7 @@ Y aquí se puede descargar: <a href="https://github.com/karlosgliberal/charla_vi
           <p><span class="author">karlos g liberal</span>
           </p>
         </header>
-        <section class="content"><p><img src="http://blog.elfilo.net/articles/residencia-visualizacion-summeroflabs-eu/banner.png" alt="banner">
+        <section class="content"><p><img src="banner.png" alt="banner">
 
 </p>
 <p>Primer post con fundamento del blogs desde la nueva era post investic.
@@ -474,34 +511,6 @@ $ wintersmith preview</code></pre>
 <p>Espermos que este sea uno de una larga lista de entradas de post
 
 
-</p>
-</section>
-      </article>
-      <article class="post">
-        <header>
-          <h2><a href="/articles/primeras-pruebas-opendata/">Primeras pruebas con los datos abiertos de http://opendata.navarra.es</a></h2>
-          <p><span class="author">karlos g liberal</span>
-          </p>
-        </header>
-        <section class="content"><p><p>Hace tiempo que no escribo ning&uacute;n post, la verdad que no tenia muy claro si tenia sentido esa sensaci&oacute;n de hablarle al vac&iacute;o. Ademas mi blog <a href="http://karlogliberal.investic.net">http://karlogliberal.investic.net</a> ya no me molaba XD. Tenia este tumblr que tampoco es que sea la panacea pero bueno por lo menos es rapido y a modo de almac&eacute;n me gusta.</p>
-</p>
-<p><p>El planteamiento va ha ser simplificar aun m&aacute;s los post, mantener el tema de almac&eacute;n tanto de ideas como de mis experimentos. Creo que eso puede estar bien, siempre estoy probando cosas nuevas y contarlo puede contribuir un poco.</p>
-</p>
-<p><p>Bueno al tema :)</p>
-</p>
-<p><p>Hace un par de d&iacute;as los grandes de @developmentseed publicaron <a href="http://tilemill.com/ " title="http://tilemill.com/ ">tilemill.com</a> que se engloba dentro de la &quot;movida&quot;&nbsp;<a href=" http://mapbox.com/" title=" http://mapbox.com/">mapbox.com</a>&nbsp;</p>
-</p>
-<p><blockquote>
-</p>
-<p><p>TileMill es una herramienta poderosa para el dise&ntilde;o de mapas y por supuesto en software libre.&nbsp;&lt;/pe-dominio.html&quot;&gt;DSL</a> tipo <a href="http://www.sinatrarb.com/" title="http://www.sinatrarb.com/">sinatra</a> y ver que que esta pe&ntilde;a del mundo de <a href="http://drupal.org" title="drupal.org">drupal</a> se sacan de la manga este pedazo de desarroentos de esas capas.&nbsp;</p>
-</p>
-<p><p>Dejo esta captura</p>
-</p>
-<p><p><img src="http://media.tumblr.com/tumblr_lgxmiedm7B1qzyc28.png" /></p>
-</p>
-<p><p>Una vez realizada el mapa se puede exportar en png, pdf, o en <a href="http://mapbox.com/documentation/mbtiles-file-formath.org/">@developmentseed</a> basado en sqlite3 una ca&ntilde;a vamos.&nbsp;</p>
-</p>
-<p><p>Estoy en modo pruebas seguire contando.</p>&quot;
 </p>
 </section>
       </article><a href="archive.html" id="archive">Visit the archives!</a>

@@ -606,6 +606,36 @@ Github: &lt;a href=&quot;https://github.com/karlosgliberal/eguraldia&quot;&gt;gi
 </description>
     </item>
     <item>
+      <title>¿Es necesario un gestor de contenidos?</title>
+      <link>http://blog.elfilo.net/articles/necesario-un-gestor-de-contenidos/</link>
+      <pubDate>Tue, 17 Sep 2013 09:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/necesario-un-gestor-de-contenidos/</guid>
+      <author></author>
+      <description>&lt;p&gt;Durante los últimos años me he dedicado a la gestión de contenidos, y como muchos ya sabéis esto lo solucionábamos con el fantástico gestor de contenidos &lt;a href=&quot;http://drupal.org&quot;&gt;Drupa&lt;/a&gt;. Pero creo que los tiempos han cambiado y esta práctica de instalar un cms a la primera de cambio ya no es tan interesante, incluso contraproducente según el caso. 
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Primero, hemos aprendido que hacer una buena &quot;gestión de contenidos&quot; no es fácil. Se necesitan contenidos y no todas las organizaciones pueden asumir el crear contenido de forma cotidiana. &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Segundo, HTML5 ha venido para quedarse y las &quot;webs&quot; se han convertido en webapps. Esto está haciendo que la experiencia de usuario y el diseño sea más importante.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Y entonces, si no hay CMS ¿qué metemos? Pues es una gran pregunta. En &lt;a href=&quot;http://interzonas.info&quot;&gt;interzonas&lt;/a&gt; hemos discutido mucho al respecto y las últimas experiencias adquiridas tanto en las web de producto (la nuestra de interzonas y la de &lt;a href=&quot;http://cestodelostesoros.com/&quot;&gt;Cesto de los tesoros&lt;/a&gt;) como las web de eventos (&lt;a href=&quot;http://apps4health.es/#/&quot;&gt;apps4health&lt;/a&gt;) nos han dado algunas pistas. 
+
+&lt;/p&gt;
+&lt;p&gt;Si la cantidad de &quot;contenidos&quot; no es muy grande, y la creación y actualización de contenidos por el cliente no es necesaria, crear el contenido en html directamente no es tan mala idea. Abstraer tu contenido al CMS tiene un coste y ese &quot;dinero&quot; lo podrías invertir en hacer una web más atractiva sin los límites que tienen los sistemas de plantillas actuales. En realidad lo importante es identificar cuál es la clave del proyecto y decidir donde quieres poner el foco, y en consecuencia tu dinero. 
+
+
+&lt;/p&gt;
+&lt;p&gt;Por supuesto no soy el primero que lo dice, &lt;a href=&quot;http://developmentseed.org/&quot;&gt;developmentseed&lt;/a&gt; en su gran post &lt;a href=&quot;http://developmentseed.org/blog/2012/07/27/build-cms-free-websites/&quot;&gt;Como crear una web libre de CMS&lt;/a&gt; dejan muy clara esta idea.
+
+
+
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Tengo nuevo amigo http://meemoo.org/</title>
       <link>http://blog.elfilo.net/articles/nuevo-amigo-meemoo/</link>
       <pubDate>Tue, 11 Sep 2012 23:00:00 +0200</pubDate>

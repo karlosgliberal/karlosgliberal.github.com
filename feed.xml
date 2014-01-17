@@ -5,9 +5,46 @@
     <atom:link href="http://blog.elfilo.net/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://blog.elfilo.net</link>
     <description>Trozos de imaginería cultural profunda que se ha desprendido y adquirido vida propia</description>
-    <pubDate>Mon, 11 Apr 2011 15:00:00 +0200</pubDate>
+    <pubDate>Wed, 07 Aug 2013 09:00:00 +0200</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Apps4health hackathón</title>
+      <link>http://blog.elfilo.net/articles/apps4health.es/</link>
+      <pubDate>Wed, 07 Aug 2013 09:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/apps4health.es/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;a href=&quot;http://apps4health.es&quot;&gt;Apps4health&lt;/a&gt; es en el último proyecto que nos hemos embarcado en &lt;a href=&quot;http://interzonas.info&quot;&gt;interzonas.info&lt;/a&gt; gracias a la invitación de &lt;a href=&quot;http://itxasodiaz.com/&quot;&gt;Itxaso Díaz&lt;/a&gt;. Con  Itxaso ya trabajé el año pasado en el &lt;a href=&quot;http://summeroflabs.info&quot;&gt;summeroflabs&lt;/a&gt; y fue todo un placer. Y cuando en esta ocasión me invitó a mí y a &lt;a href=&quot;https://twitter.com/josianito&quot;&gt;@josianito&lt;/a&gt; me pareció una oportunidad estupenda para volver a colaborar con ellos. Sus cerebros son los que cualquier científico loco quisiera despedazar para ver de donde sale tanto ingenio. 
+
+&lt;/p&gt;
+&lt;p&gt;El evento lo promueve la ONG &lt;a href=&quot;http://www.anesvad.org/es/&quot;&gt;Anesvad&lt;/a&gt; y pienso que pueden acertar con el formato tipo hackhatón social.  También colabora &lt;a href=&quot;https://twitter.com/soyjavi&quot;&gt;@soyjavi&lt;/a&gt; de &lt;a href=&quot;http://tapquo.com/&quot;&gt;Tapquo&lt;/a&gt; un tótem del &quot;code&quot; por estas tierras, que le dará mucho valor al evento en el aspecto técnico. 
+
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://apps4health.es&quot;&gt;Apps4health&lt;/a&gt; es un hackathón social.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Un hackathon social es un evento que reúne a desarrolladores/as voluntarios/as en un maratón por un tiempo determinado para trabajar empleando el mínimo de recursos y máximo ingenio en crear aplicaciones móviles como respuesta a desafíos y problemas reales que intentarán mejorar la vida de las personas.&lt;/em&gt; 
+
+&lt;/p&gt;
+&lt;p&gt;La idea es sencilla, juntarnos todo un día con las propuestas que se indican en la web y prototipar una aplicación que pueda ayudar a los demás. Siempre me ha gustado la frase ciberpunk de &lt;em&gt;La calle dará su propio uso a las tecnologías&lt;/em&gt; el hackhathón no es la calle pero es un intento de dar espacio a la calle. 
+
+&lt;/p&gt;
+&lt;p&gt;Todo esto se realizará el sábado día 28 de septiembre en el &lt;a href=&quot;http://espacioopen.com/&quot;&gt;espacioopen.com&lt;/a&gt; de 10 de a 22 horas. Interzonas estará por Bilbo esos días, para echar un cable en la medida de nuestras posibilidades.
+
+&lt;/p&gt;
+&lt;p&gt;Prometo un post técnico explicando las tripas de &lt;a href=&quot;http://apps4health.es&quot;&gt;Apps4health&lt;/a&gt; ya que nos hemos encargado del la imagen corporativa como del del desarrollo web. Como adelanto digo que el front lo gobierna &lt;a href=&quot;angularjs.org&quot;&gt;Angularjs&lt;/a&gt;, el layout responsive &lt;a href=&quot;http://foundation.zurb.com/&quot;&gt;foundation 4&lt;/a&gt;. Para enviar correos utilizamos un pequeño servicio con &lt;a href=&quot;http://expressjs.com/&quot;&gt;express.js&lt;/a&gt; y &lt;a href=&quot;https://github.com/andris9/Nodemailer&quot;&gt;Nodemailer&lt;/a&gt;, y para la persistencia de datos &lt;a href=&quot;firebase.com&quot;&gt;Firebase&lt;/a&gt;. Por cierto, firebase es un proyecto tan simple y exquisito que lo queremos adoptar como gatito del taller de interzonas. 
+
+
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;apps4health.jpg&quot; alt=&quot;apps4health.jpg&quot;&gt;
+
+
+
+
+&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Arduino controlando un servo mediante node.js</title>
       <link>http://blog.elfilo.net/articles/arduino-serve-nodejs/</link>
@@ -34,58 +71,6 @@
 &lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
 &lt;/p&gt;
 &lt;script src=&quot;https://gist.github.com/901812.js&quot;&gt; &lt;/script&gt;
-</description>
-    </item>
-    <item>
-      <title>Charla Visualabs Kabia</title>
-      <link>http://blog.elfilo.net/articles/charla_visualabs/</link>
-      <pubDate>Mon, 13 Aug 2012 16:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://blog.elfilo.net/articles/charla_visualabs/</guid>
-      <author></author>
-      <description>&lt;p&gt;Este Viernes se presentaron en &lt;a href=&quot;http://kabia.errenteria.net/&quot;&gt;&lt;a href=&quot;http://kabia.errenteria.net/&quot;&gt;http://kabia.errenteria.net/&lt;/a&gt;&lt;/a&gt; las residencias que se han ido trabajando en los previos del &lt;a href=&quot;http://summeroflabs.eu&quot;&gt;Summer of labs&lt;/a&gt; 
-
-&lt;/p&gt;
-&lt;p&gt;También era el pistoletazo de salido del Summeroflabs @euskadi y buena escusa para contar que habíamos estado haciendo en la residencia
-
-&lt;/p&gt;
-&lt;p&gt;En mi caso me toco exponer una presentación introductoria sobre la visualización de datos. 
-Prepare una charla sencilla, para todo los publicos
-
-&lt;/p&gt;
-&lt;p&gt;Aquí se puede ver la charla: &lt;a href=&quot;http://blog.elfilo.net/charla_visualabs/#/&quot;&gt;&lt;a href=&quot;http://blog.elfilo.net/charla_visualabs/&quot;&gt;http://blog.elfilo.net/charla_visualabs/&lt;/a&gt;&lt;/a&gt;
-Y aquí se puede descargar: &lt;a href=&quot;https://github.com/karlosgliberal/charla_visualabs&quot;&gt;&lt;a href=&quot;https://github.com/karlosgliberal/charla_visualabs&quot;&gt;https://github.com/karlosgliberal/charla_visualabs&lt;/a&gt;&lt;/a&gt;
-
-&lt;/p&gt;
-&lt;p&gt;Espero ir completándola, sobre todo con referencias y con las cosas que salgan en claro del Summeroflabs
-
-&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Cumplo 14 años</title>
-      <link>http://blog.elfilo.net/articles/cumplo-14/</link>
-      <pubDate>Mon, 04 Nov 2013 10:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://blog.elfilo.net/articles/cumplo-14/</guid>
-      <author></author>
-      <description>&lt;p&gt;El día de mi cumpleaños cumplo años por partida doble. Uno por el día que nací y el otro por el día que decidí dejar la construcción y ponerme a hacer desarrollo web. Han pasado 38 del primero y 14 del segundo. 
-
-&lt;/p&gt;
-&lt;p&gt;Hace 14 años&lt;a href=&quot;https://twitter.com/aitor_rl&quot;&gt;@aitor_rl&lt;/a&gt; y yo entrábamos en nuestra primera oficina en la calle pozo blanco de lo viejo de Iruña. Un año entero dándole vueltas a la idea de dejar nuestras profesiones (yo albañil y Aitor instalador de aire acondicionado) para &quot;Emprender&quot; un viaje que por ahora dura 14 años. 
-
-&lt;/p&gt;
-&lt;p&gt;En estos 14 años hemos vivido de todo. Nos comimos las puntocom con patatas, montamos una granja de servidores para alquilarles espacio de juego a gammers del tipo Counterstrike, Day of defeat, hacer prototipos para Endesa, o sacar productos propios como el tanttaone, o ganar concursos en CEIN. 
-
-&lt;/p&gt;
-&lt;p&gt;Y todos los años cuando llegan estas fechas me veo a mí y a Aitor pintando los rodapiés de negro de esa oficina. 
-
-&lt;/p&gt;
-&lt;p&gt;Hace una semana terminamos nuestro último proyecto &lt;a href=&quot;http://bimehackday.net/#/&quot;&gt;bimehackday&lt;/a&gt;, el diseño y desarrollo de la web para un evento que pinta muy bien. 
-
-&lt;/p&gt;
-&lt;p&gt;La web la hemos montado con Jaime y Dani de &lt;a href=&quot;http://arteklab.org/&quot;&gt;arteklab&lt;/a&gt; y la peña de &lt;a href=&quot;http://www.ltinews.net/LTI/&quot;&gt;Lasttour&lt;/a&gt;. Ha sido algo muy sencillo, sólo un poco de &lt;a href=&quot;http://angularjs.org&quot;&gt;angularjs&lt;/a&gt; para poner orden, no sé por qué haciéndola me ha evocado esos primeros desarrollos de hace 14 años
-
-
-&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -142,39 +127,182 @@ $ wintersmith preview&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     <item>
-      <title>Apps4health hackathón</title>
-      <link>http://blog.elfilo.net/articles/apps4health.es/</link>
-      <pubDate>Wed, 07 Aug 2013 09:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://blog.elfilo.net/articles/apps4health.es/</guid>
+      <title>Un proyecto muy especial cestodelostesoros.com</title>
+      <link>http://blog.elfilo.net/articles/cestodelostesoros.com/</link>
+      <pubDate>Tue, 17 Sep 2013 09:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/cestodelostesoros.com/</guid>
       <author></author>
-      <description>&lt;p&gt;&lt;a href=&quot;http://apps4health.es&quot;&gt;Apps4health&lt;/a&gt; es en el último proyecto que nos hemos embarcado en &lt;a href=&quot;http://interzonas.info&quot;&gt;interzonas.info&lt;/a&gt; gracias a la invitación de &lt;a href=&quot;http://itxasodiaz.com/&quot;&gt;Itxaso Díaz&lt;/a&gt;. Con  Itxaso ya trabajé el año pasado en el &lt;a href=&quot;http://summeroflabs.info&quot;&gt;summeroflabs&lt;/a&gt; y fue todo un placer. Y cuando en esta ocasión me invitó a mí y a &lt;a href=&quot;https://twitter.com/josianito&quot;&gt;@josianito&lt;/a&gt; me pareció una oportunidad estupenda para volver a colaborar con ellos. Sus cerebros son los que cualquier científico loco quisiera despedazar para ver de donde sale tanto ingenio. 
+      <description>&lt;p&gt;La semana pasada tuvimos el gusto de sumar un proyecto más a la lista de desarrollos de &lt;a href=&quot;http://interzonas.info&quot;&gt;Interzonas&lt;/a&gt;. En este caso ha sido muy especial porque se trata del nuevo proyecto de &lt;a href=&quot;http://twitter.com/merisu&quot;&gt;Miren&lt;/a&gt;, nuestra compañera de fatigas en Investic y colaboradora en Interzonas. Y como no podía ser de otra manera, hemos puesto todas las ganas e ilusión para que el resultado estuviese al nivel de las circunstancias. 
 
 &lt;/p&gt;
-&lt;p&gt;El evento lo promueve la ONG &lt;a href=&quot;http://www.anesvad.org/es/&quot;&gt;Anesvad&lt;/a&gt; y pienso que pueden acertar con el formato tipo hackhatón social.  También colabora &lt;a href=&quot;https://twitter.com/soyjavi&quot;&gt;@soyjavi&lt;/a&gt; de &lt;a href=&quot;http://tapquo.com/&quot;&gt;Tapquo&lt;/a&gt; un tótem del &quot;code&quot; por estas tierras, que le dará mucho valor al evento en el aspecto técnico. 
+&lt;p&gt;El proyecto es el Cesto de los Tesoros de Öbjek. El cesto de los tesoros es una propuesta de juego pensada para bebés de entre 4 y 18 meses. Consiste en un cesto repleto de objetos cotidianos de diferentes materiales, tamaños, formas y texturas cuyo objetivo es proporcionar estímulo, desarrollo y experiencia a los cinco sentidos del bebé.
 
 &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://apps4health.es&quot;&gt;Apps4health&lt;/a&gt; es un hackathón social.
+&lt;p&gt;En este proyecto hemos apostado por la “sencillez tecnológica”, nuestro taller artesanal nos pide que volvamos a trabajar con los materiales más simples. Os contamos lo fundamental en relación al desarrollo:
 
 &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Un hackathon social es un evento que reúne a desarrolladores/as voluntarios/as en un maratón por un tiempo determinado para trabajar empleando el mínimo de recursos y máximo ingenio en crear aplicaciones móviles como respuesta a desafíos y problemas reales que intentarán mejorar la vida de las personas.&lt;/em&gt; 
+&lt;ul&gt;
+&lt;li&gt;Web de producto. cestodelostesoros.com . Es un html5 purito, simple y claro, sin excesos y con la intención de que fuera &quot;bonito&quot;.&lt;/li&gt;
+&lt;li&gt;Tienda online. Hemos utilizado Drupal, la distribución Commerce Kickstart de Commerce Guys con alguna pequeña adaptación. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lo cierto es que estamos muy contentos con el resultado. Pero el mérito no sólo es nuestro, hemos contado con la colaboración de &lt;a href=&quot;http://www.behance.net/unaimaleski&quot;&gt;Unai Maleski&lt;/a&gt; en el enfoque y diseño de la web. En el vídeo hemos contado con &lt;a href=&quot;http://www.funtsak.net/&quot;&gt;Fun.Tsak&lt;/a&gt;
 
 &lt;/p&gt;
-&lt;p&gt;La idea es sencilla, juntarnos todo un día con las propuestas que se indican en la web y prototipar una aplicación que pueda ayudar a los demás. Siempre me ha gustado la frase ciberpunk de &lt;em&gt;La calle dará su propio uso a las tecnologías&lt;/em&gt; el hackhathón no es la calle pero es un intento de dar espacio a la calle. 
+&lt;p&gt;Os dejamos todos los enlaces al proyecto:
 
 &lt;/p&gt;
-&lt;p&gt;Todo esto se realizará el sábado día 28 de septiembre en el &lt;a href=&quot;http://espacioopen.com/&quot;&gt;espacioopen.com&lt;/a&gt; de 10 de a 22 horas. Interzonas estará por Bilbo esos días, para echar un cable en la medida de nuestras posibilidades.
+&lt;ul&gt;
+&lt;li&gt;Web &lt;a href=&quot;http://www.cestodelostesoros.com&quot;&gt;&lt;a href=&quot;http://www.cestodelostesoros.com&quot;&gt;http://www.cestodelostesoros.com&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tienda &lt;a href=&quot;http://tienda.cestodelostesoros.com&quot;&gt;&lt;a href=&quot;http://tienda.cestodelostesoros.com&quot;&gt;http://tienda.cestodelostesoros.com&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Facebook &lt;a href=&quot;http://www.facebook.com/cestotesoros&quot;&gt;&lt;a href=&quot;http://www.facebook.com/cestotesoros&quot;&gt;http://www.facebook.com/cestotesoros&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter &lt;a href=&quot;http://twiiter.com/cestotesoros&quot;&gt;@cestotesoros&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Charla Visualabs Kabia</title>
+      <link>http://blog.elfilo.net/articles/charla_visualabs/</link>
+      <pubDate>Mon, 13 Aug 2012 16:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/charla_visualabs/</guid>
+      <author></author>
+      <description>&lt;p&gt;Este Viernes se presentaron en &lt;a href=&quot;http://kabia.errenteria.net/&quot;&gt;&lt;a href=&quot;http://kabia.errenteria.net/&quot;&gt;http://kabia.errenteria.net/&lt;/a&gt;&lt;/a&gt; las residencias que se han ido trabajando en los previos del &lt;a href=&quot;http://summeroflabs.eu&quot;&gt;Summer of labs&lt;/a&gt; 
 
 &lt;/p&gt;
-&lt;p&gt;Prometo un post técnico explicando las tripas de &lt;a href=&quot;http://apps4health.es&quot;&gt;Apps4health&lt;/a&gt; ya que nos hemos encargado del la imagen corporativa como del del desarrollo web. Como adelanto digo que el front lo gobierna &lt;a href=&quot;angularjs.org&quot;&gt;Angularjs&lt;/a&gt;, el layout responsive &lt;a href=&quot;http://foundation.zurb.com/&quot;&gt;foundation 4&lt;/a&gt;. Para enviar correos utilizamos un pequeño servicio con &lt;a href=&quot;http://expressjs.com/&quot;&gt;express.js&lt;/a&gt; y &lt;a href=&quot;https://github.com/andris9/Nodemailer&quot;&gt;Nodemailer&lt;/a&gt;, y para la persistencia de datos &lt;a href=&quot;firebase.com&quot;&gt;Firebase&lt;/a&gt;. Por cierto, firebase es un proyecto tan simple y exquisito que lo queremos adoptar como gatito del taller de interzonas. 
+&lt;p&gt;También era el pistoletazo de salido del Summeroflabs @euskadi y buena escusa para contar que habíamos estado haciendo en la residencia
+
+&lt;/p&gt;
+&lt;p&gt;En mi caso me toco exponer una presentación introductoria sobre la visualización de datos. 
+Prepare una charla sencilla, para todo los publicos
+
+&lt;/p&gt;
+&lt;p&gt;Aquí se puede ver la charla: &lt;a href=&quot;http://blog.elfilo.net/charla_visualabs/#/&quot;&gt;&lt;a href=&quot;http://blog.elfilo.net/charla_visualabs/&quot;&gt;http://blog.elfilo.net/charla_visualabs/&lt;/a&gt;&lt;/a&gt;
+Y aquí se puede descargar: &lt;a href=&quot;https://github.com/karlosgliberal/charla_visualabs&quot;&gt;&lt;a href=&quot;https://github.com/karlosgliberal/charla_visualabs&quot;&gt;https://github.com/karlosgliberal/charla_visualabs&lt;/a&gt;&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Espero ir completándola, sobre todo con referencias y con las cosas que salgan en claro del Summeroflabs
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Cumplo 14 años</title>
+      <link>http://blog.elfilo.net/articles/cumplo-14/</link>
+      <pubDate>Mon, 04 Nov 2013 10:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/cumplo-14/</guid>
+      <author></author>
+      <description>&lt;p&gt;El día de mi cumpleaños cumplo años por partida doble. Uno por el día que nací y el otro por el día que decidí dejar la construcción y ponerme a hacer desarrollo web. Han pasado 38 del primero y 14 del segundo. 
+
+&lt;/p&gt;
+&lt;p&gt;Hace 14 años&lt;a href=&quot;https://twitter.com/aitor_rl&quot;&gt;@aitor_rl&lt;/a&gt; y yo entrábamos en nuestra primera oficina en la calle pozo blanco de lo viejo de Iruña. Un año entero dándole vueltas a la idea de dejar nuestras profesiones (yo albañil y Aitor instalador de aire acondicionado) para &quot;Emprender&quot; un viaje que por ahora dura 14 años. 
+
+&lt;/p&gt;
+&lt;p&gt;En estos 14 años hemos vivido de todo. Nos comimos las puntocom con patatas, montamos una granja de servidores para alquilarles espacio de juego a gammers del tipo Counterstrike, Day of defeat, hacer prototipos para Endesa, o sacar productos propios como el tanttaone, o ganar concursos en CEIN. 
+
+&lt;/p&gt;
+&lt;p&gt;Y todos los años cuando llegan estas fechas me veo a mí y a Aitor pintando los rodapiés de negro de esa oficina. 
+
+&lt;/p&gt;
+&lt;p&gt;Hace una semana terminamos nuestro último proyecto &lt;a href=&quot;http://bimehackday.net/#/&quot;&gt;bimehackday&lt;/a&gt;, el diseño y desarrollo de la web para un evento que pinta muy bien. 
+
+&lt;/p&gt;
+&lt;p&gt;La web la hemos montado con Jaime y Dani de &lt;a href=&quot;http://arteklab.org/&quot;&gt;arteklab&lt;/a&gt; y la peña de &lt;a href=&quot;http://www.ltinews.net/LTI/&quot;&gt;Lasttour&lt;/a&gt;. Ha sido algo muy sencillo, sólo un poco de &lt;a href=&quot;http://angularjs.org&quot;&gt;angularjs&lt;/a&gt; para poner orden, no sé por qué haciéndola me ha evocado esos primeros desarrollos de hace 14 años
+
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>¿Desarrollo web sobre servicios externos?</title>
+      <link>http://blog.elfilo.net/articles/desarrollo-web-sobre-servicios-externos/</link>
+      <pubDate>Thu, 03 Oct 2013 18:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/desarrollo-web-sobre-servicios-externos/</guid>
+      <author></author>
+      <description>&lt;p&gt;La semana pasada escribí un &lt;a href=&quot;http://blog.elfilo.net/articles/necesario-un-gestor-de-contenidos/&quot;&gt;post&lt;/a&gt; sobre si es necesario un gestor de contenidos. La respuesta era &quot;depende&quot;, y tal y como se fue comentando (gracias por todo el feedback) igual no siempre era tan necesario ese gestor de contenidos. También creo que la supuesta web 2.0 no sólo es social, también es distribuida. Y es el concepto de &quot;nube&quot; donde encontramos su mayor referente.
+
+&lt;/p&gt;
+&lt;p&gt;Dicho esto, la pregunta que me ronda esta semana es: ¿Es inteligente el desarrollo web sobre servicios externos?
+
+&lt;/p&gt;
+&lt;p&gt;Está claro que al final casi siempre dependemos de alguien, incluso en el clásico del hosting. Lo cierto es que los servicios externos han cambiado la forma de hacer &quot;webs&quot;. Un ejemplo sería este mismo blog: uso &lt;a href=&quot;http://github.com&quot;&gt;github&lt;/a&gt; para almacenar los htmls y &lt;a href=&quot;http://disqus.com/&quot;&gt;disqus&lt;/a&gt; para la gestión de comentarios. Esto lo podría hacer perfectamente instalando un wordpress/drupal en mi servidor y ser completamente autónomo. Pero en este caso tenía ganas de experimentar para responder estas preguntas:
+
+&lt;/p&gt;
+&lt;p&gt;¿Es inteligente esta práctica? ¿La podemos extender a nuestro clientes? 
+
+&lt;/p&gt;
+&lt;p&gt;Sin entrar en lo que ya ofrecen empresas como Amazon en la gestión de infraestructuras con su &lt;a href=&quot;http://aws.amazon.com/es/&quot;&gt;Amazon web service&lt;/a&gt;, nuestra idea es comprobar si es factible usar SaS (Software as a Service) para el desarrollo web. La lista de estos servicios es infinita, por lo que las posibilidades también lo son. La cuestión es saber si un cliente estará cómodo con estos desarrollos híbridos. 
+
+&lt;/p&gt;
+&lt;p&gt;En &lt;a href=&quot;http://interzonas.info&quot;&gt;interzonas.info&lt;/a&gt; ya hemos explorado esta idea con buenos resultados. En &lt;a href=&quot;http://apps4healths.es&quot;&gt;apps4healts&lt;/a&gt; usamos &lt;a href=&quot;http://firebase.com&quot;&gt;firebase&lt;/a&gt; para la gestión de la inscripción simplificando así mucho el desarrollo. Esta forma de desarrollar se me antoja interesante sobre todo para proyectos rápidos.
+
+&lt;/p&gt;
+&lt;p&gt;Queramos o no, cada día nuestros proyectos estás más enlazados con este tipo de servicios, desde el omnipresente &lt;a href=&quot;http://www.google.com/analytics/&quot;&gt;google analytics&lt;/a&gt; hasta un &lt;a href=&quot;https://typekit.com/&quot;&gt;typekit&lt;/a&gt;. Nuestras webs empiezan a ser una relación de servicios más que un ente autónomo, y creo que esta relación se puede explotar aun más y obtener resultados sorprendentes. Os iremos contando nuestras experiencias desde esta nueva perspectiva.
+
+
+
 
 
 
 &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;apps4health.jpg&quot; alt=&quot;apps4health.jpg&quot;&gt;
+</description>
+    </item>
+    <item>
+      <title>Drupalcamp 2012 impresiones</title>
+      <link>http://blog.elfilo.net/articles/drupalcamp-2012/</link>
+      <pubDate>Fri, 26 Oct 2012 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/drupalcamp-2012/</guid>
+      <author></author>
+      <description>&lt;p&gt;El fin de semana pasado &lt;a href=&quot;http://twitter.com/aitor_rl&quot;&gt;@aitor_rl&lt;/a&gt; y yo nos pasamos por la &lt;a href=&quot;http://2012.drupalcamp.es/es&quot;&gt;Drupalcamp&lt;/a&gt; que este año tocaba en Madrid.
+La verdad es que el tema se nos hacía un poco raro, era la primera drupalcamp desde el &lt;a href=&quot;http://www.investic.net/blog/karlos/investic-cierra-sus-puertas&quot;&gt;cierre&lt;/a&gt; de investic y bueno, nos costó un poco decidirnos.
+
+&lt;/p&gt;
+&lt;p&gt;Ahora Aitor y yo andamos terminando (o continuando) pequeñas cosas que teníamos en investic y metiéndonos en nuevos &lt;a href=&quot;http://visualabs.summeroflabs.eu/&quot;&gt;berenjenales&lt;/a&gt; y claro está, &lt;a href=&quot;http://drupal.org&quot;&gt;drupal&lt;/a&gt; es nuestro amiguito para casi todo lo que hacemos. 
+
+&lt;/p&gt;
+&lt;p&gt;En esta drupalcamp propuse dar la charla &lt;a href=&quot;http://2012.drupalcamp.es/es/sesiones/drupal-y-nodejs-amigos-o-enemigos-103&quot;&gt;Drupal y node.js ¿Amigos o Enemigos?&lt;/a&gt; que, como más de uno ya sabe, llevo tiempo coqueteando con este entorno. La charla creo que me salió más/menos bien, siempre te quedas con la duda de si mejor más ejemplos/código, o yo que sé. Pero mi sensación fue buena y la peña así me lo hizo saber. 
+
+&lt;/p&gt;
+&lt;p&gt;Con la charla tenía dos intenciones
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dar a conocer &lt;a href=&quot;http://nodejs.org&quot;&gt;Node.js&lt;/a&gt; y su ecosistema&lt;/li&gt;
+&lt;li&gt;Hablar sobre la filosofía de node.js&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La comunidad node.js es brutalmente anarquica en algunas cosas y esa manera de funcionar se puede contraponer perfectamente con la de Drupal. Aparte que para algunos temas son entornos perfectamente complementarios, pero en la parte filosófica las comunidades son diferentes. 
+
+&lt;/p&gt;
+&lt;p&gt;Por poner un ejemplo, en drupal para poder contribuir con un módulo tienes que pasar por un proceso de validación, tanto de calidad en el código como de estándares y no duplicaciones. Con esto se quiere buscar la tan ansiada calidad. 
+
+&lt;/p&gt;
+&lt;p&gt;En la comunidad de node.js para poder contribuir con un módulo sólo te tienes que dar de alta como usuario en npm y publicar tu módulo. Esto hace que en sólo dos años existan más de 16.000 módulos (20.000 tiene drupal en más de 10 años). Cada cual que valore donde encaja mejor. Mi intención con la charla fue ofrecer este punto de vista, a mi entender, más macarra. 
+
+&lt;/p&gt;
+&lt;p&gt;Por supuesto, el evento fue increíble, especialmente el lado humana. Sólo cuando vives y te mueves por una comunidad del software libre como es la de drupal te das cuenta de que el software y la tecnología es cosa de personas y por eso es tan apasionante. 
+
+&lt;/p&gt;
+&lt;p&gt;De la drupalcamp me quedo con varias cosas&#58;
+
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;symfony&lt;/li&gt;
+&lt;li&gt;symfony&lt;/li&gt;
+&lt;li&gt;symfony&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Pues eso, que drupal 8 con sus iniciativas esta repletito de symfony. Creo que la apuesta es potente y también creo que interesante. Si symfony tiene las cosas que drupal necesita, para que ostias vamos a reinventar la rueda. El miedo que me da es si para drupal 8 se llegará con todo en condiciones. Aún me acuerdo del desaguisado del media en drupal 7 o del OG. Pero bueno, eso es  adelantarnos. 
+
+&lt;/p&gt;
+&lt;p&gt;Eso sí, a ver quien es el guapo que monta un equipo completo y competente para Drupal8. Entre el experto en Drupal, el de symfony, el de maquetación (que esperemos tengan mejor vida con Twig que ahora) diseñador, etc . Esto pinta que será duro. 
+
+&lt;/p&gt;
+&lt;p&gt;En la parte que me toca me da mucha pereza empezar con Symfony. Sé que estoy muy contaminado con drupal y que reciclarme en otra cosa es difícil (está siendo difícil), pero la deriva de php me cuesta, y javascript me tira mucho. Sea como sea, ahora drupal es mi compañero de trabajo y está claro que es el mejor cms libre del momento. 
+
+&lt;/p&gt;
+&lt;p&gt;Ver charla &lt;a href=&quot;http://blog.elfilo.net/charla_nodejs/&quot;&gt;Drupal y node.js ¿Amigos o Enemigos?&lt;/a&gt;
+Codigo de la charla &lt;a href=&quot;https://github.com/karlosgliberal/charla_nodejs&quot;&gt;Drupal y node.js ¿Amigos o Enemigos?&lt;/a&gt;
 
 
-
-
+&lt;/p&gt;
+&lt;p&gt;Nos vemos en la siguiente drupalcamp XD
 &lt;/p&gt;
 </description>
     </item>
@@ -224,39 +352,6 @@ Node.js powered, Jitsu Hosted, WebRTC connected, 100% JavaScript, Camera &gt; We
 </description>
     </item>
     <item>
-      <title>Un proyecto muy especial cestodelostesoros.com</title>
-      <link>http://blog.elfilo.net/articles/cestodelostesoros.com/</link>
-      <pubDate>Tue, 17 Sep 2013 09:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://blog.elfilo.net/articles/cestodelostesoros.com/</guid>
-      <author></author>
-      <description>&lt;p&gt;La semana pasada tuvimos el gusto de sumar un proyecto más a la lista de desarrollos de &lt;a href=&quot;http://interzonas.info&quot;&gt;Interzonas&lt;/a&gt;. En este caso ha sido muy especial porque se trata del nuevo proyecto de &lt;a href=&quot;http://twitter.com/merisu&quot;&gt;Miren&lt;/a&gt;, nuestra compañera de fatigas en Investic y colaboradora en Interzonas. Y como no podía ser de otra manera, hemos puesto todas las ganas e ilusión para que el resultado estuviese al nivel de las circunstancias. 
-
-&lt;/p&gt;
-&lt;p&gt;El proyecto es el Cesto de los Tesoros de Öbjek. El cesto de los tesoros es una propuesta de juego pensada para bebés de entre 4 y 18 meses. Consiste en un cesto repleto de objetos cotidianos de diferentes materiales, tamaños, formas y texturas cuyo objetivo es proporcionar estímulo, desarrollo y experiencia a los cinco sentidos del bebé.
-
-&lt;/p&gt;
-&lt;p&gt;En este proyecto hemos apostado por la “sencillez tecnológica”, nuestro taller artesanal nos pide que volvamos a trabajar con los materiales más simples. Os contamos lo fundamental en relación al desarrollo:
-
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Web de producto. cestodelostesoros.com . Es un html5 purito, simple y claro, sin excesos y con la intención de que fuera &quot;bonito&quot;.&lt;/li&gt;
-&lt;li&gt;Tienda online. Hemos utilizado Drupal, la distribución Commerce Kickstart de Commerce Guys con alguna pequeña adaptación. &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Lo cierto es que estamos muy contentos con el resultado. Pero el mérito no sólo es nuestro, hemos contado con la colaboración de &lt;a href=&quot;http://www.behance.net/unaimaleski&quot;&gt;Unai Maleski&lt;/a&gt; en el enfoque y diseño de la web. En el vídeo hemos contado con &lt;a href=&quot;http://www.funtsak.net/&quot;&gt;Fun.Tsak&lt;/a&gt;
-
-&lt;/p&gt;
-&lt;p&gt;Os dejamos todos los enlaces al proyecto:
-
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Web &lt;a href=&quot;http://www.cestodelostesoros.com&quot;&gt;&lt;a href=&quot;http://www.cestodelostesoros.com&quot;&gt;http://www.cestodelostesoros.com&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Tienda &lt;a href=&quot;http://tienda.cestodelostesoros.com&quot;&gt;&lt;a href=&quot;http://tienda.cestodelostesoros.com&quot;&gt;http://tienda.cestodelostesoros.com&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Facebook &lt;a href=&quot;http://www.facebook.com/cestotesoros&quot;&gt;&lt;a href=&quot;http://www.facebook.com/cestotesoros&quot;&gt;http://www.facebook.com/cestotesoros&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Twitter &lt;a href=&quot;http://twiiter.com/cestotesoros&quot;&gt;@cestotesoros&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
       <title>Interzonas.info</title>
       <link>http://blog.elfilo.net/articles/interzonas-info/</link>
       <pubDate>Tue, 14 May 2013 21:00:00 +0200</pubDate>
@@ -285,6 +380,66 @@ Interzonas es un &quot;Taller estratégico en proyectos web&quot;. Y también es
 
 &lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;interzonas.png&quot; alt=&quot;interzonas&quot;&gt;
+
+
+
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Interzonas y el 2014</title>
+      <link>http://blog.elfilo.net/articles/interzonas-y-el-2014/</link>
+      <pubDate>Fri, 17 Jan 2014 10:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/interzonas-y-el-2014/</guid>
+      <author></author>
+      <description>&lt;p&gt;No soy mucho de hacer propósitos del año, y además siendo ya día 17 pues voy un poco &quot;tardano&quot;, pero es cierto que este año lo veo distinto. 
+
+&lt;/p&gt;
+&lt;p&gt;El 2013 ha sido el año de dar forma a proyectos que los teníamos en la cabeza desde hace muchísimo, y que por distintas circunstancias no nos metíamos. Pero sobre todo, el 2013 ha sido un año de sembrar, tanto para adentro como para afuera. 
+
+&lt;/p&gt;
+&lt;p&gt;Ha sido el año donde consolidamos el cierre de Investic derivando sus trabajos a &lt;a href=&quot;http://interzonas.info&quot;&gt;interzonas.info&lt;/a&gt; u otros colaboradores.
+
+&lt;/p&gt;
+&lt;p&gt;También ha sido el año del &lt;a href=&quot;http://cestodelostesoros.com/&quot;&gt;Cesto de los Tesoros&lt;/a&gt; que como ya he contando hemos participado de forma activa en las distintas fases del desarrollo. Con este proyecto hemos aprendido mucho. Hemos aprendido que las cosas hay que mimarlas, quererlas y cuidarlas, y que cuando se hace así el resultado es bueno y te quedas con muy buenas sensaciones. Con el Cesto de los Tesoros ya estamos en otra fase de búsqueda de inversores, comunicación, consolidación del proyecto, etc. Así que seguimos aprendiendo.
+
+&lt;/p&gt;
+&lt;p&gt;Pero también ha sido el año de dar forma a &lt;a href=&quot;http://interzonas.info&quot;&gt;Interzonas.info&lt;/a&gt; No ha sido fácil, en la Navarra profunda las cosas están tan jodidas como en el resto del estado, aunque a muchos no les guste decirlo . Y lo que nos pensábamos que sería sencillo ha resultado más difícil y sobre todo lento. Pero poco a poco Interzonas se está conociendo y nos esta permitiendo trabajar en proyectos nuevos con clientes/colaboradores nuevos. 
+
+&lt;/p&gt;
+&lt;p&gt;En este blog y en el &lt;a href=&quot;http://twitter.com/patxangas&quot;&gt;twitter&lt;/a&gt; suelo contar las cosas que vamos haciendo. Y así sabréis que sobre todo hemos dado un giro hacia el Front End, un aspecto que en Drupal es siempre más complejo y que ahora, al no centrarnos sólo en este CMS, es más fácil de proponer a los clientes. 
+
+&lt;/p&gt;
+&lt;p&gt;Estamos intentando aplicar esta idea &quot;del rollo punk&quot; sobre todo a la hora de discutir los presupuestos. Es cierto que son proyectos más pequeños que en la era de Investic (algo que deseábamos y buscamos) y que la parte comercial se simplifica. Pero los tiempos están cambiando y esto de tirar los dados, que es en lo que muchas veces se convierte hacer un presupuesto, se tiene que acabar. La cultura del desarrollo ágil está para quedarse y no podemos seguir anclados en rollos viejunos. 
+
+&lt;/p&gt;
+&lt;p&gt;Los que ya me conocéis, una de las cosas que más me gusta es estar a la última. Este año hemos querido contar todas esas cosas interesantes a través de charlas y talleres. Es una manera de dar a conocer esas tendencias que desde el laboratorio de Interzonas vamos descubriendo. Este es un listado de las charlas y talleres que hemos dado
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Taller básico de Arduino en el &lt;a href=&quot;http://www.cocoworking.com/&quot;&gt;cocoworking&lt;/a&gt; con el gran &lt;a href=&quot;http://twitter.com/oierbravo&quot;&gt;Oier bravo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Cómo montar tu arcade con raspberry en &lt;a href=&quot;http://hirikilabs.tabakalera.eu/&quot;&gt;hirikilabs&lt;/a&gt; en Donosti gracias a &lt;a href=&quot;https://twitter.com/josianito&quot;&gt;Josianito&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Economía de la experiencia en los juegos inmersivos en Arteleku Donosti&lt;/li&gt;
+&lt;li&gt;Programación orientada a flujos (&lt;a href=&quot;http://noflojs.org/&quot;&gt;noflow&lt;/a&gt; el nuevo hype) en el &lt;a href=&quot;http://bimehackday.net/#/conferencias#flow&quot;&gt;Bimehackday&lt;/a&gt; Bilbo&lt;/li&gt;
+&lt;li&gt;Participamos en el hackathon de la ong Anesvad&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;No meto todo por no aburrir, pero creo que vale como resumen, eso sí prometo publicar todas las charlas.
+
+&lt;/p&gt;
+&lt;p&gt;Y todo esto nos trae a este año. ¿Qué va a pasar en el 2014 con Interzonas? 
+
+&lt;/p&gt;
+&lt;p&gt;&quot;Aventuras, emociones, no son cosas que anhela un Jedi&quot;, pero pinta que vamos a tener de todo esto, y en cantidad. 
+
+&lt;/p&gt;
+&lt;p&gt;Por de pronto en un giro inesperado la oficina de Interzonas (hasta la fecha algo más bien itinerante y casera) se desplaza a las oficinas de &lt;a href=&quot;http://www.biko2.com/&quot;&gt;Biko2&lt;/a&gt;. &lt;a href=&quot;https://twitter.com/diegocenzano&quot;&gt;Diego Cenzano&lt;/a&gt; nos propuso participar en este experimento, donde nosotros Interzonas &quot;okupamos&quot; su oficina. La idea es buscar nuevas formas de colaboración y relación. Y nosotros, que somos dados a enredar, nos pareció una gran oportunidad. Podemos aprender mucho en Biko2 y también creemos que podemos aportar nuestro granito de arena. 
+
+&lt;/p&gt;
+&lt;p&gt;También para este año queremos consolidar la idea de que Interzonas es un taller/laboratorio de experimentación en proyectos web. Cada vez lo vemos más claro, tenemos la experiencia acumulada para proponer prototipos que otros no se atreverían. Y en estos tiempos extraños, pensar diferente puede ser determinante. 
+
+&lt;/p&gt;
+&lt;p&gt;Seguiré contando 
 
 
 
@@ -394,276 +549,6 @@ client &lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; server&lt;/code
 &lt;p&gt;Dejo esta presentación que tengo preparada de Meteor &lt;a href=&quot;http://www.slid.us/eeg5#/&quot;&gt;&lt;a href=&quot;http://www.slid.us/eeg5#/&quot;&gt;http://www.slid.us/eeg5#/&lt;/a&gt;&lt;/a&gt;, que está realizada con &lt;a href=&quot;http://www.slid.us/eeg5#/&quot;&gt;&lt;a href=&quot;http://www.slid.us&quot;&gt;http://www.slid.us&lt;/a&gt;&lt;/a&gt;. Otro día hablaré de Slidus
 
 &lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>¿Desarrollo web sobre servicios externos?</title>
-      <link>http://blog.elfilo.net/articles/desarrollo-web-sobre-servicios-externos/</link>
-      <pubDate>Thu, 03 Oct 2013 18:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://blog.elfilo.net/articles/desarrollo-web-sobre-servicios-externos/</guid>
-      <author></author>
-      <description>&lt;p&gt;La semana pasada escribí un &lt;a href=&quot;http://blog.elfilo.net/articles/necesario-un-gestor-de-contenidos/&quot;&gt;post&lt;/a&gt; sobre si es necesario un gestor de contenidos. La respuesta era &quot;depende&quot;, y tal y como se fue comentando (gracias por todo el feedback) igual no siempre era tan necesario ese gestor de contenidos. También creo que la supuesta web 2.0 no sólo es social, también es distribuida. Y es el concepto de &quot;nube&quot; donde encontramos su mayor referente.
-
-&lt;/p&gt;
-&lt;p&gt;Dicho esto, la pregunta que me ronda esta semana es: ¿Es inteligente el desarrollo web sobre servicios externos?
-
-&lt;/p&gt;
-&lt;p&gt;Está claro que al final casi siempre dependemos de alguien, incluso en el clásico del hosting. Lo cierto es que los servicios externos han cambiado la forma de hacer &quot;webs&quot;. Un ejemplo sería este mismo blog: uso &lt;a href=&quot;http://github.com&quot;&gt;github&lt;/a&gt; para almacenar los htmls y &lt;a href=&quot;http://disqus.com/&quot;&gt;disqus&lt;/a&gt; para la gestión de comentarios. Esto lo podría hacer perfectamente instalando un wordpress/drupal en mi servidor y ser completamente autónomo. Pero en este caso tenía ganas de experimentar para responder estas preguntas:
-
-&lt;/p&gt;
-&lt;p&gt;¿Es inteligente esta práctica? ¿La podemos extender a nuestro clientes? 
-
-&lt;/p&gt;
-&lt;p&gt;Sin entrar en lo que ya ofrecen empresas como Amazon en la gestión de infraestructuras con su &lt;a href=&quot;http://aws.amazon.com/es/&quot;&gt;Amazon web service&lt;/a&gt;, nuestra idea es comprobar si es factible usar SaS (Software as a Service) para el desarrollo web. La lista de estos servicios es infinita, por lo que las posibilidades también lo son. La cuestión es saber si un cliente estará cómodo con estos desarrollos híbridos. 
-
-&lt;/p&gt;
-&lt;p&gt;En &lt;a href=&quot;http://interzonas.info&quot;&gt;interzonas.info&lt;/a&gt; ya hemos explorado esta idea con buenos resultados. En &lt;a href=&quot;http://apps4healths.es&quot;&gt;apps4healts&lt;/a&gt; usamos &lt;a href=&quot;http://firebase.com&quot;&gt;firebase&lt;/a&gt; para la gestión de la inscripción simplificando así mucho el desarrollo. Esta forma de desarrollar se me antoja interesante sobre todo para proyectos rápidos.
-
-&lt;/p&gt;
-&lt;p&gt;Queramos o no, cada día nuestros proyectos estás más enlazados con este tipo de servicios, desde el omnipresente &lt;a href=&quot;http://www.google.com/analytics/&quot;&gt;google analytics&lt;/a&gt; hasta un &lt;a href=&quot;https://typekit.com/&quot;&gt;typekit&lt;/a&gt;. Nuestras webs empiezan a ser una relación de servicios más que un ente autónomo, y creo que esta relación se puede explotar aun más y obtener resultados sorprendentes. Os iremos contando nuestras experiencias desde esta nueva perspectiva.
-
-
-
-
-
-
-&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>¿Es necesario un gestor de contenidos?</title>
-      <link>http://blog.elfilo.net/articles/necesario-un-gestor-de-contenidos/</link>
-      <pubDate>Tue, 17 Sep 2013 09:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://blog.elfilo.net/articles/necesario-un-gestor-de-contenidos/</guid>
-      <author></author>
-      <description>&lt;p&gt;Durante los últimos años me he dedicado a la gestión de contenidos, y como muchos ya sabéis esto lo solucionábamos con el fantástico gestor de contenidos &lt;a href=&quot;http://drupal.org&quot;&gt;Drupa&lt;/a&gt;. Pero creo que los tiempos han cambiado y esta práctica de instalar un cms a la primera de cambio ya no es tan interesante, incluso contraproducente según el caso. 
-
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Primero, hemos aprendido que hacer una buena &quot;gestión de contenidos&quot; no es fácil. Se necesitan contenidos y no todas las organizaciones pueden asumir el crear contenido de forma cotidiana. &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Segundo, HTML5 ha venido para quedarse y las &quot;webs&quot; se han convertido en webapps. Esto está haciendo que la experiencia de usuario y el diseño sea más importante.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Y entonces, si no hay CMS ¿qué metemos? Pues es una gran pregunta. En &lt;a href=&quot;http://interzonas.info&quot;&gt;interzonas&lt;/a&gt; hemos discutido mucho al respecto y las últimas experiencias adquiridas tanto en las web de producto (la nuestra de interzonas y la de &lt;a href=&quot;http://cestodelostesoros.com/&quot;&gt;Cesto de los tesoros&lt;/a&gt;) como las web de eventos (&lt;a href=&quot;http://apps4health.es/#/&quot;&gt;apps4health&lt;/a&gt;) nos han dado algunas pistas. 
-
-&lt;/p&gt;
-&lt;p&gt;Si la cantidad de &quot;contenidos&quot; no es muy grande, y la creación y actualización de contenidos por el cliente no es necesaria, crear el contenido en html directamente no es tan mala idea. Abstraer tu contenido al CMS tiene un coste y ese &quot;dinero&quot; lo podrías invertir en hacer una web más atractiva sin los límites que tienen los sistemas de plantillas actuales. En realidad lo importante es identificar cuál es la clave del proyecto y decidir donde quieres poner el foco, y en consecuencia tu dinero. 
-
-
-&lt;/p&gt;
-&lt;p&gt;Por supuesto no soy el primero que lo dice, &lt;a href=&quot;http://developmentseed.org/&quot;&gt;developmentseed&lt;/a&gt; en su gran post &lt;a href=&quot;http://developmentseed.org/blog/2012/07/27/build-cms-free-websites/&quot;&gt;Como crear una web libre de CMS&lt;/a&gt; dejan muy clara esta idea.
-
-&lt;/p&gt;
-&lt;p&gt;O este otro interesante post &lt;a href=&quot;http://bergie.iki.fi/blog/decoupling_content_management/&quot;&gt;Desacomplando la gestión de contenidos&lt;/a&gt;
-
-
-
-
-&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Drupalcamp 2012 impresiones</title>
-      <link>http://blog.elfilo.net/articles/drupalcamp-2012/</link>
-      <pubDate>Fri, 26 Oct 2012 15:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://blog.elfilo.net/articles/drupalcamp-2012/</guid>
-      <author></author>
-      <description>&lt;p&gt;El fin de semana pasado &lt;a href=&quot;http://twitter.com/aitor_rl&quot;&gt;@aitor_rl&lt;/a&gt; y yo nos pasamos por la &lt;a href=&quot;http://2012.drupalcamp.es/es&quot;&gt;Drupalcamp&lt;/a&gt; que este año tocaba en Madrid.
-La verdad es que el tema se nos hacía un poco raro, era la primera drupalcamp desde el &lt;a href=&quot;http://www.investic.net/blog/karlos/investic-cierra-sus-puertas&quot;&gt;cierre&lt;/a&gt; de investic y bueno, nos costó un poco decidirnos.
-
-&lt;/p&gt;
-&lt;p&gt;Ahora Aitor y yo andamos terminando (o continuando) pequeñas cosas que teníamos en investic y metiéndonos en nuevos &lt;a href=&quot;http://visualabs.summeroflabs.eu/&quot;&gt;berenjenales&lt;/a&gt; y claro está, &lt;a href=&quot;http://drupal.org&quot;&gt;drupal&lt;/a&gt; es nuestro amiguito para casi todo lo que hacemos. 
-
-&lt;/p&gt;
-&lt;p&gt;En esta drupalcamp propuse dar la charla &lt;a href=&quot;http://2012.drupalcamp.es/es/sesiones/drupal-y-nodejs-amigos-o-enemigos-103&quot;&gt;Drupal y node.js ¿Amigos o Enemigos?&lt;/a&gt; que, como más de uno ya sabe, llevo tiempo coqueteando con este entorno. La charla creo que me salió más/menos bien, siempre te quedas con la duda de si mejor más ejemplos/código, o yo que sé. Pero mi sensación fue buena y la peña así me lo hizo saber. 
-
-&lt;/p&gt;
-&lt;p&gt;Con la charla tenía dos intenciones
-
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Dar a conocer &lt;a href=&quot;http://nodejs.org&quot;&gt;Node.js&lt;/a&gt; y su ecosistema&lt;/li&gt;
-&lt;li&gt;Hablar sobre la filosofía de node.js&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;La comunidad node.js es brutalmente anarquica en algunas cosas y esa manera de funcionar se puede contraponer perfectamente con la de Drupal. Aparte que para algunos temas son entornos perfectamente complementarios, pero en la parte filosófica las comunidades son diferentes. 
-
-&lt;/p&gt;
-&lt;p&gt;Por poner un ejemplo, en drupal para poder contribuir con un módulo tienes que pasar por un proceso de validación, tanto de calidad en el código como de estándares y no duplicaciones. Con esto se quiere buscar la tan ansiada calidad. 
-
-&lt;/p&gt;
-&lt;p&gt;En la comunidad de node.js para poder contribuir con un módulo sólo te tienes que dar de alta como usuario en npm y publicar tu módulo. Esto hace que en sólo dos años existan más de 16.000 módulos (20.000 tiene drupal en más de 10 años). Cada cual que valore donde encaja mejor. Mi intención con la charla fue ofrecer este punto de vista, a mi entender, más macarra. 
-
-&lt;/p&gt;
-&lt;p&gt;Por supuesto, el evento fue increíble, especialmente el lado humana. Sólo cuando vives y te mueves por una comunidad del software libre como es la de drupal te das cuenta de que el software y la tecnología es cosa de personas y por eso es tan apasionante. 
-
-&lt;/p&gt;
-&lt;p&gt;De la drupalcamp me quedo con varias cosas&#58;
-
-&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;symfony&lt;/li&gt;
-&lt;li&gt;symfony&lt;/li&gt;
-&lt;li&gt;symfony&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Pues eso, que drupal 8 con sus iniciativas esta repletito de symfony. Creo que la apuesta es potente y también creo que interesante. Si symfony tiene las cosas que drupal necesita, para que ostias vamos a reinventar la rueda. El miedo que me da es si para drupal 8 se llegará con todo en condiciones. Aún me acuerdo del desaguisado del media en drupal 7 o del OG. Pero bueno, eso es  adelantarnos. 
-
-&lt;/p&gt;
-&lt;p&gt;Eso sí, a ver quien es el guapo que monta un equipo completo y competente para Drupal8. Entre el experto en Drupal, el de symfony, el de maquetación (que esperemos tengan mejor vida con Twig que ahora) diseñador, etc . Esto pinta que será duro. 
-
-&lt;/p&gt;
-&lt;p&gt;En la parte que me toca me da mucha pereza empezar con Symfony. Sé que estoy muy contaminado con drupal y que reciclarme en otra cosa es difícil (está siendo difícil), pero la deriva de php me cuesta, y javascript me tira mucho. Sea como sea, ahora drupal es mi compañero de trabajo y está claro que es el mejor cms libre del momento. 
-
-&lt;/p&gt;
-&lt;p&gt;Ver charla &lt;a href=&quot;http://blog.elfilo.net/charla_nodejs/&quot;&gt;Drupal y node.js ¿Amigos o Enemigos?&lt;/a&gt;
-Codigo de la charla &lt;a href=&quot;https://github.com/karlosgliberal/charla_nodejs&quot;&gt;Drupal y node.js ¿Amigos o Enemigos?&lt;/a&gt;
-
-
-&lt;/p&gt;
-&lt;p&gt;Nos vemos en la siguiente drupalcamp XD
-&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Primeras pruebas con los datos abiertos de http://opendata.navarra.es</title>
-      <link>http://blog.elfilo.net/articles/primeras-pruebas-opendata/</link>
-      <pubDate>Thu, 01 Sep 2011 15:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://blog.elfilo.net/articles/primeras-pruebas-opendata/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;p&gt;Hace tiempo que no escribo ning&uacute;n post, la verdad que no tenia muy claro si tenia sentido esa sensaci&oacute;n de hablarle al vac&iacute;o. Ademas mi blog &lt;a href=&quot;http://karlogliberal.investic.net&quot;&gt;http://karlogliberal.investic.net&lt;/a&gt; ya no me molaba XD. Tenia este tumblr que tampoco es que sea la panacea pero bueno por lo menos es rapido y a modo de almac&eacute;n me gusta.&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;El planteamiento va ha ser simplificar aun m&aacute;s los post, mantener el tema de almac&eacute;n tanto de ideas como de mis experimentos. Creo que eso puede estar bien, siempre estoy probando cosas nuevas y contarlo puede contribuir un poco.&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Bueno al tema :)&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Hace un par de d&iacute;as los grandes de @developmentseed publicaron &lt;a href=&quot;http://tilemill.com/ &quot; title=&quot;http://tilemill.com/ &quot;&gt;tilemill.com&lt;/a&gt; que se engloba dentro de la &quot;movida&quot;&nbsp;&lt;a href=&quot; http://mapbox.com/&quot; title=&quot; http://mapbox.com/&quot;&gt;mapbox.com&lt;/a&gt;&nbsp;&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;blockquote&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;TileMill es una herramienta poderosa para el dise&ntilde;o de mapas y por supuesto en software libre.&nbsp;&lt;/pe-dominio.html&quot;&gt;DSL&lt;/a&gt; tipo &lt;a href=&quot;http://www.sinatrarb.com/&quot; title=&quot;http://www.sinatrarb.com/&quot;&gt;sinatra&lt;/a&gt; y ver que que esta pe&ntilde;a del mundo de &lt;a href=&quot;http://drupal.org&quot; title=&quot;drupal.org&quot;&gt;drupal&lt;/a&gt; se sacan de la manga este pedazo de desarroentos de esas capas.&nbsp;&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Dejo esta captura&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;&lt;img src=&quot;http://media.tumblr.com/tumblr_lgxmiedm7B1qzyc28.png&quot; /&gt;&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Una vez realizada el mapa se puede exportar en png, pdf, o en &lt;a href=&quot;http://mapbox.com/documentation/mbtiles-file-formath.org/&quot;&gt;@developmentseed&lt;/a&gt; basado en sqlite3 una ca&ntilde;a vamos.&nbsp;&lt;/p&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Estoy en modo pruebas seguire contando.&lt;/p&gt;&quot;
-&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Residencia SummerOfLabs Euskadi</title>
-      <link>http://blog.elfilo.net/articles/residencia-visualizacion-summeroflabs-eu/</link>
-      <pubDate>Thu, 26 Jul 2012 22:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://blog.elfilo.net/articles/residencia-visualizacion-summeroflabs-eu/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;img src=&quot;banner.png&quot; alt=&quot;banner&quot;&gt;
-
-&lt;/p&gt;
-&lt;p&gt;Primer post con fundamento del blogs desde la nueva era post investic.
-
-&lt;/p&gt;
-&lt;p&gt;Hoy voy a hablar del encargo/residencia que desde tabakalera nos pidieron a &lt;a href=&quot;http://twitter.com/aitor_rl&quot;&gt;@aitor_rl&lt;/a&gt; y a mi (futuro interzonas). La idea era sencilla en un principio, por un lado crear una herramienta de inscripción para el encuentro SummerOfLabs y por otro lado con algunos de los datos de esa inscripción realizar una visualización. 
-
-&lt;/p&gt;
-&lt;p&gt;La herramienta de inscripción (el encargo) se monto con un &lt;a href=&quot;http://drupal.org&quot;&gt;drupal&lt;/a&gt; conforme avanzábamos en las conversaciones vimos que podíamos aprovechar la herramienta para algo más y se convirtió en la flamante y modesta web del &lt;a href=&quot;http://summeroflabs.eu&quot;&gt;SummerOfLabs euskadi&lt;/a&gt;
-
-&lt;/p&gt;
-&lt;p&gt;También se valoró que hubiera una primera visualización algo sencillo y que nosotros (interzonas) tuviéramos el control &quot;editorial&quot;, es en ese momento donde &quot;tom&quot; (yo) vió que se podía montar una catedral. 
-
-&lt;/p&gt;
-&lt;p&gt;La visualización se realiza con el interés de los inscritos que lo indican apuntándose a un grupo cerrado de nodos (charlas, talleres etc) del encuentro. 
-
-&lt;/p&gt;
-&lt;p&gt;Estos son los elementos que tienen nuestra catedral. 
-
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Drupal para la gestión de inscritos y como enlace con la base de datos fluidinfo&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://fluidinfo.com&quot;&gt;fludiinfo&lt;/a&gt; Mi proyecto &quot;prefe&quot; una base de datos en la nube que permite entender el almacenamiento de forma diferente, los datos se pueden reutilizar y los datos son tu api. Es tan bonito como suena.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://d3js.org/&quot;&gt;d3.js&lt;/a&gt; &quot;La herramienta&quot; de la visualización de datos. Ellos dicen que su biblioteca no muestra datos los transforma. Una sutiliza que tiene su sentido sobre todo en visualizaciones dinámicas&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;El resultado se puede ver en &lt;a href=&quot;http://visualabs.summeroflabs.eu/&quot;&gt;&lt;a href=&quot;http://visualabs.summeroflabs.eu/&quot;&gt;http://visualabs.summeroflabs.eu/&lt;/a&gt;&lt;/a&gt; es algo modesto pero para ser la primara experiencia con d3.js estamos contentos.
-
-
-&lt;/p&gt;
-&lt;p&gt;En posteriores post profundizare con cada uno de los elementos que hemos usado.
-
-&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Tengo nuevo amigo http://meemoo.org/</title>
-      <link>http://blog.elfilo.net/articles/nuevo-amigo-meemoo/</link>
-      <pubDate>Tue, 11 Sep 2012 23:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://blog.elfilo.net/articles/nuevo-amigo-meemoo/</guid>
-      <author></author>
-      <description>&lt;p&gt;Pues eso que andaba yo metiéndole un rato al &lt;a href=&quot;http://idflood.github.com/ThreeNodes.js/&quot;&gt;threenodes&lt;/a&gt; (mola aunque es un poco tosco) vi que el colega que lo esta desarrollando &lt;a href=&quot;https://twitter.com/idflood&quot;&gt;@idflood&lt;/a&gt; hablaba de &lt;a href=&quot;http://meemoo.org&quot;&gt;meemoo.org&lt;/a&gt; 
-
-&lt;/p&gt;
-&lt;p&gt;La idea es brutal es rollo &quot;rayitas&quot; que unen &quot;cagitas&quot; tipo &lt;a href=&quot;http://puredata.info/&quot;&gt;pure-data&lt;/a&gt; o los guays de &lt;a href=&quot;vvvv.org&quot;&gt;vvvv&lt;/a&gt; XD, 
-La mecánica es similar cada módulo (serian los nods en 4v), dividido por tipos y cada uno de ellos tiene tantas entradas y salidas como corresponda, y como en todos estos softwares con la unión de ellas se hace el patch. Pero la caña reside en que cada caja es &quot;purito html&quot; con javascript que es el que crea las entradas y salidas. 
-
-&lt;/p&gt;
-&lt;p&gt;Dicho de otra manera cualquier locura que se pueda hacer en html5 se le puede añadir estas entradas y salidas y entonces pueden ser enganchadas en meemoo.org. 
-Por ejemplo puedes añadir en tu servidor un html (con su javascript) y esto puede ser añadido desde la sección de modules &quot;search or url&quot; 
-
-&lt;/p&gt;
-&lt;p&gt;Por supuesto podemos guardar el proyecto, crea un json con cada una de las propiedades y en el se pueden ver los enlaces a los modulos, pego un ejemplo
-
-&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{
-  &quot;info&quot;: {
-    &quot;title&quot;: &quot;(speech to) text to speech&quot;,
-    &quot;author&quot;: &quot;forresto&quot;,
-    &quot;description&quot;: &quot;(in chrome, speech to) text to speech&quot;,
-    &quot;url&quot;: &quot;text2speech&quot;
-  },
-  &quot;nodes&quot;: [
-    {
-      &quot;src&quot;: &quot;http://forresto.github.com/meemoo-modules/speech2text.html&quot;,
-      &quot;x&quot;: 162,
-      &quot;y&quot;: 61,
-      &quot;z&quot;: 0,
-      &quot;w&quot;: 346,
-      &quot;h&quot;: 98,
-      &quot;state&quot;: {},
-      &quot;id&quot;: 1
-    },
-    {
-      &quot;src&quot;: &quot;http://forresto.github.com/meemoo-speak.js/text2speech.html&quot;,
-      &quot;x&quot;: 234,
-      &quot;y&quot;: 221,
-      &quot;z&quot;: 0,
-      &quot;w&quot;: 167,
-      &quot;h&quot;: 117,
-      &quot;state&quot;: {
-        &quot;amplitude&quot;: 100,
-        &quot;pitch&quot;: 50,
-        &quot;speed&quot;: 175,
-        &quot;wordgap&quot;: 0
-      },
-      &quot;id&quot;: 2
-    },&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Bueno pues si este código lo guardas en un &lt;a href=&quot;https://gist.github.com/&quot;&gt;gist&lt;/a&gt; puedes visualizar tus patch de esta manera &lt;a href=&quot;http://meemoo.org/iframework/#gist/3124854&quot;&gt;&lt;a href=&quot;http://meemoo.org/iframework/#gist/3124854&quot;&gt;http://meemoo.org/iframework/#gist/3124854&lt;/a&gt;&lt;/a&gt; el número al final es el id del gist creado.
-
-&lt;/p&gt;
-&lt;p&gt;El potencial es brutal.
-
-&lt;/p&gt;
-&lt;p&gt;Os lo aviso os voy a volver locos con el juguetico 
-
-&lt;/p&gt;
-&lt;p&gt;Referencias
-
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://meemoo.org/iframework/&quot;&gt;&lt;a href=&quot;http://meemoo.org/iframework/&quot;&gt;http://meemoo.org/iframework/&lt;/a&gt;&lt;/a&gt; -&gt; este es la demo que explica el temita&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://meemoo.org/hack-our-apps/&quot;&gt;&lt;a href=&quot;http://meemoo.org/hack-our-apps/&quot;&gt;http://meemoo.org/hack-our-apps/&lt;/a&gt;&lt;/a&gt; -&gt; galeria de patch&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://forresto.github.com/meemoo-image/text.html&quot;&gt;&lt;a href=&quot;http://forresto.github.com/meemoo-image/text.html&quot;&gt;http://forresto.github.com/meemoo-image/text.html&lt;/a&gt;&lt;/a&gt; -&gt; ejemplo de módulo &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://twitter.com/forresto&quot;&gt;@forresto&lt;/a&gt; -&gt; el crack que lo ha desarrollado&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     <item>
@@ -838,6 +723,181 @@ Recomiendo este proyecto para poder arrancar con todas las piezas &lt;a href=&qu
 &lt;/p&gt;
 &lt;p&gt;Demo: &lt;a href=&quot;http://minimaleguraldiapp.interzonas.info&quot;&gt;minimaleguraldiapp.interzonas.info&lt;/a&gt;
 Github: &lt;a href=&quot;https://github.com/karlosgliberal/eguraldia&quot;&gt;github.com/karlosgliberal/eguraldia&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>¿Es necesario un gestor de contenidos?</title>
+      <link>http://blog.elfilo.net/articles/necesario-un-gestor-de-contenidos/</link>
+      <pubDate>Tue, 17 Sep 2013 09:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/necesario-un-gestor-de-contenidos/</guid>
+      <author></author>
+      <description>&lt;p&gt;Durante los últimos años me he dedicado a la gestión de contenidos, y como muchos ya sabéis esto lo solucionábamos con el fantástico gestor de contenidos &lt;a href=&quot;http://drupal.org&quot;&gt;Drupa&lt;/a&gt;. Pero creo que los tiempos han cambiado y esta práctica de instalar un cms a la primera de cambio ya no es tan interesante, incluso contraproducente según el caso. 
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Primero, hemos aprendido que hacer una buena &quot;gestión de contenidos&quot; no es fácil. Se necesitan contenidos y no todas las organizaciones pueden asumir el crear contenido de forma cotidiana. &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Segundo, HTML5 ha venido para quedarse y las &quot;webs&quot; se han convertido en webapps. Esto está haciendo que la experiencia de usuario y el diseño sea más importante.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Y entonces, si no hay CMS ¿qué metemos? Pues es una gran pregunta. En &lt;a href=&quot;http://interzonas.info&quot;&gt;interzonas&lt;/a&gt; hemos discutido mucho al respecto y las últimas experiencias adquiridas tanto en las web de producto (la nuestra de interzonas y la de &lt;a href=&quot;http://cestodelostesoros.com/&quot;&gt;Cesto de los tesoros&lt;/a&gt;) como las web de eventos (&lt;a href=&quot;http://apps4health.es/#/&quot;&gt;apps4health&lt;/a&gt;) nos han dado algunas pistas. 
+
+&lt;/p&gt;
+&lt;p&gt;Si la cantidad de &quot;contenidos&quot; no es muy grande, y la creación y actualización de contenidos por el cliente no es necesaria, crear el contenido en html directamente no es tan mala idea. Abstraer tu contenido al CMS tiene un coste y ese &quot;dinero&quot; lo podrías invertir en hacer una web más atractiva sin los límites que tienen los sistemas de plantillas actuales. En realidad lo importante es identificar cuál es la clave del proyecto y decidir donde quieres poner el foco, y en consecuencia tu dinero. 
+
+
+&lt;/p&gt;
+&lt;p&gt;Por supuesto no soy el primero que lo dice, &lt;a href=&quot;http://developmentseed.org/&quot;&gt;developmentseed&lt;/a&gt; en su gran post &lt;a href=&quot;http://developmentseed.org/blog/2012/07/27/build-cms-free-websites/&quot;&gt;Como crear una web libre de CMS&lt;/a&gt; dejan muy clara esta idea.
+
+&lt;/p&gt;
+&lt;p&gt;O este otro interesante post &lt;a href=&quot;http://bergie.iki.fi/blog/decoupling_content_management/&quot;&gt;Desacomplando la gestión de contenidos&lt;/a&gt;
+
+
+
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Tengo nuevo amigo http://meemoo.org/</title>
+      <link>http://blog.elfilo.net/articles/nuevo-amigo-meemoo/</link>
+      <pubDate>Tue, 11 Sep 2012 23:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/nuevo-amigo-meemoo/</guid>
+      <author></author>
+      <description>&lt;p&gt;Pues eso que andaba yo metiéndole un rato al &lt;a href=&quot;http://idflood.github.com/ThreeNodes.js/&quot;&gt;threenodes&lt;/a&gt; (mola aunque es un poco tosco) vi que el colega que lo esta desarrollando &lt;a href=&quot;https://twitter.com/idflood&quot;&gt;@idflood&lt;/a&gt; hablaba de &lt;a href=&quot;http://meemoo.org&quot;&gt;meemoo.org&lt;/a&gt; 
+
+&lt;/p&gt;
+&lt;p&gt;La idea es brutal es rollo &quot;rayitas&quot; que unen &quot;cagitas&quot; tipo &lt;a href=&quot;http://puredata.info/&quot;&gt;pure-data&lt;/a&gt; o los guays de &lt;a href=&quot;vvvv.org&quot;&gt;vvvv&lt;/a&gt; XD, 
+La mecánica es similar cada módulo (serian los nods en 4v), dividido por tipos y cada uno de ellos tiene tantas entradas y salidas como corresponda, y como en todos estos softwares con la unión de ellas se hace el patch. Pero la caña reside en que cada caja es &quot;purito html&quot; con javascript que es el que crea las entradas y salidas. 
+
+&lt;/p&gt;
+&lt;p&gt;Dicho de otra manera cualquier locura que se pueda hacer en html5 se le puede añadir estas entradas y salidas y entonces pueden ser enganchadas en meemoo.org. 
+Por ejemplo puedes añadir en tu servidor un html (con su javascript) y esto puede ser añadido desde la sección de modules &quot;search or url&quot; 
+
+&lt;/p&gt;
+&lt;p&gt;Por supuesto podemos guardar el proyecto, crea un json con cada una de las propiedades y en el se pueden ver los enlaces a los modulos, pego un ejemplo
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{
+  &quot;info&quot;: {
+    &quot;title&quot;: &quot;(speech to) text to speech&quot;,
+    &quot;author&quot;: &quot;forresto&quot;,
+    &quot;description&quot;: &quot;(in chrome, speech to) text to speech&quot;,
+    &quot;url&quot;: &quot;text2speech&quot;
+  },
+  &quot;nodes&quot;: [
+    {
+      &quot;src&quot;: &quot;http://forresto.github.com/meemoo-modules/speech2text.html&quot;,
+      &quot;x&quot;: 162,
+      &quot;y&quot;: 61,
+      &quot;z&quot;: 0,
+      &quot;w&quot;: 346,
+      &quot;h&quot;: 98,
+      &quot;state&quot;: {},
+      &quot;id&quot;: 1
+    },
+    {
+      &quot;src&quot;: &quot;http://forresto.github.com/meemoo-speak.js/text2speech.html&quot;,
+      &quot;x&quot;: 234,
+      &quot;y&quot;: 221,
+      &quot;z&quot;: 0,
+      &quot;w&quot;: 167,
+      &quot;h&quot;: 117,
+      &quot;state&quot;: {
+        &quot;amplitude&quot;: 100,
+        &quot;pitch&quot;: 50,
+        &quot;speed&quot;: 175,
+        &quot;wordgap&quot;: 0
+      },
+      &quot;id&quot;: 2
+    },&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Bueno pues si este código lo guardas en un &lt;a href=&quot;https://gist.github.com/&quot;&gt;gist&lt;/a&gt; puedes visualizar tus patch de esta manera &lt;a href=&quot;http://meemoo.org/iframework/#gist/3124854&quot;&gt;&lt;a href=&quot;http://meemoo.org/iframework/#gist/3124854&quot;&gt;http://meemoo.org/iframework/#gist/3124854&lt;/a&gt;&lt;/a&gt; el número al final es el id del gist creado.
+
+&lt;/p&gt;
+&lt;p&gt;El potencial es brutal.
+
+&lt;/p&gt;
+&lt;p&gt;Os lo aviso os voy a volver locos con el juguetico 
+
+&lt;/p&gt;
+&lt;p&gt;Referencias
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://meemoo.org/iframework/&quot;&gt;&lt;a href=&quot;http://meemoo.org/iframework/&quot;&gt;http://meemoo.org/iframework/&lt;/a&gt;&lt;/a&gt; -&gt; este es la demo que explica el temita&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://meemoo.org/hack-our-apps/&quot;&gt;&lt;a href=&quot;http://meemoo.org/hack-our-apps/&quot;&gt;http://meemoo.org/hack-our-apps/&lt;/a&gt;&lt;/a&gt; -&gt; galeria de patch&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://forresto.github.com/meemoo-image/text.html&quot;&gt;&lt;a href=&quot;http://forresto.github.com/meemoo-image/text.html&quot;&gt;http://forresto.github.com/meemoo-image/text.html&lt;/a&gt;&lt;/a&gt; -&gt; ejemplo de módulo &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/forresto&quot;&gt;@forresto&lt;/a&gt; -&gt; el crack que lo ha desarrollado&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Primeras pruebas con los datos abiertos de http://opendata.navarra.es</title>
+      <link>http://blog.elfilo.net/articles/primeras-pruebas-opendata/</link>
+      <pubDate>Thu, 01 Sep 2011 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/primeras-pruebas-opendata/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;p&gt;Hace tiempo que no escribo ning&uacute;n post, la verdad que no tenia muy claro si tenia sentido esa sensaci&oacute;n de hablarle al vac&iacute;o. Ademas mi blog &lt;a href=&quot;http://karlogliberal.investic.net&quot;&gt;http://karlogliberal.investic.net&lt;/a&gt; ya no me molaba XD. Tenia este tumblr que tampoco es que sea la panacea pero bueno por lo menos es rapido y a modo de almac&eacute;n me gusta.&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;El planteamiento va ha ser simplificar aun m&aacute;s los post, mantener el tema de almac&eacute;n tanto de ideas como de mis experimentos. Creo que eso puede estar bien, siempre estoy probando cosas nuevas y contarlo puede contribuir un poco.&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Bueno al tema :)&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Hace un par de d&iacute;as los grandes de @developmentseed publicaron &lt;a href=&quot;http://tilemill.com/ &quot; title=&quot;http://tilemill.com/ &quot;&gt;tilemill.com&lt;/a&gt; que se engloba dentro de la &quot;movida&quot;&nbsp;&lt;a href=&quot; http://mapbox.com/&quot; title=&quot; http://mapbox.com/&quot;&gt;mapbox.com&lt;/a&gt;&nbsp;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;TileMill es una herramienta poderosa para el dise&ntilde;o de mapas y por supuesto en software libre.&nbsp;&lt;/pe-dominio.html&quot;&gt;DSL&lt;/a&gt; tipo &lt;a href=&quot;http://www.sinatrarb.com/&quot; title=&quot;http://www.sinatrarb.com/&quot;&gt;sinatra&lt;/a&gt; y ver que que esta pe&ntilde;a del mundo de &lt;a href=&quot;http://drupal.org&quot; title=&quot;drupal.org&quot;&gt;drupal&lt;/a&gt; se sacan de la manga este pedazo de desarroentos de esas capas.&nbsp;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Dejo esta captura&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;img src=&quot;http://media.tumblr.com/tumblr_lgxmiedm7B1qzyc28.png&quot; /&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Una vez realizada el mapa se puede exportar en png, pdf, o en &lt;a href=&quot;http://mapbox.com/documentation/mbtiles-file-formath.org/&quot;&gt;@developmentseed&lt;/a&gt; basado en sqlite3 una ca&ntilde;a vamos.&nbsp;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Estoy en modo pruebas seguire contando.&lt;/p&gt;&quot;
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Residencia SummerOfLabs Euskadi</title>
+      <link>http://blog.elfilo.net/articles/residencia-visualizacion-summeroflabs-eu/</link>
+      <pubDate>Thu, 26 Jul 2012 22:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/residencia-visualizacion-summeroflabs-eu/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;banner.png&quot; alt=&quot;banner&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Primer post con fundamento del blogs desde la nueva era post investic.
+
+&lt;/p&gt;
+&lt;p&gt;Hoy voy a hablar del encargo/residencia que desde tabakalera nos pidieron a &lt;a href=&quot;http://twitter.com/aitor_rl&quot;&gt;@aitor_rl&lt;/a&gt; y a mi (futuro interzonas). La idea era sencilla en un principio, por un lado crear una herramienta de inscripción para el encuentro SummerOfLabs y por otro lado con algunos de los datos de esa inscripción realizar una visualización. 
+
+&lt;/p&gt;
+&lt;p&gt;La herramienta de inscripción (el encargo) se monto con un &lt;a href=&quot;http://drupal.org&quot;&gt;drupal&lt;/a&gt; conforme avanzábamos en las conversaciones vimos que podíamos aprovechar la herramienta para algo más y se convirtió en la flamante y modesta web del &lt;a href=&quot;http://summeroflabs.eu&quot;&gt;SummerOfLabs euskadi&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;También se valoró que hubiera una primera visualización algo sencillo y que nosotros (interzonas) tuviéramos el control &quot;editorial&quot;, es en ese momento donde &quot;tom&quot; (yo) vió que se podía montar una catedral. 
+
+&lt;/p&gt;
+&lt;p&gt;La visualización se realiza con el interés de los inscritos que lo indican apuntándose a un grupo cerrado de nodos (charlas, talleres etc) del encuentro. 
+
+&lt;/p&gt;
+&lt;p&gt;Estos son los elementos que tienen nuestra catedral. 
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Drupal para la gestión de inscritos y como enlace con la base de datos fluidinfo&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://fluidinfo.com&quot;&gt;fludiinfo&lt;/a&gt; Mi proyecto &quot;prefe&quot; una base de datos en la nube que permite entender el almacenamiento de forma diferente, los datos se pueden reutilizar y los datos son tu api. Es tan bonito como suena.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://d3js.org/&quot;&gt;d3.js&lt;/a&gt; &quot;La herramienta&quot; de la visualización de datos. Ellos dicen que su biblioteca no muestra datos los transforma. Una sutiliza que tiene su sentido sobre todo en visualizaciones dinámicas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;El resultado se puede ver en &lt;a href=&quot;http://visualabs.summeroflabs.eu/&quot;&gt;&lt;a href=&quot;http://visualabs.summeroflabs.eu/&quot;&gt;http://visualabs.summeroflabs.eu/&lt;/a&gt;&lt;/a&gt; es algo modesto pero para ser la primara experiencia con d3.js estamos contentos.
+
+
+&lt;/p&gt;
+&lt;p&gt;En posteriores post profundizare con cada uno de los elementos que hemos usado.
+
 &lt;/p&gt;
 </description>
     </item>

@@ -5,9 +5,32 @@
     <atom:link href="http://blog.elfilo.net/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://blog.elfilo.net</link>
     <description>Trozos de imaginería cultural profunda que se ha desprendido y adquirido vida propia</description>
-    <pubDate>Wed, 07 Aug 2013 09:00:00 +0200</pubDate>
+    <pubDate>Mon, 03 Mar 2014 13:00:00 +0100</pubDate>
     <generator>The mighty Wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Contact, un ejemplo de acústica aumentada</title>
+      <link>http://blog.elfilo.net/articles/acustica-aumentada/</link>
+      <pubDate>Mon, 03 Mar 2014 13:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/acustica-aumentada/</guid>
+      <author></author>
+      <description>&lt;p&gt;Contact es una interfaz de audio que permite crear y visualizar sonidos desde una simple superficie de madera. Es un ejemplo de “Acústica aumentada”. Realidad aumentada, vamos. 
+
+&lt;/p&gt;
+&lt;p&gt;El vídeo es muy muy chulo.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/82107250&quot; width=&quot;776&quot; height=&quot;620&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&quot;http://vimeo.com/82107250&quot;&gt;CONTACT: Augmented Acoustics&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/felixfaire&quot;&gt;Felix Faire&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;/p&gt;
+&lt;p&gt;También os dejo el making del proyecto para que veais todo lo que se puede hacer con sensores, placas de arduino, processing…(karlos rellena esta lista) El código, opensource y disponible en github. #generacióngithub
+
+&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/82721023&quot; width=&quot;776&quot; height=&quot;620&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&quot;http://vimeo.com/82721023&quot;&gt;Making: CONTACT&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/felixfaire&quot;&gt;Felix  Faire&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Apps4health hackathón</title>
       <link>http://blog.elfilo.net/articles/apps4health.es/</link>

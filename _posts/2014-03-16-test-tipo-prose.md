@@ -5,6 +5,6 @@ published: true
 title: Test tipo prose
 ---
 
-## prose.io
+![](/media/interzonas.jpg)## prose.io
 
 Este es un test con el editor prose.io 

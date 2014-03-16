@@ -4,3 +4,69 @@ markdown: redcarpet
 permalink: /:title/
 pygments: true
 excerpt_separator: <!--more--> 
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://blog.elfilo.net/'
+  media: 'media'
+  metadata:
+    _posts:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "curso"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "curso"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Áreas formativas"
+          placeholder: "Elige áreas"
+          options:
+            - name: "redes-sociales"
+              value: "redes-sociales"
+            - name: "seo"
+              value: "seo"
+            - name: "e-commerce"
+              value: "e-commerce"
+            - name: "marketing"
+              value: "marketing"
+            - name: "analitica"
+              value: "analitica"
+            - name: "tecnologia"
+              value: "tecnologia"
+            - name: "mobile"
+              value: "mobile"
+            - name: "sem"
+              value: "sem"
+      - name: "imagen-ficha"
+        field:
+          element: "text"
+          label: "Imagen para la ficha"
+          value: ""
+      - name: "categoria-principal"
+        field:
+          element: "text"
+          label: "Categoría principal (texto)"
+          value: ""
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""

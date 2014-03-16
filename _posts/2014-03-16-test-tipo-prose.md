@@ -1,7 +1,7 @@
 ---
 layout: curso
 category: curso
-published: false
+published: true
 title: Test tipo prose
 ---
 

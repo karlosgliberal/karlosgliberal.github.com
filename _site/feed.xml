@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>El Filo 0.1</title>
+    <atom:link href="http://blog.elfilo.net/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://blog.elfilo.net</link>
+    <description>Trozos de imaginería cultural profunda que se ha desprendido y adquirido vida propia</description>
+    <pubDate>Mon, 03 Mar 2014 13:00:00 +0100</pubDate>
+    <generator>The mighty Wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Contact, un ejemplo de acústica aumentada</title>
+      <link>http://blog.elfilo.net/articles/acustica-aumentada/</link>
+      <pubDate>Mon, 03 Mar 2014 13:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/acustica-aumentada/</guid>
+      <author></author>
+      <description>&lt;p&gt;Contact es una interfaz de audio que permite crear y visualizar sonidos desde una simple superficie de madera. Es un ejemplo de “Acústica aumentada”. Realidad aumentada, vamos. 
+
+&lt;/p&gt;
+&lt;p&gt;El vídeo es muy muy chulo.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/82107250&quot; width=&quot;776&quot; height=&quot;620&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&quot;http://vimeo.com/82107250&quot;&gt;CONTACT: Augmented Acoustics&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/felixfaire&quot;&gt;Felix Faire&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;/p&gt;
+&lt;p&gt;También os dejo el making del proyecto para que veais todo lo que se puede hacer con sensores, placas de arduino, processing, leapmotion, etc. El código, opensource y disponible en github.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/82721023&quot; width=&quot;776&quot; height=&quot;620&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&quot;http://vimeo.com/82721023&quot;&gt;Making: CONTACT&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/felixfaire&quot;&gt;Felix  Faire&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Apps4health hackathón</title>
+      <link>http://blog.elfilo.net/articles/apps4health.es/</link>
+      <pubDate>Wed, 07 Aug 2013 09:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/apps4health.es/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;a href=&quot;http://apps4health.es&quot;&gt;Apps4health&lt;/a&gt; es en el último proyecto que nos hemos embarcado en &lt;a href=&quot;http://interzonas.info&quot;&gt;interzonas.info&lt;/a&gt; gracias a la invitación de &lt;a href=&quot;http://itxasodiaz.com/&quot;&gt;Itxaso Díaz&lt;/a&gt;. Con  Itxaso ya trabajé el año pasado en el &lt;a href=&quot;http://summeroflabs.info&quot;&gt;summeroflabs&lt;/a&gt; y fue todo un placer. Y cuando en esta ocasión me invitó a mí y a &lt;a href=&quot;https://twitter.com/josianito&quot;&gt;@josianito&lt;/a&gt; me pareció una oportunidad estupenda para volver a colaborar con ellos. Sus cerebros son los que cualquier científico loco quisiera despedazar para ver de donde sale tanto ingenio. 
+
+&lt;/p&gt;
+&lt;p&gt;El evento lo promueve la ONG &lt;a href=&quot;http://www.anesvad.org/es/&quot;&gt;Anesvad&lt;/a&gt; y pienso que pueden acertar con el formato tipo hackhatón social.  También colabora &lt;a href=&quot;https://twitter.com/soyjavi&quot;&gt;@soyjavi&lt;/a&gt; de &lt;a href=&quot;http://tapquo.com/&quot;&gt;Tapquo&lt;/a&gt; un tótem del &quot;code&quot; por estas tierras, que le dará mucho valor al evento en el aspecto técnico. 
+
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://apps4health.es&quot;&gt;Apps4health&lt;/a&gt; es un hackathón social.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Un hackathon social es un evento que reúne a desarrolladores/as voluntarios/as en un maratón por un tiempo determinado para trabajar empleando el mínimo de recursos y máximo ingenio en crear aplicaciones móviles como respuesta a desafíos y problemas reales que intentarán mejorar la vida de las personas.&lt;/em&gt; 
+
+&lt;/p&gt;
+&lt;p&gt;La idea es sencilla, juntarnos todo un día con las propuestas que se indican en la web y prototipar una aplicación que pueda ayudar a los demás. Siempre me ha gustado la frase ciberpunk de &lt;em&gt;La calle dará su propio uso a las tecnologías&lt;/em&gt; el hackhathón no es la calle pero es un intento de dar espacio a la calle. 
+
+&lt;/p&gt;
+&lt;p&gt;Todo esto se realizará el sábado día 28 de septiembre en el &lt;a href=&quot;http://espacioopen.com/&quot;&gt;espacioopen.com&lt;/a&gt; de 10 de a 22 horas. Interzonas estará por Bilbo esos días, para echar un cable en la medida de nuestras posibilidades.
+
+&lt;/p&gt;
+&lt;p&gt;Prometo un post técnico explicando las tripas de &lt;a href=&quot;http://apps4health.es&quot;&gt;Apps4health&lt;/a&gt; ya que nos hemos encargado del la imagen corporativa como del del desarrollo web. Como adelanto digo que el front lo gobierna &lt;a href=&quot;angularjs.org&quot;&gt;Angularjs&lt;/a&gt;, el layout responsive &lt;a href=&quot;http://foundation.zurb.com/&quot;&gt;foundation 4&lt;/a&gt;. Para enviar correos utilizamos un pequeño servicio con &lt;a href=&quot;http://expressjs.com/&quot;&gt;express.js&lt;/a&gt; y &lt;a href=&quot;https://github.com/andris9/Nodemailer&quot;&gt;Nodemailer&lt;/a&gt;, y para la persistencia de datos &lt;a href=&quot;firebase.com&quot;&gt;Firebase&lt;/a&gt;. Por cierto, firebase es un proyecto tan simple y exquisito que lo queremos adoptar como gatito del taller de interzonas. 
+
+
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;apps4health.jpg&quot; alt=&quot;apps4health.jpg&quot;&gt;
+
+
+
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Arduino controlando un servo mediante node.js</title>
+      <link>http://blog.elfilo.net/articles/arduino-serve-nodejs/</link>
+      <pubDate>Mon, 11 Apr 2011 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/arduino-serve-nodejs/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;p&gt;Que node.js empieza ha ser un entorno muy poderoso empieza ha estar claro, el motor v8 es poderoso y la pe&ntilde;a le esta sacando chispas &nbsp;por lo menos en el contexto de node.js&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;En este caso para una &quot;frikada&quot; casera se me ocurrio sacar mi vieja placa de arduinio y ver si podia mover un servo (tambi&eacute;n viejo) y en un ctrl+tab tonto de dispersion, se&nbsp;encendi&oacute;&nbsp;la bombilla &iquest;y si se puede usar node.js para controlar el servo? entoces &iquest;habr&aacute; alg&uacute;n modulo que trabaje con el puerto seri&eacute;? Node.js empieza ha ser como drupal, siempre hay alguien que lo ha probado, creado o mejorado.&nbsp;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href=&quot; https://github.com/voodootikigod/node-serialport&quot; title=&quot; https://github.com/voodootikigod/node-serialport&quot;&gt;&lt;a href=&quot;https://github.com/voodootikigod/node-serialport&lt;/a&gt;&lt;/p&gt;&quot;&gt;https://github.com/voodootikigod/node-serialport&lt;/a&gt;&lt;/p&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Este es el modulo instalaci&oacute;n cl&aacute;sica con npm:&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;code&gt;npm install serialport&lt;/code&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;y mus :)&nbsp;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;El resultado se puede ver en el v&iacute;deo, sencillo control con un slide de jquery.ui&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;390&quot; src=&quot;http://www.youtube.com/embed/LnJBZPeDbtE&quot; title=&quot;YouTube video player&quot; width=&quot;480&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Pego el c&oacute;digo en un gist, ya que no es mas que una pruba
+&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/901812.js&quot;&gt; &lt;/script&gt;
+</description>
+    </item>
+    <item>
+      <title>Bluetooth Low Energy, Ibeacon la nueva moda</title>
+      <link>http://blog.elfilo.net/articles/bluetooth-low-energy-ibeacon-la-nueva-moda/</link>
+      <pubDate>Thu, 06 Mar 2014 11:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/bluetooth-low-energy-ibeacon-la-nueva-moda/</guid>
+      <author></author>
+      <description>&lt;p&gt;El Bluetooth es de esas tecnologías que está con nosotros desde hace años pero que, aún siendo útil, siempre da pereza usarla
+
+&lt;/p&gt;
+&lt;p&gt;La cosa es que la nueva especificación llamada Bluetooth Low Energy está cambiando el panorama y las posibilidades se multiplican. Esta especificación ofrece una nueva gama de dispositivos Bluetooth que pueden ser alimentados únicamente por una pila de botón ya que su consumo es mínimo.
+
+
+&lt;/p&gt;
+&lt;p&gt;Por lo tanto, tenemos todo lo nuevo que ofrece Bluetooth 4.0 (mayor ancho de banda, mejor estabilidad, etc). Y una revisión en a lo que al consumo se refiere. Esto nos ofrece la posibilidad de crear dispositivos en miniatura que envían información constantemente y que esa información puede ser capturada por un dispositivo que esté a la escucha.  
+
+&lt;/p&gt;
+&lt;p&gt;Las posibilidades son brutales y es una de esas piezas fundamentales para el famoso Internet de las cosas. Por fin la casa conecta, bueno la casa, la calle o lo que quieras. 
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;bluetooth_stmart.jpg&quot; alt=&quot;bluetooth_stmart.jpg&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;En el laboratorio de &lt;a href=&quot;http://interzonas.info&quot;&gt;Interzonas&lt;/a&gt; ya estamos jugando con estos “chismitos”. La empresa de Pamplona &lt;a href=&quot;http://embeblue.com&quot;&gt;embeblue.com&lt;/a&gt; del compañero &lt;a href=&quot;https://twitter.com/ikoem&quot;&gt;Mikel&lt;/a&gt; esta manofacturando su propia versión de estos dispositivos y en esta foto de &lt;a href=&quot;https://twitter.com/wila_&quot;&gt;Wila&lt;/a&gt; de &lt;a href=&quot;http://biko2.com&quot;&gt;Biko&lt;/a&gt; se pueden ver distintos prototipos. Nosotros desde Interzonas colaborado con ellos en analizar qué posibilidades ofrecen, y la verdad es que son muchas. 
+
+&lt;/p&gt;
+&lt;p&gt;Por otro lado, de la mano de Apple llega una especificación de la especificación y le ponen un nombre con tintes “porcinos” iBeacon (vale, es un chiste malo, pero no me podía resistir) Esta especificación propone como “será” el nuevo sistema de localización en interiores, algo deseado por todos. ¿Quién no quiere ser el capitán John Anderton de Minority Report siendo invadido por los escaparates de la calle recordándote que esta semana te falta comprar viagra y salir a correr con las nueva zapas nike de moda? 
+
+&lt;/p&gt;
+&lt;p&gt;Bueno pues todo eso es lo que quiere ofrece Apple con el IBeacon. El nuevo IO7 ya lo trae así como el Android 4.3 (¿Google está claudicando con su NFC?) 
+
+&lt;/p&gt;
+&lt;p&gt;En breve enseñaremos una demo chula que estamos haciendo. Y mientras tanto, esperaremos a que nos llegue el LightBlue Bean, un dispositivo Blue LE guapo, guapo y creado por una cuadrilla de gamberros, que ya sólo por eso mola.
+
+
+&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/80058454?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&quot;http://vimeo.com/80058454&quot;&gt;LightBlue™ Bean&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/1013media&quot;&gt;1013media&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Cambio de blog WinterSmith es mi colega</title>
+      <link>http://blog.elfilo.net/articles/cambio-blog-wintersmith/</link>
+      <pubDate>Mon, 23 Jul 2012 22:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/cambio-blog-wintersmith/</guid>
+      <author></author>
+      <description>&lt;p&gt;La peña suele mantener con mucho gusto sus blogs. Los miman y cuentan cuantas entradas tienen, cuentos comentarios y hists, este no es mi caso. Yo podría hacer lo mismo pero con blogs en vez de con posts. Es lo que tiene, cada poco me aburro del que tenia, y me monto uno nuevo. Creo que lo hago con la excusa de que este si este será el blog definitivo donde escribiré muchas post. Las excusas son muchas:
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ya no me gusta wordpress&lt;/li&gt;
+&lt;li&gt;Es que con drupal trabajo todos los días &lt;/li&gt;
+&lt;li&gt;El diseño es muy feo. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sea como sea lo he vuelto ha hacer. Pero en este caso, en serio, este será el definitivo, lo prometo XD
+
+&lt;/p&gt;
+&lt;p&gt;Los motivos para cambiar de blog (excusas) son que en el blog &lt;a href=&quot;http://www.investic.net/blog/karlos/&quot;&gt;karlos-investic&lt;/a&gt; no tiene mucho sentido andar creando nuevas entradas,  y por supuesto la más importante yo quiero ser &quot;guay&quot; y quiero tener mi blog en &lt;a href=&quot;http://pages.github.com/&quot;&gt;github&lt;/a&gt;. 
+
+&lt;/p&gt;
+&lt;p&gt;Como no podía ser de otra manera empece con &lt;a href=&quot;http://octopress.org/&quot;&gt;&lt;a href=&quot;http://octopress.org/&quot;&gt;http://octopress.org/&lt;/a&gt;&lt;/a&gt; pero ya que usaba una herramienta hacker  por qué no usar una herramienta &quot;hacker, hacker de verdad&quot;. Octopress es una caña mola mucho, te creas un markdown y luego con un push al github tienes el post creado, pero resulta que en &lt;a href=&quot;http://nodejs.com&quot;&gt;nodejs&lt;/a&gt; existe una herramienta similar (bueno siendo sinceros un poquito mas sencilla que octopress)
+
+&lt;/p&gt;
+&lt;h3&gt;wintersmith&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://jnordberg.github.com/wintersmith/&quot;&gt;wintersmith&lt;/a&gt; Es un sistema muy flexible para la generación de páginas html es curioso como funciona. 
+
+&lt;/p&gt;
+&lt;p&gt;Para instalarlos es simple, tener instalado &lt;a href=&quot;http://npmjs.org/&quot;&gt;npm&lt;/a&gt; y seguir estos comandos:
+
+&lt;/p&gt;
+&lt;p&gt;Instalar wintersmith
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ npm install wintersmith -g&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Crear nuevo sitio (crear un sitio de ejemplo a modo de blog)
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ wintersmith &lt;span class=&quot;keyword&quot;&gt;new&lt;/span&gt; &lt;path&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Visualizar el sitio base creado por wintersmith en el directorio articles/ están los index.md donde se crean los posts
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ cd &lt;path&gt;
+$ wintersmith preview&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Y por último generar los htmls 
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;$ wintersmith build&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Espermos que este sea uno de una larga lista de entradas de post
+
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Un proyecto muy especial cestodelostesoros.com</title>
+      <link>http://blog.elfilo.net/articles/cestodelostesoros.com/</link>
+      <pubDate>Tue, 17 Sep 2013 09:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/cestodelostesoros.com/</guid>
+      <author></author>
+      <description>&lt;p&gt;La semana pasada tuvimos el gusto de sumar un proyecto más a la lista de desarrollos de &lt;a href=&quot;http://interzonas.info&quot;&gt;Interzonas&lt;/a&gt;. En este caso ha sido muy especial porque se trata del nuevo proyecto de &lt;a href=&quot;http://twitter.com/merisu&quot;&gt;Miren&lt;/a&gt;, nuestra compañera de fatigas en Investic y colaboradora en Interzonas. Y como no podía ser de otra manera, hemos puesto todas las ganas e ilusión para que el resultado estuviese al nivel de las circunstancias. 
+
+&lt;/p&gt;
+&lt;p&gt;El proyecto es el Cesto de los Tesoros de Öbjek. El cesto de los tesoros es una propuesta de juego pensada para bebés de entre 4 y 18 meses. Consiste en un cesto repleto de objetos cotidianos de diferentes materiales, tamaños, formas y texturas cuyo objetivo es proporcionar estímulo, desarrollo y experiencia a los cinco sentidos del bebé.
+
+&lt;/p&gt;
+&lt;p&gt;En este proyecto hemos apostado por la “sencillez tecnológica”, nuestro taller artesanal nos pide que volvamos a trabajar con los materiales más simples. Os contamos lo fundamental en relación al desarrollo:
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Web de producto. cestodelostesoros.com . Es un html5 purito, simple y claro, sin excesos y con la intención de que fuera &quot;bonito&quot;.&lt;/li&gt;
+&lt;li&gt;Tienda online. Hemos utilizado Drupal, la distribución Commerce Kickstart de Commerce Guys con alguna pequeña adaptación. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lo cierto es que estamos muy contentos con el resultado. Pero el mérito no sólo es nuestro, hemos contado con la colaboración de &lt;a href=&quot;http://www.behance.net/unaimaleski&quot;&gt;Unai Maleski&lt;/a&gt; en el enfoque y diseño de la web. En el vídeo hemos contado con &lt;a href=&quot;http://www.funtsak.net/&quot;&gt;Fun.Tsak&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Os dejamos todos los enlaces al proyecto:
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Web &lt;a href=&quot;http://www.cestodelostesoros.com&quot;&gt;&lt;a href=&quot;http://www.cestodelostesoros.com&quot;&gt;http://www.cestodelostesoros.com&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tienda &lt;a href=&quot;http://tienda.cestodelostesoros.com&quot;&gt;&lt;a href=&quot;http://tienda.cestodelostesoros.com&quot;&gt;http://tienda.cestodelostesoros.com&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Facebook &lt;a href=&quot;http://www.facebook.com/cestotesoros&quot;&gt;&lt;a href=&quot;http://www.facebook.com/cestotesoros&quot;&gt;http://www.facebook.com/cestotesoros&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter &lt;a href=&quot;http://twiiter.com/cestotesoros&quot;&gt;@cestotesoros&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Charla Visualabs Kabia</title>
+      <link>http://blog.elfilo.net/articles/charla_visualabs/</link>
+      <pubDate>Mon, 13 Aug 2012 16:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/charla_visualabs/</guid>
+      <author></author>
+      <description>&lt;p&gt;Este Viernes se presentaron en &lt;a href=&quot;http://kabia.errenteria.net/&quot;&gt;&lt;a href=&quot;http://kabia.errenteria.net/&quot;&gt;http://kabia.errenteria.net/&lt;/a&gt;&lt;/a&gt; las residencias que se han ido trabajando en los previos del &lt;a href=&quot;http://summeroflabs.eu&quot;&gt;Summer of labs&lt;/a&gt; 
+
+&lt;/p&gt;
+&lt;p&gt;También era el pistoletazo de salido del Summeroflabs @euskadi y buena escusa para contar que habíamos estado haciendo en la residencia
+
+&lt;/p&gt;
+&lt;p&gt;En mi caso me toco exponer una presentación introductoria sobre la visualización de datos. 
+Prepare una charla sencilla, para todo los publicos
+
+&lt;/p&gt;
+&lt;p&gt;Aquí se puede ver la charla: &lt;a href=&quot;http://blog.elfilo.net/charla_visualabs/#/&quot;&gt;&lt;a href=&quot;http://blog.elfilo.net/charla_visualabs/&quot;&gt;http://blog.elfilo.net/charla_visualabs/&lt;/a&gt;&lt;/a&gt;
+Y aquí se puede descargar: &lt;a href=&quot;https://github.com/karlosgliberal/charla_visualabs&quot;&gt;&lt;a href=&quot;https://github.com/karlosgliberal/charla_visualabs&quot;&gt;https://github.com/karlosgliberal/charla_visualabs&lt;/a&gt;&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Espero ir completándola, sobre todo con referencias y con las cosas que salgan en claro del Summeroflabs
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Cumplo 14 años</title>
+      <link>http://blog.elfilo.net/articles/cumplo-14/</link>
+      <pubDate>Mon, 04 Nov 2013 10:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/cumplo-14/</guid>
+      <author></author>
+      <description>&lt;p&gt;El día de mi cumpleaños cumplo años por partida doble. Uno por el día que nací y el otro por el día que decidí dejar la construcción y ponerme a hacer desarrollo web. Han pasado 38 del primero y 14 del segundo. 
+
+&lt;/p&gt;
+&lt;p&gt;Hace 14 años&lt;a href=&quot;https://twitter.com/aitor_rl&quot;&gt;@aitor_rl&lt;/a&gt; y yo entrábamos en nuestra primera oficina en la calle pozo blanco de lo viejo de Iruña. Un año entero dándole vueltas a la idea de dejar nuestras profesiones (yo albañil y Aitor instalador de aire acondicionado) para &quot;Emprender&quot; un viaje que por ahora dura 14 años. 
+
+&lt;/p&gt;
+&lt;p&gt;En estos 14 años hemos vivido de todo. Nos comimos las puntocom con patatas, montamos una granja de servidores para alquilarles espacio de juego a gammers del tipo Counterstrike, Day of defeat, hacer prototipos para Endesa, o sacar productos propios como el tanttaone, o ganar concursos en CEIN. 
+
+&lt;/p&gt;
+&lt;p&gt;Y todos los años cuando llegan estas fechas me veo a mí y a Aitor pintando los rodapiés de negro de esa oficina. 
+
+&lt;/p&gt;
+&lt;p&gt;Hace una semana terminamos nuestro último proyecto &lt;a href=&quot;http://bimehackday.net/#/&quot;&gt;bimehackday&lt;/a&gt;, el diseño y desarrollo de la web para un evento que pinta muy bien. 
+
+&lt;/p&gt;
+&lt;p&gt;La web la hemos montado con Jaime y Dani de &lt;a href=&quot;http://arteklab.org/&quot;&gt;arteklab&lt;/a&gt; y la peña de &lt;a href=&quot;http://www.ltinews.net/LTI/&quot;&gt;Lasttour&lt;/a&gt;. Ha sido algo muy sencillo, sólo un poco de &lt;a href=&quot;http://angularjs.org&quot;&gt;angularjs&lt;/a&gt; para poner orden, no sé por qué haciéndola me ha evocado esos primeros desarrollos de hace 14 años
+
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>¿Desarrollo web sobre servicios externos?</title>
+      <link>http://blog.elfilo.net/articles/desarrollo-web-sobre-servicios-externos/</link>
+      <pubDate>Thu, 03 Oct 2013 18:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/desarrollo-web-sobre-servicios-externos/</guid>
+      <author></author>
+      <description>&lt;p&gt;La semana pasada escribí un &lt;a href=&quot;http://blog.elfilo.net/articles/necesario-un-gestor-de-contenidos/&quot;&gt;post&lt;/a&gt; sobre si es necesario un gestor de contenidos. La respuesta era &quot;depende&quot;, y tal y como se fue comentando (gracias por todo el feedback) igual no siempre era tan necesario ese gestor de contenidos. También creo que la supuesta web 2.0 no sólo es social, también es distribuida. Y es el concepto de &quot;nube&quot; donde encontramos su mayor referente.
+
+&lt;/p&gt;
+&lt;p&gt;Dicho esto, la pregunta que me ronda esta semana es: ¿Es inteligente el desarrollo web sobre servicios externos?
+
+&lt;/p&gt;
+&lt;p&gt;Está claro que al final casi siempre dependemos de alguien, incluso en el clásico del hosting. Lo cierto es que los servicios externos han cambiado la forma de hacer &quot;webs&quot;. Un ejemplo sería este mismo blog: uso &lt;a href=&quot;http://github.com&quot;&gt;github&lt;/a&gt; para almacenar los htmls y &lt;a href=&quot;http://disqus.com/&quot;&gt;disqus&lt;/a&gt; para la gestión de comentarios. Esto lo podría hacer perfectamente instalando un wordpress/drupal en mi servidor y ser completamente autónomo. Pero en este caso tenía ganas de experimentar para responder estas preguntas:
+
+&lt;/p&gt;
+&lt;p&gt;¿Es inteligente esta práctica? ¿La podemos extender a nuestro clientes? 
+
+&lt;/p&gt;
+&lt;p&gt;Sin entrar en lo que ya ofrecen empresas como Amazon en la gestión de infraestructuras con su &lt;a href=&quot;http://aws.amazon.com/es/&quot;&gt;Amazon web service&lt;/a&gt;, nuestra idea es comprobar si es factible usar SaS (Software as a Service) para el desarrollo web. La lista de estos servicios es infinita, por lo que las posibilidades también lo son. La cuestión es saber si un cliente estará cómodo con estos desarrollos híbridos. 
+
+&lt;/p&gt;
+&lt;p&gt;En &lt;a href=&quot;http://interzonas.info&quot;&gt;interzonas.info&lt;/a&gt; ya hemos explorado esta idea con buenos resultados. En &lt;a href=&quot;http://apps4healths.es&quot;&gt;apps4healts&lt;/a&gt; usamos &lt;a href=&quot;http://firebase.com&quot;&gt;firebase&lt;/a&gt; para la gestión de la inscripción simplificando así mucho el desarrollo. Esta forma de desarrollar se me antoja interesante sobre todo para proyectos rápidos.
+
+&lt;/p&gt;
+&lt;p&gt;Queramos o no, cada día nuestros proyectos estás más enlazados con este tipo de servicios, desde el omnipresente &lt;a href=&quot;http://www.google.com/analytics/&quot;&gt;google analytics&lt;/a&gt; hasta un &lt;a href=&quot;https://typekit.com/&quot;&gt;typekit&lt;/a&gt;. Nuestras webs empiezan a ser una relación de servicios más que un ente autónomo, y creo que esta relación se puede explotar aun más y obtener resultados sorprendentes. Os iremos contando nuestras experiencias desde esta nueva perspectiva.
+
+
+
+
+
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Desayuno presentación de Interzonas en Biko</title>
+      <link>http://blog.elfilo.net/articles/desayuno-presentacion-de-interzonas-en-biko/</link>
+      <pubDate>Mon, 03 Feb 2014 13:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/desayuno-presentacion-de-interzonas-en-biko/</guid>
+      <author></author>
+      <description>&lt;p&gt;En el &lt;a href=&quot;http://blog.elfilo.net/articles/interzonas-y-el-2014/&quot;&gt;post anterior&lt;/a&gt;, y a través de twitter &lt;a href=&quot;http://twitter.com/interzonasinfo&quot;&gt;@interzonasinfo&lt;/a&gt;, anunciamos que nos íbamos “de okupas” a las oficinas de Biko. Y sí, ya estamos instalados allí ;)
+
+&lt;/p&gt;
+&lt;p&gt;Y claro, ahora toca darle forma, construir con ellos y ellas esas nuevas formas de colaboración. Sabemos que no es algo que vaya surgir de la noche a la mañana, así que hay que empezar a abrir camino. Una de las primeras ideas ha sido organizar un desayuno de trabajo donde presentarnos y contar qué cosas hacemos, cómo y por qué. 
+
+&lt;/p&gt;
+&lt;p&gt;Sabemos que este experimento plantea un nuevo reto. El reto de pensar las relaciones y colaboraciones en otros términos. El mundo laboral y empresarial está cambiando a marchas forzadas y tenemos que ser ágiles, tener cintura para adaptarnos a estos cambios. Con este experimento queremos comprobar que son posibles este tipo de relaciones “asimétricas” entre proyectos diferentes. Creemos que sí, y por eso hemos desempolvado la bandera “okupa”. 
+
+&lt;/p&gt;
+&lt;p&gt;Pero bueno, ya hablaremos de estos temas en el desayuno. Os vemos este próximo viernes, día 7 de febrero, a las 9 en las oficinas de Biko. 
+
+&lt;/p&gt;
+&lt;p&gt;Si estás interesado/interesada en ir podéis inscribiros aquí: &lt;a href=&quot;http://www.biko2.com/desayuno-de-biko/&quot;&gt;&lt;a href=&quot;http://www.biko2.com/desayuno-de-biko/&quot;&gt;http://www.biko2.com/desayuno-de-biko/&lt;/a&gt;&lt;/a&gt;
+
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Drupalcamp 2012 impresiones</title>
+      <link>http://blog.elfilo.net/articles/drupalcamp-2012/</link>
+      <pubDate>Fri, 26 Oct 2012 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/drupalcamp-2012/</guid>
+      <author></author>
+      <description>&lt;p&gt;El fin de semana pasado &lt;a href=&quot;http://twitter.com/aitor_rl&quot;&gt;@aitor_rl&lt;/a&gt; y yo nos pasamos por la &lt;a href=&quot;http://2012.drupalcamp.es/es&quot;&gt;Drupalcamp&lt;/a&gt; que este año tocaba en Madrid.
+La verdad es que el tema se nos hacía un poco raro, era la primera drupalcamp desde el &lt;a href=&quot;http://www.investic.net/blog/karlos/investic-cierra-sus-puertas&quot;&gt;cierre&lt;/a&gt; de investic y bueno, nos costó un poco decidirnos.
+
+&lt;/p&gt;
+&lt;p&gt;Ahora Aitor y yo andamos terminando (o continuando) pequeñas cosas que teníamos en investic y metiéndonos en nuevos &lt;a href=&quot;http://visualabs.summeroflabs.eu/&quot;&gt;berenjenales&lt;/a&gt; y claro está, &lt;a href=&quot;http://drupal.org&quot;&gt;drupal&lt;/a&gt; es nuestro amiguito para casi todo lo que hacemos. 
+
+&lt;/p&gt;
+&lt;p&gt;En esta drupalcamp propuse dar la charla &lt;a href=&quot;http://2012.drupalcamp.es/es/sesiones/drupal-y-nodejs-amigos-o-enemigos-103&quot;&gt;Drupal y node.js ¿Amigos o Enemigos?&lt;/a&gt; que, como más de uno ya sabe, llevo tiempo coqueteando con este entorno. La charla creo que me salió más/menos bien, siempre te quedas con la duda de si mejor más ejemplos/código, o yo que sé. Pero mi sensación fue buena y la peña así me lo hizo saber. 
+
+&lt;/p&gt;
+&lt;p&gt;Con la charla tenía dos intenciones
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dar a conocer &lt;a href=&quot;http://nodejs.org&quot;&gt;Node.js&lt;/a&gt; y su ecosistema&lt;/li&gt;
+&lt;li&gt;Hablar sobre la filosofía de node.js&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La comunidad node.js es brutalmente anarquica en algunas cosas y esa manera de funcionar se puede contraponer perfectamente con la de Drupal. Aparte que para algunos temas son entornos perfectamente complementarios, pero en la parte filosófica las comunidades son diferentes. 
+
+&lt;/p&gt;
+&lt;p&gt;Por poner un ejemplo, en drupal para poder contribuir con un módulo tienes que pasar por un proceso de validación, tanto de calidad en el código como de estándares y no duplicaciones. Con esto se quiere buscar la tan ansiada calidad. 
+
+&lt;/p&gt;
+&lt;p&gt;En la comunidad de node.js para poder contribuir con un módulo sólo te tienes que dar de alta como usuario en npm y publicar tu módulo. Esto hace que en sólo dos años existan más de 16.000 módulos (20.000 tiene drupal en más de 10 años). Cada cual que valore donde encaja mejor. Mi intención con la charla fue ofrecer este punto de vista, a mi entender, más macarra. 
+
+&lt;/p&gt;
+&lt;p&gt;Por supuesto, el evento fue increíble, especialmente el lado humana. Sólo cuando vives y te mueves por una comunidad del software libre como es la de drupal te das cuenta de que el software y la tecnología es cosa de personas y por eso es tan apasionante. 
+
+&lt;/p&gt;
+&lt;p&gt;De la drupalcamp me quedo con varias cosas&#58;
+
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;symfony&lt;/li&gt;
+&lt;li&gt;symfony&lt;/li&gt;
+&lt;li&gt;symfony&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Pues eso, que drupal 8 con sus iniciativas esta repletito de symfony. Creo que la apuesta es potente y también creo que interesante. Si symfony tiene las cosas que drupal necesita, para que ostias vamos a reinventar la rueda. El miedo que me da es si para drupal 8 se llegará con todo en condiciones. Aún me acuerdo del desaguisado del media en drupal 7 o del OG. Pero bueno, eso es  adelantarnos. 
+
+&lt;/p&gt;
+&lt;p&gt;Eso sí, a ver quien es el guapo que monta un equipo completo y competente para Drupal8. Entre el experto en Drupal, el de symfony, el de maquetación (que esperemos tengan mejor vida con Twig que ahora) diseñador, etc . Esto pinta que será duro. 
+
+&lt;/p&gt;
+&lt;p&gt;En la parte que me toca me da mucha pereza empezar con Symfony. Sé que estoy muy contaminado con drupal y que reciclarme en otra cosa es difícil (está siendo difícil), pero la deriva de php me cuesta, y javascript me tira mucho. Sea como sea, ahora drupal es mi compañero de trabajo y está claro que es el mejor cms libre del momento. 
+
+&lt;/p&gt;
+&lt;p&gt;Ver charla &lt;a href=&quot;http://blog.elfilo.net/charla_nodejs/&quot;&gt;Drupal y node.js ¿Amigos o Enemigos?&lt;/a&gt;
+Codigo de la charla &lt;a href=&quot;https://github.com/karlosgliberal/charla_nodejs&quot;&gt;Drupal y node.js ¿Amigos o Enemigos?&lt;/a&gt;
+
+
+&lt;/p&gt;
+&lt;p&gt;Nos vemos en la siguiente drupalcamp XD
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Fotomaratoia html5</title>
+      <link>http://blog.elfilo.net/articles/fotomaratoia/</link>
+      <pubDate>Mon, 03 Dec 2012 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/fotomaratoia/</guid>
+      <author></author>
+      <description>&lt;p&gt;Demo&#58; &lt;a href=&quot;http://fotomaratoia.interzonas.info&quot;&gt;fotomaratoia.interzonas.info&lt;/a&gt;
+Codigo&#58; &lt;a href=&quot;https://github.com/karlosgliberal/fotomaraton&quot;&gt;github.com/karlosgliberal/fotomaraton&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Proyecto basado en el proyecto &lt;a href=&quot;https://raw.github.com/rwldrn/dmv/&quot;&gt;dvm&lt;/a&gt; que como ponen en su descripción es esto&#58; 
+Node.js powered, Jitsu Hosted, WebRTC connected, 100% JavaScript, Camera &gt; Web &gt; Server Photobooth-style image capture program.
+
+&lt;/p&gt;
+&lt;p&gt;La idea del proyecto ha sido crear un fotomatón haciendo uso de la cámara de la máquina mediante &lt;a href=&quot;http://www.html5rocks.com/en/tutorials/getusermedia/intro/&quot;&gt;html5&lt;/a&gt; que almacene las fotos en el servidor &lt;a href=&quot;http://nodejs.org&quot;&gt;nodejs&lt;/a&gt; pudiendolas mandar por correo &lt;a href=&quot;http://www.nodemailer.com/&quot;&gt;nodemailer&lt;/a&gt; y que se pudiera hacer un chroma key en el fondo para surtituirlo el chroma por las fotos (en este caso del evento &lt;a href=&quot;http://xare.eu&quot;&gt;xare.eu&lt;/a&gt;. Que es el que nos hizo el encargo). El chroma key lo hemos realizado con &lt;a href=&quot;http://seriouslyjs.org&quot;&gt;seriouslyjs.org&lt;/a&gt;. un proyecto brutal
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;fotomratoia.jpg&quot; alt=&quot;fotomaratoia&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;El código es puro spaghetti western. Un día aprenderé que la cocina japo mola más con su rollo lean, pero por ahora todo me sale rollo italiano. 
+
+&lt;/p&gt;
+&lt;p&gt;En la &lt;a href=&quot;http://fotomaratoia.interzonas.info&quot;&gt;demo&lt;/a&gt; el colorpicker permite elegir el color del chroma key y cuando se pulsa a las imágenes se activa el chroma y los sustituye por la imagen elegida. Mediate &lt;a href=&quot;http://http://socket.io/&quot;&gt;socket.io&lt;/a&gt; mandamos al servidor tanto el buffer con la imagen del canvas modificada por seriously, así como la info del correo. 
+
+&lt;/p&gt;
+&lt;p&gt;Este es un collage con las fotos de evento&#58;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;fotomaton_xare.jpg&quot; alt=&quot;fotomaton_xare&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Para cualquier duda podes conmigo (&lt;a href=&quot;http://twitter.com/patxangas&quot;&gt;@patxangas&lt;/a&gt;).
+
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/aitor_rl&quot;&gt;@aitor_rl&lt;/a&gt; se ha currado el diseño y que todo se vea en su sitio.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.elurmaluta.net&quot;&gt;txo&lt;/a&gt; de &lt;a href=&quot;http://eragin.com&quot;&gt;eragin.com&lt;/a&gt;, responsables del evento, es el diseñador de las imágenes.
+
+&lt;/p&gt;
+&lt;p&gt;Funciona con estos navegadores&#58; &lt;a href=&quot;http://tools.google.com/dlpage/chromesxs&quot;&gt;Canary&lt;/a&gt;, &lt;a href=&quot;http://dev.opera.com/articles/view/labs-more-fun-using-the-web-with-getusermedia-and-native-pages/&quot;&gt;Opera&lt;/a&gt; and &lt;a href=&quot;http://my.opera.com/chooseopera/blog/2012/02/27/opera-mini-7-next-and-opera-mobile-12&quot;&gt;Opera Mobile 12&lt;/a&gt;. &lt;a href=&quot;http://weblog.bocoup.com/javascript-webrtc-opera-mobile-12/&quot;&gt;Read More&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Interzonas.info</title>
+      <link>http://blog.elfilo.net/articles/interzonas-info/</link>
+      <pubDate>Tue, 14 May 2013 21:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/interzonas-info/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;a href=&quot;http://interzonas.info&quot;&gt;Interzonas.info&lt;/a&gt; es el proyecto que empezamos de forma pública hoy, ahora, y lo hacemos con la presentación de nuestra web. 
+Interzonas es un &quot;Taller estratégico en proyectos web&quot;. Y también es un proyecto punki, lo hemos visto claro, el Punki no ha muerto, todo lo contrario, está más vivo que nunca y la web es su expresión más clara. Como decimos en la web:
+
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;La web está en todos los sitios, en tu bolsillo, en tu tele, en el ambiente. Nos atrae y nos atrapa. Pero la web es punki, la web es contestataria, libre, anarca, autónoma, brutal y despiadada, es un reflejo de los tiempos que vivimos. Nosotros lo hemos aceptado, hemos aceptado que &lt;em&gt;LA WEB ES PUNK&lt;/em&gt;.&lt;/em&gt; 
+
+&lt;/p&gt;
+&lt;p&gt;Interzonas es punki, pero también es un taller a la vieja usanza, un taller de artesanos (o aprendices de artesanos). &lt;a href=&quot;http://twitter.com/aitor_rl&quot;&gt;@aitor_rl&lt;/a&gt; y yo como aprendices de artesanos con más de 12 años de experiencia trabajando juntos, ponemos nuestras herramientas al que quiera entrar en el taller. 
+
+&lt;/p&gt;
+&lt;p&gt;Pero Interzonas es un taller, no es una consultoría, ni una &quot;startup&quot;, ni nada de ese estilo. Aquí hacemos webs. Webs para el ordenador, para el ipad, para el móvil... Y las hacemos como tu quieras. Pero sólo ponemos una condición, haremos tu web si podemos entregar &lt;em&gt;valor&lt;/em&gt;. Suena a palabrería, pero es así. Si algún proyecto que nos pida ayuda no le podemos entregar valor, no nos meteremos. Y entregar valor es hacer que los recursos que aporta el cliente tenga el retorno que él busca. Nosotros hacemos web y sabemos cómo hacerlas, lo que no hacemos son milagros. Como hemos dicho somos artesanos, los del delantal azul y las manos manchadas de código, y con esa simpleza nos presentamos.
+
+&lt;/p&gt;
+&lt;p&gt;Interzonas abre sus puertas y mantendremos la frase que usábamos también en &lt;a href=&quot;http://www.investic.net&quot;&gt;investic&lt;/a&gt; &lt;em&gt;Libera rápido, libera pronto, y haz un bonito cadáver&lt;/em&gt; y como se ve en la sección de &lt;a href=&quot;http://interzonas.info/#slide2&quot;&gt;proyectos&lt;/a&gt; dejaremos código siempre que podamos.
+
+&lt;/p&gt;
+&lt;p&gt;En Interzonas deseamos trabajar con más personas, queremos hacer proyectos &quot;guapos&quot;. Abrimos nuestro taller para que nos propongáis lo que sea. Si tienes un proyecto entre manos y necesitas ayuda para terminarlo, para definirlo o para romperlo, tenemos más delantales azules. 
+
+&lt;/p&gt;
+&lt;p&gt;Por cierto, ni qué decir que la web es una primera versión. Esta pequeña catedral que hemos hecho como dice &lt;a href=&quot;http://twiiter.com/merisu&quot;&gt;@merisu&lt;/a&gt; tendrá nuevas revisiones. Si quieres ver el código puedes consultarlo en &lt;a href=&quot;https://github.com/interzonas/interzonas&quot;&gt;github&lt;/a&gt;.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;interzonas.png&quot; alt=&quot;interzonas&quot;&gt;
+
+
+
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Interzonas y el 2014</title>
+      <link>http://blog.elfilo.net/articles/interzonas-y-el-2014/</link>
+      <pubDate>Fri, 17 Jan 2014 10:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/interzonas-y-el-2014/</guid>
+      <author></author>
+      <description>&lt;p&gt;No soy mucho de hacer propósitos del año, y además siendo ya día 17 pues voy un poco &quot;tardano&quot;, pero es cierto que este año lo veo distinto. 
+
+&lt;/p&gt;
+&lt;p&gt;El 2013 ha sido el año de dar forma a proyectos que los teníamos en la cabeza desde hace muchísimo, y que por distintas circunstancias no nos metíamos. Pero sobre todo, el 2013 ha sido un año de sembrar, tanto para adentro como para afuera. 
+
+&lt;/p&gt;
+&lt;p&gt;Ha sido el año donde consolidamos el cierre de Investic derivando sus trabajos a &lt;a href=&quot;http://interzonas.info&quot;&gt;interzonas.info&lt;/a&gt; u otros colaboradores.
+
+&lt;/p&gt;
+&lt;p&gt;También ha sido el año del &lt;a href=&quot;http://cestodelostesoros.com/&quot;&gt;Cesto de los Tesoros&lt;/a&gt; que como ya he contando hemos participado de forma activa en las distintas fases del desarrollo. Con este proyecto hemos aprendido mucho. Hemos aprendido que las cosas hay que mimarlas, quererlas y cuidarlas, y que cuando se hace así el resultado es bueno y te quedas con muy buenas sensaciones. Con el Cesto de los Tesoros ya estamos en otra fase de búsqueda de inversores, comunicación, consolidación del proyecto, etc. Así que seguimos aprendiendo.
+
+&lt;/p&gt;
+&lt;p&gt;Pero también ha sido el año de dar forma a &lt;a href=&quot;http://interzonas.info&quot;&gt;Interzonas.info&lt;/a&gt; No ha sido fácil, en la Navarra profunda las cosas están tan jodidas como en el resto del estado, aunque a muchos no les guste decirlo . Y lo que nos pensábamos que sería sencillo ha resultado más difícil y sobre todo lento. Pero poco a poco Interzonas se está conociendo y nos esta permitiendo trabajar en proyectos nuevos con clientes/colaboradores nuevos. 
+
+&lt;/p&gt;
+&lt;p&gt;En este blog y en el &lt;a href=&quot;http://twitter.com/patxangas&quot;&gt;twitter&lt;/a&gt; suelo contar las cosas que vamos haciendo. Y así sabréis que sobre todo hemos dado un giro hacia el Front End, un aspecto que en Drupal es siempre más complejo y que ahora, al no centrarnos sólo en este CMS, es más fácil de proponer a los clientes. 
+
+&lt;/p&gt;
+&lt;p&gt;Estamos intentando aplicar esta idea &quot;del rollo punk&quot; sobre todo a la hora de discutir los presupuestos. Es cierto que son proyectos más pequeños que en la era de Investic (algo que deseábamos y buscamos) y que la parte comercial se simplifica. Pero los tiempos están cambiando y esto de tirar los dados, que es en lo que muchas veces se convierte hacer un presupuesto, se tiene que acabar. La cultura del desarrollo ágil está para quedarse y no podemos seguir anclados en rollos viejunos. 
+
+&lt;/p&gt;
+&lt;p&gt;Los que ya me conocéis, una de las cosas que más me gusta es estar a la última. Este año hemos querido contar todas esas cosas interesantes a través de charlas y talleres. Es una manera de dar a conocer esas tendencias que desde el laboratorio de Interzonas vamos descubriendo. Este es un listado de las charlas y talleres que hemos dado
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Taller básico de Arduino en el &lt;a href=&quot;http://www.cocoworking.com/&quot;&gt;cocoworking&lt;/a&gt; con el gran &lt;a href=&quot;http://twitter.com/oierbravo&quot;&gt;Oier bravo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Cómo montar tu arcade con raspberry en &lt;a href=&quot;http://hirikilabs.tabakalera.eu/&quot;&gt;hirikilabs&lt;/a&gt; en Donosti gracias a &lt;a href=&quot;https://twitter.com/josianito&quot;&gt;Josianito&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Economía de la experiencia en los juegos inmersivos en Arteleku Donosti&lt;/li&gt;
+&lt;li&gt;Programación orientada a flujos (&lt;a href=&quot;http://noflojs.org/&quot;&gt;noflow&lt;/a&gt; el nuevo hype) en el &lt;a href=&quot;http://bimehackday.net/#/conferencias#flow&quot;&gt;Bimehackday&lt;/a&gt; Bilbo&lt;/li&gt;
+&lt;li&gt;Participamos en el hackathon de la ong Anesvad&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;No meto todo por no aburrir, pero creo que vale como resumen, eso sí prometo publicar todas las charlas.
+
+&lt;/p&gt;
+&lt;p&gt;Y todo esto nos trae a este año. ¿Qué va a pasar en el 2014 con Interzonas? 
+
+&lt;/p&gt;
+&lt;p&gt;&quot;Aventuras, emociones, no son cosas que anhela un Jedi&quot;, pero pinta que vamos a tener de todo esto, y en cantidad. 
+
+&lt;/p&gt;
+&lt;p&gt;Por de pronto en un giro inesperado la oficina de Interzonas (hasta la fecha algo más bien itinerante y casera) se desplaza a las oficinas de &lt;a href=&quot;http://www.biko2.com/&quot;&gt;Biko2&lt;/a&gt;. &lt;a href=&quot;https://twitter.com/diegocenzano&quot;&gt;Diego Cenzano&lt;/a&gt; nos propuso participar en este experimento, donde nosotros Interzonas &quot;okupamos&quot; su oficina. La idea es buscar nuevas formas de colaboración y relación. Y nosotros, que somos dados a enredar, nos pareció una gran oportunidad. Podemos aprender mucho en Biko2 y también creemos que podemos aportar nuestro granito de arena. 
+
+&lt;/p&gt;
+&lt;p&gt;También para este año queremos consolidar la idea de que Interzonas es un taller/laboratorio de experimentación en proyectos web. Cada vez lo vemos más claro, tenemos la experiencia acumulada para proponer prototipos que otros no se atreverían. Y en estos tiempos extraños, pensar diferente puede ser determinante. 
+
+&lt;/p&gt;
+&lt;p&gt;Seguiré contando 
+
+
+
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>La web es punk</title>
+      <link>http://blog.elfilo.net/articles/la-web-es-punk/</link>
+      <pubDate>Mon, 17 Feb 2014 22:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/la-web-es-punk/</guid>
+      <author></author>
+      <description>&lt;p&gt;Hace unos días organizábamos un &lt;a href=&quot;http://www.biko2.com/desayuno-de-biko/&quot;&gt;desayuno en Biko&lt;/a&gt; para presentarnos y contar qué cosas hacemos cómo y por qué.  Y como lo que hablamos no era ningún secreto, hoy publicamos la presentación para que podáis verla.
+
+&lt;/p&gt;
+&lt;p&gt;Si esperáis una típica presentación de empresa donde leer nuestros curriculums, un listado de servicios y alguna foto de encorbatados estrechandose las manos, siento defraudaros, no lo vais a encontrar. 
+
+&lt;/p&gt;
+&lt;p&gt;Ya sé que no es lo mismo verme en persona explicando con detalle cada punto, que leerla así sin más. Pero bueno, ya sabéis que estoy abierto a cualquiera de vuestras preguntas o comentarios.  
+
+&lt;/p&gt;
+&lt;p&gt;Para los o las más perezosos os hoy hago un pequeño resumen con algunas de las ideas que a nosotros nos parecen más importantes.
+
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;“Punks not dead” - el punk no ha muerto. Así nos presentamos, porque así entendemos que es la web: punk, anarca e irrevente; bajo la cultura del háztelo tu mismo;  contracultural. Una marca, una forma de entender cómo funcionan las cosas en Internet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Hacemos desarrollo web, sí, del de siempre. Somos un taller estratégico en proyectos web.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Nuestro principal foco es hacer cosas que aporten valor. Desarrollos donde tanto clientes como nosotros podamos destacar. Desarrollos acotados, claros, concisos y ligeros. Y por supuesto, hacer cosas cuidadas y bonitas. &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;La cultura del laboratorio nutre nuestros desarrollos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Interzonas no sólo somos Aitor y yo. Interzonas es un paraguas donde se da cabida a proyectos y personas diversas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Algunos de nuestros proyectos: &lt;a href=&quot;http://cestodelostesoros.com/&quot;&gt;Cesto de los tesoros de Öbjek&lt;/a&gt;, &lt;a href=&quot;http://apps4health.es/&quot;&gt;Apps4health&lt;/a&gt;. En la presentación podéis ver una lista más completa.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;No me alargo más. Aquí está la presentación. 
+
+&lt;/p&gt;
+&lt;iframe src=&quot;//slid.es/interzonas/interzonas/embed?style=light&quot; width=&quot;776&quot; height=&quot;620&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</description>
+    </item>
+    <item>
+      <title>Meteor simplificando nodejs</title>
+      <link>http://blog.elfilo.net/articles/meteor-simplificando-nodejs/</link>
+      <pubDate>Sun, 17 Mar 2013 21:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/meteor-simplificando-nodejs/</guid>
+      <author></author>
+      <description>&lt;p&gt;Qué difícil es esto de mantener un blog con un poco de ritmo, y no será por la de cosas interesantes que quiero compartir, pero así son las cosas
+
+&lt;/p&gt;
+&lt;p&gt;Hoy quiero hablaros de &lt;a href=&quot;http://meteor.com&quot;&gt;Meteor&lt;/a&gt; según los propio creadores es &lt;strong&gt;la mejor forma de crear aplicaciones&lt;/strong&gt;, si esta frase te parece pretenciosa, al loro con esta&#58;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Meteor es un entorno ultra-simple para el desarrollo de sitios web modernos. Lo que antes tardaba semanas, incluso con las mejores herramientas, ahora te cuesta horas con Meteor
+
+&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Pues, por muy increible que parezca esta frase, en cuanto te introduces un poco en Meteor ves que puede ser real.
+
+&lt;/p&gt;
+&lt;p&gt;Lo primero que sorprende es su instalación&#58;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;code&gt; curl https://install.meteor.com | /bin/sh &lt;/code&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Así se crea un proyecto&#58;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;code&gt; meteor create myapp &lt;/code&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Ejecutar de forma local el proyecto&#58;
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; $ cd myapp
+ $ meteor
+ Running on: http:&lt;span class=&quot;comment&quot;&gt;//localhost:3000/&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Meteor ofrece la posibilidad con un comando de hacer un deploy del proyecto en su propia infraestructura&#58;
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ meteor deploy myapp.meteor.com&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Se intuye que esta puede ser una forma de moneratización del proyecto, al más puro estilo &lt;a href=&quot;http://nodejitsu.com&quot;&gt;nodejitsu&lt;/a&gt;. Lo cierto es que la simpleza de meteor tanto en la instalación como a la hora de ponerte a trabajar hacen el proyecto muy atractivo.
+
+&lt;/p&gt;
+&lt;p&gt;Meteor es un stack completo, viene con todo lo necesario para ponerte a trabajar, funciona gracias a &lt;a href=&quot;http://nodejs.org&quot;&gt;nodejs&lt;/a&gt; tanto en la parte de la ejecución como en el servidor. 
+
+&lt;/p&gt;
+&lt;p&gt;Aunque Meteor usa nodejs intensivamente su forma no es tan ortodoxa como en otros frameworks (&lt;a href=&quot;http://derbyjs.com/&quot;&gt;dervy&lt;/a&gt;, &lt;a href=&quot;http://flatironjs.org/&quot;&gt;flatlirojs&lt;/a&gt; ), en parte por el uso que hace de &lt;a href=&quot;https://github.com/laverdet/node-fibers&quot;&gt;fibers&lt;/a&gt; para el control de la asincronía algo no exento de &lt;a href=&quot;http://bjouhier.wordpress.com/2012/03/11/fibers-and-threads-in-node-js-what-for/&quot;&gt;polémica&lt;/a&gt;. Otro de los temas que ha sorprendido es que su sistema de paquetes no sea compatible con &lt;a href=&quot;npmjs.org&quot;&gt;npm&lt;/a&gt;, les da más control sobre lo que entra en Meteor pero impide aprovecharse de la gran cantidad de paquetes en npm. De todos modos esto pinta que cambiará
+
+&lt;/p&gt;
+&lt;p&gt;Veamos ahora los 7 principios según su propia web&#58;
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Datos en la red&lt;/strong&gt;&#58; No se manda porciones de Html sobre la red, se mandan datos al cliente y es él el que decide si lo renderiza.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Un sólo lenguaje&lt;/strong&gt;&#58; Escribe tanto el cliente como el servidor en un solo lenguaje Javascript.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;La base de datos en todas partes&lt;/strong&gt;&#58; Utiliza de forma transparente la API de acceso a la base de datos tanto en el cliente como en el servidor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compensación de latencia&lt;/strong&gt;&#58; En el cliente se simula el precacheo para que se vea como si tuviera latencia cero en el acceso a la base de datos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sistema completo para la programación reactiva&lt;/strong&gt;&#58; Construye en tiempo real por defecto, todas las capas desde la base de datos al sistema de plantillas son accesbles por su sistema de orientación a eventos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Abraza otros ecosistmas&lt;/strong&gt;&#58; Meteor es open source y se integra antes que remplaza otras herramientas o frameworks en open sorce.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simplicity Equals Productivity&lt;/strong&gt;&#58; La mejora manera de que algo parezca simple es que en realidad sea simple, esto se logra con una API limpia que trae una belleza clásica.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Meteor tiene cosas curiosas, que permiten hacer &quot;webs&quot; tambien de forma curiosa, una de las que más sorprenden es lo que ellos llaman &lt;a href=&quot;http://en.wikipedia.org/wiki/Reactive_programming&quot;&gt;programación reactiva&lt;/a&gt; el ejemplo clásico es con una hoja de calculo, los datos introducidos van modificando un campo concreto.
+
+&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/karlosgliberal/5185894.js&quot;&gt;&lt;/script&gt;
+
+&lt;h2&gt;Profundizando&lt;/h2&gt;
+&lt;p&gt;La función Deps.autorun en relación con session permiten el binomio, computación ractiva + código de datos reactivos. Los argumentos de la funcion Deps.autorun se ejecutan la primera vez, pero si la sesión &lt;code&gt;currentRoomId &lt;/code&gt; cambia se vuelven a ejecutar. En la &lt;a href=&quot;http://docs.meteor.com/#reactivity&quot;&gt;documentación&lt;/a&gt; explican esto de una forma más clara.
+
+&lt;/p&gt;
+&lt;p&gt;Parte de esta magia es debido a que Meteor usa &lt;a href=&quot;http://www.mongodb.org/&quot;&gt;mongodb&lt;/a&gt; para la persistencia de datos, pero con un matiz. Esta persistencia también esta en el Cliente. Meteor mediante un sistema de Publicación/suscripción decide qué colecciones son y cómo son sincronizadas en el cliente, y el cliente tiene en cache toda la información que se ha sincronizado. Si a esto le unimos la movida de la &quot;programción rectiva&quot;, pues se intuye su potencial. 
+
+&lt;/p&gt;
+&lt;p&gt;Otras de las claves es el uso que hace de &lt;a href=&quot;http://handlebarsjs.com/&quot;&gt;handlebarsjs&lt;/a&gt; para el sistema de plantillas, su integración es exquisita. Si algo se le puede achacar a &lt;a href=&quot;http://backbonejs.org/&quot;&gt;backbone&lt;/a&gt; (u otros frameworks similares) es su extraño uso de la gestión de &lt;a href=&quot;http://stackoverflow.com/questions/5624929/backbone-view-el-confusion&quot;&gt;plantillas&lt;/a&gt;. En Meteor la cosa es tal que así&#58;
+
+&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/karlosgliberal/5186400.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;En el body podemos llamar a nuestras plantillas de esta manera &lt;code&gt;{{&gt;categories}}&lt;/code&gt; y meteor ya sabe que tiene la plantilla &lt;code&gt;&lt;template name=&quot;categories&quot;&gt;&lt;/code&gt; a su disposición.
+
+&lt;/p&gt;
+&lt;p&gt;Meteor tiene una estructura de directorios que permite ordenar el código del servidor, del cliente y del público de forma muy simple&#58;
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;➜  cesta 
+client &lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; server&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Todos los ficheros que se colocan en el directorio &lt;code&gt;cliente&lt;/code&gt; (o server ) son gestionados por meteor e incluidos en la ejecución de forma ordenada (esto puede ser algo raro). El directorio public se utiliza tipo assets, donde meter imágenes, o ficheros públicos. 
+
+&lt;/p&gt;
+&lt;p&gt;En el directorio cliente es donde se situa el fichero .html para las plantillas, el .js para la app del lado del cliente y el .css.  
+
+&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/karlosgliberal/5186473.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Este es un ejemplo de la lógica del cliente, en otro Post explicaré con más detalle como funciona, pero en la función &lt;code&gt;Template.categories.events&lt;/code&gt; se puede intuir su potencial. Por cada plantilla que tenemos podemos llamar a su lista de eventos, y sobre los elementos de la plantilla hacer lo que nos plazca. Es importante tener en cuanta que el sistema de plantillas es susceptible de la rectividad que caracteriza a Meteor. Podremos cambiar en caliente porciones de html dependiendo de las acciones que ocurran, por ejemplo con los eventos. 
+
+&lt;/p&gt;
+&lt;p&gt;Esto no es más que una breve y desordenada pincelada de la potencia de Meteor. La comunidad está cogiendo forma y el proyecto está madurando mucho. Creo que es interesante tenerlo en cuenta ya que para aplicaciones con una interacción rica y el tiempo real Meteor destaca por encima de sus competidores. Espero seguir hablando de este entorno en otros posts.
+
+&lt;/p&gt;
+&lt;p&gt;Dejo esta presentación que tengo preparada de Meteor &lt;a href=&quot;http://www.slid.us/eeg5#/&quot;&gt;&lt;a href=&quot;http://www.slid.us/eeg5#/&quot;&gt;http://www.slid.us/eeg5#/&lt;/a&gt;&lt;/a&gt;, que está realizada con &lt;a href=&quot;http://www.slid.us/eeg5#/&quot;&gt;&lt;a href=&quot;http://www.slid.us&quot;&gt;http://www.slid.us&lt;/a&gt;&lt;/a&gt;. Otro día hablaré de Slidus
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Minimal Eguraldi App con Angularjs</title>
+      <link>http://blog.elfilo.net/articles/minimal-eguraldi-app-con-angularjs/</link>
+      <pubDate>Tue, 14 May 2013 21:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/minimal-eguraldi-app-con-angularjs/</guid>
+      <author></author>
+      <description>&lt;p&gt;Demo: &lt;a href=&quot;http://minimaleguraldiapp.interzonas.info&quot;&gt;minimaleguraldiapp.interzonas.info&lt;/a&gt;
+Github: &lt;a href=&quot;https://github.com/karlosgliberal/eguraldia&quot;&gt;github.com/karlosgliberal/eguraldia&lt;/a&gt;
+
+
+&lt;/p&gt;
+&lt;p&gt;El otro día me comentaban &lt;a href=&quot;http://twitter.com/aitor_rl&quot;&gt;@Aitor_rl&lt;/a&gt; y &lt;a href=&quot;http://twitter.com/merisu&quot;&gt;@merisu&lt;/a&gt; que mientras otros hacen catas de vino o cervezas yo hago catas de frameworks. Y algo de razón sí que tienen. Me gusta probar frameworks y de esta manera veo lo que hacen los buenos y aprendo mucho, sobre todo de la base, que es en lo que estoy ahora.
+
+&lt;/p&gt;
+&lt;p&gt;En esta ocasión el framework que estoy probando es &lt;a href=&quot;http://angularjs.org/&quot;&gt;Angularjs&lt;/a&gt;. Lo curioso es cómo llegue a Angularjs.
+
+&lt;/p&gt;
+&lt;p&gt;Para la web de Interzonas (que estamos a punto de publicar) tenía ganas de meterle mano a &lt;a href=&quot;http://gruntjs.com/&quot;&gt;gruntjs&lt;/a&gt;, un gestor de tareas al estilo maven o ant, pero para el lado del cliente. Con Gruntjs puedes automatizar la minificación de los ficheros js o css, pasar los test, o crear copias de ficheros para el paso a producción. Lo cierto es que casi podrías mandar a calentar el té, pues empieza a ser muy exagerado las cosas que está haciendo la peña con Gruntjs. Bueno, pues a la que empiezo a mirar Gruntjs me encuentro con &lt;a href=&quot;http://yeoman.io/&quot;&gt;yoeman.io&lt;/a&gt; que como ellos dicen: &quot;Modern workflow for modern webapps&quot; .
+
+&lt;/p&gt;
+&lt;p&gt;Yoeman es un conjunto de herramientas que relacionadas permiten organizar y trabajar en webapps con distintos frameworks. Yoeman tiene por un lado &quot;yo&quot; para crear los &quot;scaffolds&quot; (no sé cómo traducirlos, algo así como los andamios de la aplicación ), Gruntjs que lo usaremos como gestor de tareas, y &lt;a href=&quot;http://bower.io/&quot;&gt;bower.io&lt;/a&gt; es un gestor de components (creado por twiiter) tipo &lt;a href=&quot;http://npmjs.org&quot;&gt;npm&lt;/a&gt; pero para la web &lt;code&gt; npm install -g bower &lt;/code&gt; y con &lt;code&gt;bower install jquery &lt;/code&gt; descargaríamos jquery en el directorio componets/jquery/jquery.*. Un enrevesado sistema que permite ordenar muchas piezas para hacer webapps modernas. 
+
+&lt;/p&gt;
+&lt;p&gt;Espero hablar de gruntjs y bower en otro post. 
+
+&lt;/p&gt;
+&lt;p&gt;Pero por si te habías olvidado (fácil con tanta introducción) estábamos hablando de Angularjs. Mirando lo ejemplos de yoeman.io me fijé que Angularjs era muy referenciado en la documentación y entre esto y el movimiento que estoy viendo de gente que sigo y algún proyecto que sabía que estaba realizado con Angular, pues tomé la decisión.
+
+
+&lt;/p&gt;
+&lt;p&gt;Aclaro que este no será un post profundo sobre Angular, más bien unas pinceladas, estoy jugando en otro proyecto algo más complejo que el &quot;Minimal Egurladi App&quot; y con ese probablemente profundizaré más. 
+El proyecto que se puede acceder desde &lt;a href=&quot;Enlace&quot;&gt;aquí&lt;/a&gt; es poca cosa. Descubrí unos iconos en cavas representando el tiempo muy guapos y que con ellos se podía hacer una app sencilla que te diga la temperatura de la ciudad y que te ponga el icono correspondiente.
+
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;eguraldia.png&quot; alt=&quot;eguraldi&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;La app no tiene más que un formulario que cuando das a enter o al botón hace una petición a un servicio web con datos meteorológicos, y con el json que devuelve el servicio podemos cambiar el icono y poner la temperatura. Es un proyecto sencillo pero que permite armar muchas de las piezas de Angularjs.
+
+&lt;/p&gt;
+&lt;h2&gt;Angularjs&lt;/h2&gt;
+&lt;p&gt;Angularjs es un proyecto mantenido por Google. y la verdad que con algunas cosas que estoy viendo de &lt;a href=&quot;http://www.dartlang.org/&quot;&gt;Dartlang&lt;/a&gt;, no se me hace raro que lo estén soportando. Se puede ver un ejemplo &lt;a href=&quot;http://www.dartlang.org/articles/web-ui/#two-way-binding&quot;&gt;aquí&lt;/a&gt; que suena mucho a Angularjs 
+
+&lt;/p&gt;
+&lt;p&gt;¿Pero qué tiene de especial Angularjs sobre el resto de frameworks? (backbone, emberjs, meteor, etc) 
+
+&lt;/p&gt;
+&lt;p&gt;La verdad que son varias las cosas, una de las más importantes es que permite una extensión del lenguaje HTML para manipular datos y esto lo hace de forma elegante y simple a diferencia de otros entornos. 
+Otro punto que a mí personalmente me ha gustado es el orden, todo tiene su sitio y las buenas prácticas hacen el proyecto muy sólido 
+. Esto tiene mucho que ver con el sistema de inyección de dependencias, es fácil ver las piezas que entran en juego en un proyecto Angularjs. De todos modos igual despiezando el proyecto se pueden apreciar mejor estas virtudes.
+
+&lt;/p&gt;
+&lt;p&gt;En el index.html tenemos dos elementos importantes:
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&lt;body ng-app=&lt;span class=&quot;string&quot;&gt;&quot;favoritosApp&quot;&lt;/span&gt;&gt;
+.....
+ &lt;div &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;container&quot;&lt;/span&gt; ng-view=&lt;span class=&quot;string&quot;&gt;&quot;&quot;&lt;/span&gt;&gt;
+
+ &lt;/div&gt;
+ ....&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Los elementos &lt;code&gt; ng-loquesea &lt;/code&gt; es lo que Angularjs llama Directivas Y que son las que permiten extender el lenguaje html y aportarle nuevos procedimientos y funcionalidades como el data binding (enlace de datos).
+
+&lt;/p&gt;
+&lt;p&gt;Aquí vemos dos &lt;code&gt; ng-app=&quot;favoritosApp&quot; &lt;/code&gt; es la forma fácil de arrancar la aplicación de hacer el típico init(). Luego tenemos &lt;code&gt; ng-view=&quot;&quot; &lt;/code&gt; donde indicamos que aquí, en este div, es donde se situará la o las plantillas con las que trabajaremos en la app. 
+
+&lt;/p&gt;
+&lt;p&gt;Una de las cosas interesantes de Angularjs es que mucha de la lógica recae en el html y aunque la sensación sea rara (o sucia) conforme vas trabajando ves que es todo lo contrario. Lo que me parece cierto y que lo ponen en muchos tutoriales, es que la cantidad de javascript necesario para crear un app se reduce y el que se genera es más asequible para personas con pocos conocimientos en js. 
+
+&lt;/p&gt;
+&lt;p&gt;Ahora toca el turno de app.js donde se asocian el resto de módulos (ya sean, directivas, filtros, servicios etc) y donde se puede definir el sistema de rutas de la app.
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;js&quot;&gt;
+&lt;span class=&quot;string&quot;&gt;'use strict'&lt;/span&gt;;
+
+angular.module(&lt;span class=&quot;string&quot;&gt;'favoritosApp'&lt;/span&gt;, [&lt;span class=&quot;string&quot;&gt;'FavoritosAppServices'&lt;/span&gt;, &lt;span class=&quot;string&quot;&gt;'ui'&lt;/span&gt;])
+  .config(&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; (&lt;span class=&quot;variable&quot;&gt;$routeProvider&lt;/span&gt;) {
+    &lt;span class=&quot;variable&quot;&gt;$routeProvider&lt;/span&gt;
+      .when(&lt;span class=&quot;string&quot;&gt;'/'&lt;/span&gt;, {
+        templateUrl: &lt;span class=&quot;string&quot;&gt;'views/main.html'&lt;/span&gt;,
+        controller: &lt;span class=&quot;string&quot;&gt;'MainCtrl'&lt;/span&gt;
+      })
+      .otherwise({
+        redirectTo: &lt;span class=&quot;string&quot;&gt;'/'&lt;/span&gt;
+      });
+  });&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;En este caso nuestra app &lt;code&gt;favoritosApp &lt;/code&gt; tiene estas dos dependencias que queremos cargar en el bootstrap &lt;code&gt; [&apos;FavoritosAppServices&apos;, &apos;ui&apos;]  &lt;/code&gt; y una sola ruta &lt;code&gt;.when(&apos;/&apos;, {&lt;/code&gt; a esta ruta se le asocia una plantilla desde una url y un controlador MainCtrl. El resto de rutas redirigen a la ruta /. Veamos la plantilla main.html
+
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;div &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;login&quot;&lt;/span&gt; ng-control=&lt;span class=&quot;string&quot;&gt;&quot;MainCtrl&quot;&lt;/span&gt;&gt;
+  &lt;div &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;login-screen&quot;&lt;/span&gt;&gt;
+    &lt;div &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;login-icon&quot;&lt;/span&gt;&gt;
+      &lt;canvas id=&lt;span class=&quot;string&quot;&gt;&quot;fog&quot;&lt;/span&gt; width=&lt;span class=&quot;string&quot;&gt;&quot;128&quot;&lt;/span&gt; height=&lt;span class=&quot;string&quot;&gt;&quot;128&quot;&lt;/span&gt;&gt;
+      &lt;/canvas&gt;
+      &lt;h4&gt;&lt;small&gt;{{init}}&lt;/small&gt;&lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;div &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;login-form&quot;&lt;/span&gt;&gt;
+      &lt;div &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;control-group&quot;&lt;/span&gt;&gt;
+        &lt;input type=&lt;span class=&quot;string&quot;&gt;&quot;text&quot;&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;login-field&quot;&lt;/span&gt; value=&lt;span class=&quot;string&quot;&gt;&quot;&quot;&lt;/span&gt; placeholder=&lt;span class=&quot;string&quot;&gt;&quot;ciudad&quot;&lt;/span&gt; id=&lt;span class=&quot;string&quot;&gt;&quot;ciudad&quot;&lt;/span&gt; ng-model=&lt;span class=&quot;string&quot;&gt;&quot;ciudad&quot;&lt;/span&gt; ng-change=&lt;span class=&quot;string&quot;&gt;&quot;borrar()&quot;&lt;/span&gt; ui-keypress=&lt;span class=&quot;string&quot;&gt;&quot;{13:'keypressCallback($event)'}&quot;&lt;/span&gt;&gt;
+        &lt;label &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;login-field-icon fui-eye-16&quot;&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;for&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;login-pass&quot;&lt;/span&gt;&gt;&lt;/label&gt;
+      &lt;/div&gt;
+      &lt;a &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;btn btn-primary btn-large btn-block&quot;&lt;/span&gt; href=&lt;span class=&quot;string&quot;&gt;&quot;#&quot;&lt;/span&gt; ng-click=&lt;span class=&quot;string&quot;&gt;&quot;update(ciudad)&quot;&lt;/span&gt;&gt;Enviar&lt;/a&gt;
+      &lt;a &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;login-link&quot;&lt;/span&gt; href=&lt;span class=&quot;string&quot;&gt;&quot;#&quot;&lt;/span&gt;&gt;Quieres saber funciona?&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Por partes. En el &lt;code&gt; &lt;div class=&quot;login&quot; ng-control=&quot;MainCtrl&quot;&gt; ...&lt;/div&gt;&lt;/code&gt; en este div ya vemos algo como: &lt;code&gt; ng-control=&quot;&quot; &lt;/code&gt; es otra Directiva.
+
+&lt;/p&gt;
+&lt;p&gt;En este caso estamos diciendo que este div (y su herencia) están asociados al controlador &quot;MainCtrl&quot; y que en este controlador recaerá el ámbito ($scope) de sus procedimientos. Por lo tanto y como se intuye Angularjs funciona con el patrón MVC pero a diferencia de otros Frameworks &lt;a href=&quot;http://docs.angularjs.org/guide/compiler&quot;&gt;el propio html&lt;/a&gt; con las directivas forma parte de la definición del MVC.
+
+&lt;/p&gt;
+&lt;p&gt;Esto se puede ver claro en esta línea &lt;code&gt;&lt;h4&gt;&lt;small&gt;{{init}}&lt;/small&gt;&lt;/h4&gt;&lt;/code&gt; con el &lt;code&gt;{{}}&lt;/code&gt; estamos haciendo el &lt;a href=&quot;http://docs.angularjs.org/guide/dev_guide.templates.databinding&quot;&gt;data binding&lt;/a&gt; Nuestro html hace de views y en &lt;code&gt; init &lt;/code&gt; vamos sincronizado los datos del modelo y gestionados por el controlador. 
+
+&lt;/p&gt;
+&lt;p&gt;Esto también se ve en esta línea:
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&lt;input type=&lt;span class=&quot;string&quot;&gt;&quot;text&quot;&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;login-field&quot;&lt;/span&gt; value=&lt;span class=&quot;string&quot;&gt;&quot;&quot;&lt;/span&gt; placeholder=&lt;span class=&quot;string&quot;&gt;&quot;ciudad&quot;&lt;/span&gt; id=&lt;span class=&quot;string&quot;&gt;&quot;ciudad&quot;&lt;/span&gt; ng-model=&lt;span class=&quot;string&quot;&gt;&quot;ciudad&quot;&lt;/span&gt; ng-change=&lt;span class=&quot;string&quot;&gt;&quot;borrar()&quot;&lt;/span&gt; ui-keypress=&lt;span class=&quot;string&quot;&gt;&quot;{13:'keypressCallback($event)'}&quot;&lt;/span&gt;&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Aquí con la directiva &lt;code&gt;ng-model=&quot;ciudad&quot; &lt;/code&gt; estamos haciendo otro enlace de datos bidireccional, que como se puede ver es usado por el botón mediante la directiva &lt;code&gt;ng-click=&quot;update(ciudad)&quot; &lt;/code&gt;. Por lo tanto tenemos muchas de las piezas 
+
+
+
+&lt;/p&gt;
+&lt;p&gt;Veamos ahora la definición del controlador 
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;js&quot;&gt;&lt;span class=&quot;string&quot;&gt;'use strict'&lt;/span&gt;;
+
+angular.module(&lt;span class=&quot;string&quot;&gt;'favoritosApp'&lt;/span&gt;)
+  .controller(&lt;span class=&quot;string&quot;&gt;'MainCtrl'&lt;/span&gt;, &lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; (&lt;span class=&quot;variable&quot;&gt;$scope&lt;/span&gt;, Tiempo) {
+    &lt;span class=&quot;keyword&quot;&gt;var&lt;/span&gt; icons = &lt;span class=&quot;keyword&quot;&gt;new&lt;/span&gt; Skycons({color: &lt;span class=&quot;string&quot;&gt;'white'&lt;/span&gt;});
+    icons.add(&lt;span class=&quot;string&quot;&gt;'fog'&lt;/span&gt;, Skycons.FOG);
+    icons.play();
+    &lt;span class=&quot;variable&quot;&gt;$scope&lt;/span&gt;.init = &lt;span class=&quot;string&quot;&gt;'Minimal app del tiempo'&lt;/span&gt;;
+
+    &lt;span class=&quot;variable&quot;&gt;$scope&lt;/span&gt;.update = &lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; (ciudad) {
+      &lt;span class=&quot;variable&quot;&gt;$scope&lt;/span&gt;.tiempo = Tiempo.get({ciudad: ciudad}, &lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; (datos) {
+        &lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt;(typeof(datos[&lt;span class=&quot;number&quot;&gt;0&lt;/span&gt;].error) != &lt;span class=&quot;string&quot;&gt;&quot;undefined&quot;&lt;/span&gt;){
+          &lt;span class=&quot;variable&quot;&gt;$scope&lt;/span&gt;.ciudad = &lt;span class=&quot;string&quot;&gt;&quot;Busca otra ciudad u otro nombre&quot;&lt;/span&gt;;
+          &lt;span class=&quot;variable&quot;&gt;$scope&lt;/span&gt;.init = &lt;span class=&quot;string&quot;&gt;&quot;Busca otra ciudad u otro nombre&quot;&lt;/span&gt;
+        }&lt;span class=&quot;keyword&quot;&gt;else&lt;/span&gt;{
+          &lt;span class=&quot;keyword&quot;&gt;var&lt;/span&gt; iconoFin = _comparaIconos(datos[&lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;].icon);
+          &lt;span class=&quot;variable&quot;&gt;$scope&lt;/span&gt;.init = datos[&lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;].temp_c+&lt;span class=&quot;string&quot;&gt;'º '&lt;/span&gt;+ciudad;
+          &lt;span class=&quot;variable&quot;&gt;$scope&lt;/span&gt;.ciudad = &lt;span class=&quot;string&quot;&gt;&quot;&quot;&lt;/span&gt;;
+        }
+      });
+    }
+  })&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Con &lt;code&gt; angular.module(&apos;favoritosApp&apos;) &lt;/code&gt; indicamos que somos parte de la app favoritosApp y asociamos un controllador &apos;MainCtrl&apos; que inyectará las dependencias &apos;$scope&apos; y Tiempo que nos provee el servicio &lt;code&gt;FavoritosAppServices&lt;/code&gt; que asociábamos en el app.js. No voy a comentar el tema del servicio (ya lo haré en otro post) porque quiero centrarme en el $scope o ámbito de la aplicación. El $scope es un objeto que se referencia al modelo de la aplicación, pero que en definitiva lo que permite es trabajar con ámbitos controlados tanto en los datos que queremos sincronizar &lt;code&gt; $scope.init &lt;/code&gt; que referencia a &lt;code&gt;&lt;h4&gt;&lt;small&gt;{{init}}&lt;/small&gt;&lt;/h4&gt;&lt;/code&gt; o métodos como &lt;code&gt;$scope.update = function(ciudad){...}&lt;/code&gt; y que referencia a &lt;code&gt;ng-click=&quot;update(ciudad)&lt;/code&gt;, esto visto así igual suena raro, pero para mí fue amor a primera vista (mentira, a la segunda que al principio no lo entendía XD)
+
+&lt;/p&gt;
+&lt;p&gt;Cuando vi el tema de los $scope asociados a cada controlador me quedé encantado ya que es la típica pelea de javascript. Si no haces las cosas ordenadas al final te la das con el ámbito de tus definiciones. 
+
+&lt;/p&gt;
+&lt;p&gt;El resto creo que se entiende bien. El código está en github y es donde se puede ver todo (incuso lo feo). He dejado la apikey de servicio, si se muere se nos murió XD 
+
+&lt;/p&gt;
+&lt;p&gt;Creo que Angular tiene muchas posibilidades. Veo que esta pillando algo de vuelo pero que en comparación con otros como backbone le queda un rato. Sobre todo en un conector estable con un servicio rest como ya tienen otros entornos. 
+
+&lt;/p&gt;
+&lt;p&gt;Sobre Angularjs hay mucha documentación y manuales, así como vídeos. El tutorial de la web está bien, además también hacen referencia al tema de los test que están muy bien integrados en el entorno. 
+Recomiendo este proyecto para poder arrancar con todas las piezas &lt;a href=&quot;https://github.com/angular/angular-seed&quot;&gt;Angular-seed un por donde empezar&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Seguiré comentando cosas de angular.
+
+&lt;/p&gt;
+&lt;p&gt;Demo: &lt;a href=&quot;http://minimaleguraldiapp.interzonas.info&quot;&gt;minimaleguraldiapp.interzonas.info&lt;/a&gt;
+Github: &lt;a href=&quot;https://github.com/karlosgliberal/eguraldia&quot;&gt;github.com/karlosgliberal/eguraldia&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>¿Es necesario un gestor de contenidos?</title>
+      <link>http://blog.elfilo.net/articles/necesario-un-gestor-de-contenidos/</link>
+      <pubDate>Tue, 17 Sep 2013 09:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/necesario-un-gestor-de-contenidos/</guid>
+      <author></author>
+      <description>&lt;p&gt;Durante los últimos años me he dedicado a la gestión de contenidos, y como muchos ya sabéis esto lo solucionábamos con el fantástico gestor de contenidos &lt;a href=&quot;http://drupal.org&quot;&gt;Drupa&lt;/a&gt;. Pero creo que los tiempos han cambiado y esta práctica de instalar un cms a la primera de cambio ya no es tan interesante, incluso contraproducente según el caso. 
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Primero, hemos aprendido que hacer una buena &quot;gestión de contenidos&quot; no es fácil. Se necesitan contenidos y no todas las organizaciones pueden asumir el crear contenido de forma cotidiana. &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Segundo, HTML5 ha venido para quedarse y las &quot;webs&quot; se han convertido en webapps. Esto está haciendo que la experiencia de usuario y el diseño sea más importante.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Y entonces, si no hay CMS ¿qué metemos? Pues es una gran pregunta. En &lt;a href=&quot;http://interzonas.info&quot;&gt;interzonas&lt;/a&gt; hemos discutido mucho al respecto y las últimas experiencias adquiridas tanto en las web de producto (la nuestra de interzonas y la de &lt;a href=&quot;http://cestodelostesoros.com/&quot;&gt;Cesto de los tesoros&lt;/a&gt;) como las web de eventos (&lt;a href=&quot;http://apps4health.es/#/&quot;&gt;apps4health&lt;/a&gt;) nos han dado algunas pistas. 
+
+&lt;/p&gt;
+&lt;p&gt;Si la cantidad de &quot;contenidos&quot; no es muy grande, y la creación y actualización de contenidos por el cliente no es necesaria, crear el contenido en html directamente no es tan mala idea. Abstraer tu contenido al CMS tiene un coste y ese &quot;dinero&quot; lo podrías invertir en hacer una web más atractiva sin los límites que tienen los sistemas de plantillas actuales. En realidad lo importante es identificar cuál es la clave del proyecto y decidir donde quieres poner el foco, y en consecuencia tu dinero. 
+
+
+&lt;/p&gt;
+&lt;p&gt;Por supuesto no soy el primero que lo dice, &lt;a href=&quot;http://developmentseed.org/&quot;&gt;developmentseed&lt;/a&gt; en su gran post &lt;a href=&quot;http://developmentseed.org/blog/2012/07/27/build-cms-free-websites/&quot;&gt;Como crear una web libre de CMS&lt;/a&gt; dejan muy clara esta idea.
+
+&lt;/p&gt;
+&lt;p&gt;O este otro interesante post &lt;a href=&quot;http://bergie.iki.fi/blog/decoupling_content_management/&quot;&gt;Desacomplando la gestión de contenidos&lt;/a&gt;
+
+
+
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Tengo nuevo amigo http://meemoo.org/</title>
+      <link>http://blog.elfilo.net/articles/nuevo-amigo-meemoo/</link>
+      <pubDate>Tue, 11 Sep 2012 23:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/nuevo-amigo-meemoo/</guid>
+      <author></author>
+      <description>&lt;p&gt;Pues eso que andaba yo metiéndole un rato al &lt;a href=&quot;http://idflood.github.com/ThreeNodes.js/&quot;&gt;threenodes&lt;/a&gt; (mola aunque es un poco tosco) vi que el colega que lo esta desarrollando &lt;a href=&quot;https://twitter.com/idflood&quot;&gt;@idflood&lt;/a&gt; hablaba de &lt;a href=&quot;http://meemoo.org&quot;&gt;meemoo.org&lt;/a&gt; 
+
+&lt;/p&gt;
+&lt;p&gt;La idea es brutal es rollo &quot;rayitas&quot; que unen &quot;cagitas&quot; tipo &lt;a href=&quot;http://puredata.info/&quot;&gt;pure-data&lt;/a&gt; o los guays de &lt;a href=&quot;vvvv.org&quot;&gt;vvvv&lt;/a&gt; XD, 
+La mecánica es similar cada módulo (serian los nods en 4v), dividido por tipos y cada uno de ellos tiene tantas entradas y salidas como corresponda, y como en todos estos softwares con la unión de ellas se hace el patch. Pero la caña reside en que cada caja es &quot;purito html&quot; con javascript que es el que crea las entradas y salidas. 
+
+&lt;/p&gt;
+&lt;p&gt;Dicho de otra manera cualquier locura que se pueda hacer en html5 se le puede añadir estas entradas y salidas y entonces pueden ser enganchadas en meemoo.org. 
+Por ejemplo puedes añadir en tu servidor un html (con su javascript) y esto puede ser añadido desde la sección de modules &quot;search or url&quot; 
+
+&lt;/p&gt;
+&lt;p&gt;Por supuesto podemos guardar el proyecto, crea un json con cada una de las propiedades y en el se pueden ver los enlaces a los modulos, pego un ejemplo
+
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{
+  &quot;info&quot;: {
+    &quot;title&quot;: &quot;(speech to) text to speech&quot;,
+    &quot;author&quot;: &quot;forresto&quot;,
+    &quot;description&quot;: &quot;(in chrome, speech to) text to speech&quot;,
+    &quot;url&quot;: &quot;text2speech&quot;
+  },
+  &quot;nodes&quot;: [
+    {
+      &quot;src&quot;: &quot;http://forresto.github.com/meemoo-modules/speech2text.html&quot;,
+      &quot;x&quot;: 162,
+      &quot;y&quot;: 61,
+      &quot;z&quot;: 0,
+      &quot;w&quot;: 346,
+      &quot;h&quot;: 98,
+      &quot;state&quot;: {},
+      &quot;id&quot;: 1
+    },
+    {
+      &quot;src&quot;: &quot;http://forresto.github.com/meemoo-speak.js/text2speech.html&quot;,
+      &quot;x&quot;: 234,
+      &quot;y&quot;: 221,
+      &quot;z&quot;: 0,
+      &quot;w&quot;: 167,
+      &quot;h&quot;: 117,
+      &quot;state&quot;: {
+        &quot;amplitude&quot;: 100,
+        &quot;pitch&quot;: 50,
+        &quot;speed&quot;: 175,
+        &quot;wordgap&quot;: 0
+      },
+      &quot;id&quot;: 2
+    },&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Bueno pues si este código lo guardas en un &lt;a href=&quot;https://gist.github.com/&quot;&gt;gist&lt;/a&gt; puedes visualizar tus patch de esta manera &lt;a href=&quot;http://meemoo.org/iframework/#gist/3124854&quot;&gt;&lt;a href=&quot;http://meemoo.org/iframework/#gist/3124854&quot;&gt;http://meemoo.org/iframework/#gist/3124854&lt;/a&gt;&lt;/a&gt; el número al final es el id del gist creado.
+
+&lt;/p&gt;
+&lt;p&gt;El potencial es brutal.
+
+&lt;/p&gt;
+&lt;p&gt;Os lo aviso os voy a volver locos con el juguetico 
+
+&lt;/p&gt;
+&lt;p&gt;Referencias
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://meemoo.org/iframework/&quot;&gt;&lt;a href=&quot;http://meemoo.org/iframework/&quot;&gt;http://meemoo.org/iframework/&lt;/a&gt;&lt;/a&gt; -&gt; este es la demo que explica el temita&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://meemoo.org/hack-our-apps/&quot;&gt;&lt;a href=&quot;http://meemoo.org/hack-our-apps/&quot;&gt;http://meemoo.org/hack-our-apps/&lt;/a&gt;&lt;/a&gt; -&gt; galeria de patch&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://forresto.github.com/meemoo-image/text.html&quot;&gt;&lt;a href=&quot;http://forresto.github.com/meemoo-image/text.html&quot;&gt;http://forresto.github.com/meemoo-image/text.html&lt;/a&gt;&lt;/a&gt; -&gt; ejemplo de módulo &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/forresto&quot;&gt;@forresto&lt;/a&gt; -&gt; el crack que lo ha desarrollado&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Primeras pruebas con los datos abiertos de http://opendata.navarra.es</title>
+      <link>http://blog.elfilo.net/articles/primeras-pruebas-opendata/</link>
+      <pubDate>Thu, 01 Sep 2011 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/primeras-pruebas-opendata/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;p&gt;Hace tiempo que no escribo ning&uacute;n post, la verdad que no tenia muy claro si tenia sentido esa sensaci&oacute;n de hablarle al vac&iacute;o. Ademas mi blog &lt;a href=&quot;http://karlogliberal.investic.net&quot;&gt;http://karlogliberal.investic.net&lt;/a&gt; ya no me molaba XD. Tenia este tumblr que tampoco es que sea la panacea pero bueno por lo menos es rapido y a modo de almac&eacute;n me gusta.&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;El planteamiento va ha ser simplificar aun m&aacute;s los post, mantener el tema de almac&eacute;n tanto de ideas como de mis experimentos. Creo que eso puede estar bien, siempre estoy probando cosas nuevas y contarlo puede contribuir un poco.&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Bueno al tema :)&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Hace un par de d&iacute;as los grandes de @developmentseed publicaron &lt;a href=&quot;http://tilemill.com/ &quot; title=&quot;http://tilemill.com/ &quot;&gt;tilemill.com&lt;/a&gt; que se engloba dentro de la &quot;movida&quot;&nbsp;&lt;a href=&quot; http://mapbox.com/&quot; title=&quot; http://mapbox.com/&quot;&gt;mapbox.com&lt;/a&gt;&nbsp;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;blockquote&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;TileMill es una herramienta poderosa para el dise&ntilde;o de mapas y por supuesto en software libre.&nbsp;&lt;/pe-dominio.html&quot;&gt;DSL&lt;/a&gt; tipo &lt;a href=&quot;http://www.sinatrarb.com/&quot; title=&quot;http://www.sinatrarb.com/&quot;&gt;sinatra&lt;/a&gt; y ver que que esta pe&ntilde;a del mundo de &lt;a href=&quot;http://drupal.org&quot; title=&quot;drupal.org&quot;&gt;drupal&lt;/a&gt; se sacan de la manga este pedazo de desarroentos de esas capas.&nbsp;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Dejo esta captura&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;img src=&quot;http://media.tumblr.com/tumblr_lgxmiedm7B1qzyc28.png&quot; /&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Una vez realizada el mapa se puede exportar en png, pdf, o en &lt;a href=&quot;http://mapbox.com/documentation/mbtiles-file-formath.org/&quot;&gt;@developmentseed&lt;/a&gt; basado en sqlite3 una ca&ntilde;a vamos.&nbsp;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Estoy en modo pruebas seguire contando.&lt;/p&gt;&quot;
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Residencia SummerOfLabs Euskadi</title>
+      <link>http://blog.elfilo.net/articles/residencia-visualizacion-summeroflabs-eu/</link>
+      <pubDate>Thu, 26 Jul 2012 22:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/residencia-visualizacion-summeroflabs-eu/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;banner.png&quot; alt=&quot;banner&quot;&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Primer post con fundamento del blogs desde la nueva era post investic.
+
+&lt;/p&gt;
+&lt;p&gt;Hoy voy a hablar del encargo/residencia que desde tabakalera nos pidieron a &lt;a href=&quot;http://twitter.com/aitor_rl&quot;&gt;@aitor_rl&lt;/a&gt; y a mi (futuro interzonas). La idea era sencilla en un principio, por un lado crear una herramienta de inscripción para el encuentro SummerOfLabs y por otro lado con algunos de los datos de esa inscripción realizar una visualización. 
+
+&lt;/p&gt;
+&lt;p&gt;La herramienta de inscripción (el encargo) se monto con un &lt;a href=&quot;http://drupal.org&quot;&gt;drupal&lt;/a&gt; conforme avanzábamos en las conversaciones vimos que podíamos aprovechar la herramienta para algo más y se convirtió en la flamante y modesta web del &lt;a href=&quot;http://summeroflabs.eu&quot;&gt;SummerOfLabs euskadi&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;p&gt;También se valoró que hubiera una primera visualización algo sencillo y que nosotros (interzonas) tuviéramos el control &quot;editorial&quot;, es en ese momento donde &quot;tom&quot; (yo) vió que se podía montar una catedral. 
+
+&lt;/p&gt;
+&lt;p&gt;La visualización se realiza con el interés de los inscritos que lo indican apuntándose a un grupo cerrado de nodos (charlas, talleres etc) del encuentro. 
+
+&lt;/p&gt;
+&lt;p&gt;Estos son los elementos que tienen nuestra catedral. 
+
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Drupal para la gestión de inscritos y como enlace con la base de datos fluidinfo&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://fluidinfo.com&quot;&gt;fludiinfo&lt;/a&gt; Mi proyecto &quot;prefe&quot; una base de datos en la nube que permite entender el almacenamiento de forma diferente, los datos se pueden reutilizar y los datos son tu api. Es tan bonito como suena.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://d3js.org/&quot;&gt;d3.js&lt;/a&gt; &quot;La herramienta&quot; de la visualización de datos. Ellos dicen que su biblioteca no muestra datos los transforma. Una sutiliza que tiene su sentido sobre todo en visualizaciones dinámicas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;El resultado se puede ver en &lt;a href=&quot;http://visualabs.summeroflabs.eu/&quot;&gt;&lt;a href=&quot;http://visualabs.summeroflabs.eu/&quot;&gt;http://visualabs.summeroflabs.eu/&lt;/a&gt;&lt;/a&gt; es algo modesto pero para ser la primara experiencia con d3.js estamos contentos.
+
+
+&lt;/p&gt;
+&lt;p&gt;En posteriores post profundizare con cada uno de los elementos que hemos usado.
+
+&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Teknotrakitana, jugando con VVVV y osc</title>
+      <link>http://blog.elfilo.net/articles/teknotrakintana/</link>
+      <pubDate>Fri, 01 Apr 2011 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://blog.elfilo.net/articles/teknotrakintana/</guid>
+      <author></author>
+      <description>&lt;p&gt;Este viernes volvimos a juntarnos los &quot;teknotrakitanos&quot; (un dia de esto explicare de donde viene el nombre). En su&nbsp;&lt;a href=&quot;http://karlosgliberal.investic.net/blog/teknotrakitana-laboratorio-para-experimentar-con-la-creaci%C3%B3n-art%C3%ADstica-visual&quot; title=&quot;tekotrakitanos&quot;&gt;momento&lt;/a&gt;&nbsp;ya conte cual era nuestra intenci&oacute;n con estas quedadas. Ahora andamos intentando darle mas forma, buscando algo &quot;concreto&quot; para hacer, pero bueno eso cuando este ya lo contaremos.&lt;/p&gt;
+&lt;p&gt;En esta quedada hablamos con lo que cada uno esta jugando y nos&nbsp;encontramos&nbsp;con un denominador com&uacute;n &lt;a href=&quot;http://goo.gl/ZFrT1&quot; title=&quot;osc&quot;&gt;OSC&lt;/a&gt;.&nbsp; Open sound control es un protocolo multimedia que tiene como intenci&oacute;n mejorar las carencias del midi.Lo cierto es que su versatilidad es brutal.&lt;/p&gt;
+&lt;p&gt;Nosotros parte del rato lo dedicamos a conectar en &quot;serie&quot; distintos dispositivos con osc, al VVVV al touchosc del ipad y de un android&nbsp;as&iacute;&nbsp;como a un node.js. Se le ve mucho color&lt;/p&gt;
+&lt;p&gt;Patxi nuestro vvvv nos conto las&nbsp;incre&iacute;bles&nbsp;posibilidades del sistema para crear clusters con, boysgroups. Y este es el ejemplo que hicimos:&lt;/p&gt;
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;390&quot; src=&quot;http://www.youtube.com/embed/xeLUKd1NFxg&quot; title=&quot;YouTube video player&quot; width=&quot;480&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>

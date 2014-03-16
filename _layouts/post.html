@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<h2>{{ page.title }}</h2>
+<p class="meta">{{ page.date | date_to_string }}</p>
+
+<div class="post">
+{{ content }}
+</div>
+<div id="disqus_thread">
+  <script type="text/javascript">
+    var disqus_shortname = 'karlosgliberalblog'
+      (function(){
+        var dsq = document.createElement('script')
+        dsq.type = 'text/javascript'
+        dsq.async = true
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js'
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq)
+      })();
+  </script>
+</div>

@@ -1,0 +1,6 @@
+name: El filo
+siteurl: http://blog.elfilo.net
+markdown: redcarpet
+permalink: /:title/
+pygments: true
+excerpt_separator: <!--more--> 

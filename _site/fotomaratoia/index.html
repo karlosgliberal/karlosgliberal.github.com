@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>El Filo 0.1
+    </title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <link rel="alternate" href="http://blog.elfilo.net/feed.xml" type="application/rss+xml" title="Trozos de imaginería cultural profunda que se ha desprendido y adquirido vida propia">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Audiowide">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Ubuntu:bold" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Vollkorn" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/css/github.css">
+    <link rel="stylesheet" href="/css/main.css">
+  </head>
+  <body>
+    <header class="header-top">
+      <div class="inner">
+        <div class="wrapper-title"><a href=""><img src="/images/bg-logo1.png"></a></div>
+        <div class="mensaje"><img src="/images/texto.png" alt="Trozos de imaginería cultural profunda que se han desprendido y adquirido vida propia"></div>
+        <div id="menuh">
+          <ul>
+            <li><a href="/sobremi.html">Sobre mi /</a></li>
+            <li><a href="/archive.html">Archivo /</a></li>
+            <li><a href="#">Otros /</a></li>
+          </ul>
+        </div>
+      </div>
+    </header>
+    <div id="content">
+      
+      <h2>Fotomaratoia html5</h2>
+<p class="meta">03 Dec 2012</p>
+
+<div class="post">
+<p>Demo&#58; <a href="http://fotomaratoia.interzonas.info">fotomaratoia.interzonas.info</a>
+Codigo&#58; <a href="https://github.com/karlosgliberal/fotomaraton">github.com/karlosgliberal/fotomaraton</a></p>
+
+<p>Proyecto basado en el proyecto <a href="https://raw.github.com/rwldrn/dmv/">dvm</a> que como ponen en su descripción es esto&#58; 
+Node.js powered, Jitsu Hosted, WebRTC connected, 100% JavaScript, Camera &gt; Web &gt; Server Photobooth-style image capture program.</p>
+
+<p>La idea del proyecto ha sido crear un fotomatón haciendo uso de la cámara de la máquina mediante <a href="http://www.html5rocks.com/en/tutorials/getusermedia/intro/">html5</a> que almacene las fotos en el servidor <a href="http://nodejs.org">nodejs</a> pudiendolas mandar por correo <a href="http://www.nodemailer.com/">nodemailer</a> y que se pudiera hacer un chroma key en el fondo para surtituirlo el chroma por las fotos (en este caso del evento <a href="http://xare.eu">xare.eu</a>. Que es el que nos hizo el encargo). El chroma key lo hemos realizado con <a href="http://seriouslyjs.org">seriouslyjs.org</a>. un proyecto brutal</p>
+
+<p><img src="/images/fotomratoia.jpg" alt="fotomaratoia"></p>
+
+<!--more-->
+
+<p>El código es puro spaghetti western. Un día aprenderé que la cocina japo mola más con su rollo lean, pero por ahora todo me sale rollo italiano. </p>
+
+<p>En la <a href="http://fotomaratoia.interzonas.info">demo</a> el colorpicker permite elegir el color del chroma key y cuando se pulsa a las imágenes se activa el chroma y los sustituye por la imagen elegida. Mediate <a href="http://http://socket.io/">socket.io</a> mandamos al servidor tanto el buffer con la imagen del canvas modificada por seriously, así como la info del correo. </p>
+
+<p>Este es un collage con las fotos de evento&#58;</p>
+
+<p><img src="fotomaton_xare.jpg" alt="fotomaton_xare"></p>
+
+<p>Para cualquier duda podes conmigo (<a href="http://twitter.com/patxangas">@patxangas</a>).</p>
+
+<p><a href="http://twitter.com/aitor_rl">@aitor_rl</a> se ha currado el diseño y que todo se vea en su sitio.</p>
+
+<p><a href="http://www.elurmaluta.net">txo</a> de <a href="http://eragin.com">eragin.com</a>, responsables del evento, es el diseñador de las imágenes.</p>
+
+<p>Funciona con estos navegadores&#58; <a href="http://tools.google.com/dlpage/chromesxs">Canary</a>, <a href="http://dev.opera.com/articles/view/labs-more-fun-using-the-web-with-getusermedia-and-native-pages/">Opera</a> and <a href="http://my.opera.com/chooseopera/blog/2012/02/27/opera-mini-7-next-and-opera-mobile-12">Opera Mobile 12</a>. <a href="http://weblog.bocoup.com/javascript-webrtc-opera-mobile-12/">Read More</a></p>
+
+</div>
+<div id="disqus_thread">
+  <script type="text/javascript">
+    var disqus_shortname = 'karlosgliberalblog'
+      (function(){
+        var dsq = document.createElement('script')
+        dsq.type = 'text/javascript'
+        dsq.async = true
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js'
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq)
+      })();
+  </script>
+</div>
+
+
+    </div>
+    <footer>
+      <div class="inner">
+        <p>© 2012 karlosgliberal (patxangas)</p>
+        <p>Design by<a href="http://twitter.com/aitor_rl" targer="_blank"> Aitor</a></p>
+      </div>
+    </footer>
+  </body>
+</html>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39397419-1']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  
+</script>

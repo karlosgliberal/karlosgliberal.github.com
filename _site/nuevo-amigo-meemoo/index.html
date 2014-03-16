@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>El Filo 0.1
+    </title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <link rel="alternate" href="http://blog.elfilo.net/feed.xml" type="application/rss+xml" title="Trozos de imaginería cultural profunda que se ha desprendido y adquirido vida propia">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Audiowide">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Ubuntu:bold" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Vollkorn" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/css/github.css">
+    <link rel="stylesheet" href="/css/main.css">
+  </head>
+  <body>
+    <header class="header-top">
+      <div class="inner">
+        <div class="wrapper-title"><a href=""><img src="/images/bg-logo1.png"></a></div>
+        <div class="mensaje"><img src="/images/texto.png" alt="Trozos de imaginería cultural profunda que se han desprendido y adquirido vida propia"></div>
+        <div id="menuh">
+          <ul>
+            <li><a href="/sobremi.html">Sobre mi /</a></li>
+            <li><a href="/archive.html">Archivo /</a></li>
+            <li><a href="#">Otros /</a></li>
+          </ul>
+        </div>
+      </div>
+    </header>
+    <div id="content">
+      
+      <h2>Tengo nuevo amigo http://meemoo.org/</h2>
+<p class="meta">11 Sep 2012</p>
+
+<div class="post">
+<p>Pues eso que andaba yo metiéndole un rato al <a href="http://idflood.github.com/ThreeNodes.js/">threenodes</a> (mola aunque es un poco tosco) vi que el colega que lo esta desarrollando <a href="https://twitter.com/idflood">@idflood</a> hablaba de <a href="http://meemoo.org">meemoo.org</a> </p>
+
+<p>La idea es brutal es rollo &quot;rayitas&quot; que unen &quot;cagitas&quot; tipo <a href="http://puredata.info/">pure-data</a> o los guays de <a href="vvvv.org">vvvv</a> XD, 
+La mecánica es similar cada módulo (serian los nods en 4v), dividido por tipos y cada uno de ellos tiene tantas entradas y salidas como corresponda, y como en todos estos softwares con la unión de ellas se hace el patch. Pero la caña reside en que cada caja es &quot;purito html&quot; con javascript que es el que crea las entradas y salidas. </p>
+
+<!--more-->
+
+<p>Dicho de otra manera cualquier locura que se pueda hacer en html5 se le puede añadir estas entradas y salidas y entonces pueden ser enganchadas en meemoo.org. 
+Por ejemplo puedes añadir en tu servidor un html (con su javascript) y esto puede ser añadido desde la sección de modules &quot;search or url&quot; </p>
+
+<p>Por supuesto podemos guardar el proyecto, crea un json con cada una de las propiedades y en el se pueden ver los enlaces a los modulos, pego un ejemplo</p>
+<div class="highlight"><pre><code class="text language-text" data-lang="text">{
+  &quot;info&quot;: {
+    &quot;title&quot;: &quot;(speech to) text to speech&quot;,
+    &quot;author&quot;: &quot;forresto&quot;,
+    &quot;description&quot;: &quot;(in chrome, speech to) text to speech&quot;,
+    &quot;url&quot;: &quot;text2speech&quot;
+  },
+  &quot;nodes&quot;: [
+    {
+      &quot;src&quot;: &quot;http://forresto.github.com/meemoo-modules/speech2text.html&quot;,
+      &quot;x&quot;: 162,
+      &quot;y&quot;: 61,
+      &quot;z&quot;: 0,
+      &quot;w&quot;: 346,
+      &quot;h&quot;: 98,
+      &quot;state&quot;: {},
+      &quot;id&quot;: 1
+    },
+    {
+      &quot;src&quot;: &quot;http://forresto.github.com/meemoo-speak.js/text2speech.html&quot;,
+      &quot;x&quot;: 234,
+      &quot;y&quot;: 221,
+      &quot;z&quot;: 0,
+      &quot;w&quot;: 167,
+      &quot;h&quot;: 117,
+      &quot;state&quot;: {
+        &quot;amplitude&quot;: 100,
+        &quot;pitch&quot;: 50,
+        &quot;speed&quot;: 175,
+        &quot;wordgap&quot;: 0
+      },
+      &quot;id&quot;: 2
+    },
+</code></pre></div>
+<p>Bueno pues si este código lo guardas en un <a href="https://gist.github.com/">gist</a> puedes visualizar tus patch de esta manera <a href="http://meemoo.org/iframework/#gist/3124854">http://meemoo.org/iframework/#gist/3124854</a> el número al final es el id del gist creado.</p>
+
+<p>El potencial es brutal.</p>
+
+<p>Os lo aviso os voy a volver locos con el juguetico </p>
+
+<p>Referencias</p>
+
+<ul>
+<li><a href="http://meemoo.org/iframework/">http://meemoo.org/iframework/</a> -&gt; este es la demo que explica el temita</li>
+<li><a href="http://meemoo.org/hack-our-apps/">http://meemoo.org/hack-our-apps/</a> -&gt; galeria de patch</li>
+<li><a href="http://forresto.github.com/meemoo-image/text.html">http://forresto.github.com/meemoo-image/text.html</a> -&gt; ejemplo de módulo </li>
+<li><a href="https://twitter.com/forresto">@forresto</a> -&gt; el crack que lo ha desarrollado</li>
+</ul>
+
+</div>
+<div id="disqus_thread">
+  <script type="text/javascript">
+    var disqus_shortname = 'karlosgliberalblog'
+      (function(){
+        var dsq = document.createElement('script')
+        dsq.type = 'text/javascript'
+        dsq.async = true
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js'
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq)
+      })();
+  </script>
+</div>
+
+
+    </div>
+    <footer>
+      <div class="inner">
+        <p>© 2012 karlosgliberal (patxangas)</p>
+        <p>Design by<a href="http://twitter.com/aitor_rl" targer="_blank"> Aitor</a></p>
+      </div>
+    </footer>
+  </body>
+</html>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39397419-1']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  
+</script>

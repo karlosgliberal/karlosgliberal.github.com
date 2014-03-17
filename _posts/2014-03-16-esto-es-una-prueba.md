@@ -8,5 +8,5 @@ tags:
   - js
 ---
 
-Hola caracola
+![](/media/patxangas.jpg)Hola caracola
 Esto esuna prueab

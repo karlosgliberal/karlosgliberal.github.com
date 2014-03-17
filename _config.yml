@@ -6,7 +6,6 @@ pygments: true
 excerpt_separator: <!--more--> 
 prose:
   siteurl: 'http://blog.elfilo.net/'
-  media: 'media'
   metadata:
     _posts:
       - name: "category"

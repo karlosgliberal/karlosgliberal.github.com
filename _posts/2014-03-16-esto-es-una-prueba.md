@@ -6,7 +6,8 @@ title: esto es una prueba
 tags: 
   - Drupal
   - js
+"imagen-ficha": patxangas
 ---
 
-Hola caracola
+![test](/media/patxangas.jpg)![](/media/patxangas.jpg)Hola caracola
 Esto esuna prueab

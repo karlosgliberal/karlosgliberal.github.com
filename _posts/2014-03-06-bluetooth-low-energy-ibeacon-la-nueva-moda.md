@@ -30,6 +30,6 @@ Bueno pues todo eso es lo que quiere ofrece Apple con el IBeacon. El nuevo IO7 y
 
 En breve enseñaremos una demo chula que estamos haciendo. Y mientras tanto, esperaremos a que nos llegue el LightBlue Bean, un dispositivo Blue LE guapo, guapo y creado por una cuadrilla de gamberros, que ya sólo por eso mola.
 
-![uname](/media/unnamed.jpg)
+![pat](/images/patxangas.jpg)
 
 <iframe src="//player.vimeo.com/video/80058454?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/80058454">LightBlue™ Bean</a> from <a href="http://vimeo.com/1013media">1013media</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

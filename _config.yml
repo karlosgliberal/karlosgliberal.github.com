@@ -5,7 +5,9 @@ permalink: /:title/
 pygments: true
 excerpt_separator: <!--more--> 
 prose:
+  rooturl: "_posts"
   siteurl: 'http://blog.elfilo.net/'
+  media: 'media'
   metadata:
     _posts:
       - name: "category"

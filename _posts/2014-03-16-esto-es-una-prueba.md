@@ -9,5 +9,5 @@ tags:
 "imagen-ficha": patxangas
 ---
 
-![test](/media/patxangas.jpg)![](/media/patxangas.jpg)Hola caracola
+![interzonas](/media/interzonas.jpg)![test](/media/patxangas.jpg)![](/media/patxangas.jpg)Hola caracola
 Esto esuna prueab

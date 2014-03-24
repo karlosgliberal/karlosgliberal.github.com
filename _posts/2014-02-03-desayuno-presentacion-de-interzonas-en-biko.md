@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Desayuno presentación de Interzonas en Biko
 author: karlos g liberal
 date: 2014-02-03 13:00

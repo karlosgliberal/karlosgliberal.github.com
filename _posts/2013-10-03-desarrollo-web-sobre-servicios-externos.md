@@ -1,5 +1,5 @@
 ---
-latout: post
+layout: post
 title: ¿Desarrollo web sobre servicios externos?
 author: karlos g liberal
 date: 2013-10-03 18:00

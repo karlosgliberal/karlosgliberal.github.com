@@ -4,7 +4,10 @@ title: Teknotrakitana, jugando con VVVV y osc
 author: karlos g liberal
 date: 2011-04-01 15:00
 template: article.jade
-tags: ["teknotrakitana", "vvvv", "osc"]
+tags: 
+  -teknotrakitana 
+  -vvvv 
+  -osc
 url: http://blog.elfilo.net/articles/teknotrakintana/index.html
 ---
 

@@ -1,9 +1,10 @@
 ---
 layout: post
 category: post
-title: "Open Space en en Biko y charla de nodejs"
+title: Open Space en en Biko y charla de nodejs
 author: karlos g liberal
 date: "2014-03-24 11:00"
+published: true
 ---
 
 Este viernes día 21 en [Biko](http://www.biko2.com/) pudimos asistir y participar en el Open Space que organizan periódicamente. Como dicen en [proyectosagiles.org](http://www.proyectosagiles.org/que-es-open-space) un Open Space es:
@@ -17,6 +18,8 @@ Dedes [Interzonas](http://interzonas.info) y a petición de varías personas de 
 <iframe src="//slid.es/interzonas/la-anarquia-hecha-negocio/embed" width="776" height="620" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <!--more-->
+
+![imagen](/media/unnamed.jpg)
 
 Lo que si podemos decir es que en biko nos tratan como si estuviéramos en nuestra propia casa y poder asistir y participar en el Open Space es todo un lujazo
 

@@ -19,8 +19,6 @@ Dedes [Interzonas](http://interzonas.info) y a petición de varías personas de 
 
 <!--more-->
 
-![imagen](/media/unnamed.jpg)
-
 Lo que si podemos decir es que en biko nos tratan como si estuviéramos en nuestra propia casa y poder asistir y participar en el Open Space es todo un lujazo
 
 El formato de Open Space permite ver todo el potencial del colectivo de personas que conforma Biko de una manera más directa ya que son las propias personas del Biko las que ofrecen las charlas/talleres 

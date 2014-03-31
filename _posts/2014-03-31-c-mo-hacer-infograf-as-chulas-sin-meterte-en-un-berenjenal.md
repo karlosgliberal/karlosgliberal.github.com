@@ -2,7 +2,7 @@
 layout: post
 category: post
 published: false
-title: ""
+title: Untitled
 ---
 
 ## Cómo hacer infografías chulas sin meterte en un berenjenal

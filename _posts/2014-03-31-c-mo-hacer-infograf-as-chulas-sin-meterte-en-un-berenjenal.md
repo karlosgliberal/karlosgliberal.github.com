@@ -10,8 +10,6 @@ Cuantas veces he visto una infografía super chula para representar datos o idea
 
 Esta es la que hemos creado para mostrar todos aquellos elementos que nutren nuestros desarrollos web, lo que nosotros llamamos, cultura de laboratorio.
 
-<a href="https://s3.amazonaws.com/easel.ly/all_easels/322256/interzonasculturalaboratorio/image.jpg"/><img src="https://s3.amazonaws.com/easel.ly/all_easels/322256/interzonasculturalaboratorio/image.jpg" alt="interzonasculturalaboratorio title="easel.ly" /></a><br /><a href="http://easel.ly" style="text-align:left;" align="left">easel.ly</a>
-
 Si queréis saber más aquí os dejo el vídeo.
 
 <iframe src="//player.vimeo.com/video/37781587" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

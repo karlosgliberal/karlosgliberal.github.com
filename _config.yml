@@ -6,7 +6,7 @@ pygments: true
 excerpt_separator: <!--more--> 
 prose:
   rooturl: "_posts"
-  siteurl: "http://blog.elfilo.net/"
+  siteurl: "/"
   baseurl: "http://blog.elfilo.net/"
   media: "medias"
   metadata:

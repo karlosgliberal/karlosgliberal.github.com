@@ -14,5 +14,3 @@ https://s3.amazonaws.com/easel.ly/all_easels/322256/interzonasculturalaboratorio
 Si queréis saber más aquí os dejo el vídeo.
 
 <iframe src="//player.vimeo.com/video/37781587" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-![interzonas.png](/media/interzonas.png)

@@ -1,13 +1,12 @@
 name: El filo
-siteurl: http://blog.elfilo.net
+baseurl: /
 markdown: redcarpet
 permalink: /articles/:title/
 pygments: true
 excerpt_separator: <!--more--> 
 prose:
   rooturl: "_posts"
-  siteurl: "/"
-  baseurl: "http://blog.elfilo.net/"
+  siteurl: "http://blog.elfilo.net"
   media: "medias"
   metadata:
     _posts:

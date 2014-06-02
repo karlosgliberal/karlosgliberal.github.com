@@ -1,5 +1,4 @@
 name: El filo
-baseurl: /
 markdown: redcarpet
 permalink: /articles/:title/
 pygments: true

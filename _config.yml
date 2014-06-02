@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 prose:
   rooturl: "_posts"
   siteurl: "http://blog.elfilo.net/"
+  baseurl: "http://blog.elfilo.net/"
   media: "medias"
   metadata:
     _posts:

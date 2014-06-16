@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: "Primer premio en la categoría de SmartCity en el #hacksanfermin"
 ---
 
@@ -28,13 +28,12 @@ Lo que queríamos hacer es con una app móvil cualquiera puede grabar un sonido 
 Este mapa esta creado con mapbox y la inforamción se almacena en Firebase, que es enviada desde un demonio en nodejs. 
 
 Aqui una captura de la app “demo” que hicimos para poder emular lugares y sonidos que luego eran enviados al mapa
+
 ![app_movil.png](/medias/app_movil.png)
 
+Aqui un vídeo de como se van mostrando en tiempo real  punto en el mapa conforme van enviandose los sonidos 
 
-
-Aqui un vidio de como se van mostrando en tiempo real  punto en el mapa conforme van enviandose los sonidos 
-
-
+<iframe width="560" height="315" src="//www.youtube.com/embed/lfkNHlkgSgg" frameborder="0" allowfullscreen></iframe>
 
 La verdad que fue un puntazo ganar, veíamos que nuestro proyecto había quedado decente y que la propuesta era original, pero al final se presentaba 9 proyectos y nunca se sabe. 
-Los ganadores fuimo nosotros en Smartcity mapacino con donde esta la prensa y los compañeros de ouiplay con happycounter
+Los ganadores fuimo nosotros en Smartcity [Mapacino](http://mapacino.com/) con donde esta la prensa y los compañeros de [Ouiplay](http://www.ouiplay.es/) con happycounter

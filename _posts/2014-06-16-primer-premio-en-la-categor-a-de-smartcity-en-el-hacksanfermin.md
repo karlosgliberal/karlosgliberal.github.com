@@ -25,7 +25,7 @@ Este es la presentación de nuestra propuesta
 
 Lo que queríamos hacer es con una app móvil cualquiera puede grabar un sonido y directamente el app móvil mediante web audio api, hacer un analisis de las frecuencias del sonido grabado y enviar una interpretación de estas frecuencias mandarlas a un map.
 
-Este mapa esta creado con mapbox y la inforamción se almacena en Firebase, que es enviada desde un demonio en nodejs. 
+Este mapa esta creado con [Mapbox](http://mapbox.com) y la inforamción se almacena en [Firebase](http://firebase.com), que es enviada desde un demonio en nodejs. 
 
 Aqui una captura de la app “demo” que hicimos para poder emular lugares y sonidos que luego eran enviados al mapa
 
@@ -34,6 +34,8 @@ Aqui una captura de la app “demo” que hicimos para poder emular lugares y so
 Aqui un vídeo de como se van mostrando en tiempo real  punto en el mapa conforme van enviandose los sonidos 
 
 <iframe width="776" height="620" src="//www.youtube.com/embed/lfkNHlkgSgg" frameborder="0" allowfullscreen></iframe>
+
+Y por supuesto aquí el codigo [https://github.com/karlosgliberal/lookingsoundscity](https://github.com/karlosgliberal/lookingsoundscity) Eso si es un caos, del bueno XD
 
 La verdad que fue un puntazo ganar, veíamos que nuestro proyecto había quedado decente y que la propuesta era original, pero al final se presentaba 9 proyectos y nunca se sabe. 
 Los ganadores fuimo nosotros en Smartcity [Mapacino](http://mapacino.com/) con donde esta la prensa y los compañeros de [Ouiplay](http://www.ouiplay.es/) con happycounter

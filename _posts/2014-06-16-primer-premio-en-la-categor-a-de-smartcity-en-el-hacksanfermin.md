@@ -20,7 +20,7 @@ El hackathón se realizaba en [Planetario de Iruña](http://pamplonetario.org/),
 
 Este es la presentación de nuestra propuesta
 
-<iframe src="//slides.com/interzonas/looking-sound-city/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//slides.com/interzonas/looking-sound-city/embed" width="776" height="620" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 Lo que queríamos hacer es con una app móvil cualquiera puede grabar un sonido y directamente el app móvil mediante web audio api, hacer un analisis de las frecuencias del sonido grabado y enviar una interpretación de estas frecuencias mandarlas a un map.
@@ -33,7 +33,7 @@ Aqui una captura de la app “demo” que hicimos para poder emular lugares y so
 
 Aqui un vídeo de como se van mostrando en tiempo real  punto en el mapa conforme van enviandose los sonidos 
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/lfkNHlkgSgg" frameborder="0" allowfullscreen></iframe>
+<iframe width="776" height="620" src="//www.youtube.com/embed/lfkNHlkgSgg" frameborder="0" allowfullscreen></iframe>
 
 La verdad que fue un puntazo ganar, veíamos que nuestro proyecto había quedado decente y que la propuesta era original, pero al final se presentaba 9 proyectos y nunca se sabe. 
 Los ganadores fuimo nosotros en Smartcity [Mapacino](http://mapacino.com/) con donde esta la prensa y los compañeros de [Ouiplay](http://www.ouiplay.es/) con happycounter

@@ -28,7 +28,8 @@ Lo que queríamos hacer es con una app móvil cualquiera puede grabar un sonido 
 Este mapa esta creado con mapbox y la inforamción se almacena en Firebase, que es enviada desde un demonio en nodejs. 
 
 Aqui una captura de la app “demo” que hicimos para poder emular lugares y sonidos que luego eran enviados al mapa
-![Screenshot_2014-06-16-08-40-41.png](/medias/Screenshot_2014-06-16-08-40-41.png)
+![app_movil.png](/medias/app_movil.png)
+
 
 
 Aqui un vidio de como se van mostrando en tiempo real  punto en el mapa conforme van enviandose los sonidos 

@@ -4,6 +4,7 @@ category: post
 published: true
 title: Iniciamos grupo de trabajo sobre código creativo en Hirikilabs
 ---
+![hiriklabs.jpg](/medias/hiriklabs.jpg)
 
 Mañana iniciamos un grupo de trabajo entorno al código creativo que y que tengo la suerte de poder coordinar a petición de [Hirikilabs](http://hirikilabs.tabakalera.eu/). 
 
@@ -18,8 +19,7 @@ Este grupo tiene como objetivo trabajar entorno a las relaciones que engloba el 
 La fuerza de “los artesanos digitales” y el auge de nuevas metodologías de desarrollo están modificando profundamente lo que entendemos por desarrollo de software. Y en este sentido nos gustaría comprobar si estas “nuevas formas” se ven reflejadas en el “código creativo”. A medio camino entre las Artes visuales, producción y programación.
 
 En un primer momento planteamos tres ejes (será el grupo el que decidirá si añadir alguno más)
-Herramientas (![hiriklabs.jpg](/medias/hiriklabs.jpg)
-, vvvv, processing) 
+Herramientas (openframework, vvvv, processing) 
 Estilo (Arte generativo, interacción, programación tangible, videojuegos)
 Metodologías (Desarrollo ágil, flow programing)
 Aprendizajes: Educación, la programación como un skill fundamental para las competencias digitales en la sociedad del conocimiento

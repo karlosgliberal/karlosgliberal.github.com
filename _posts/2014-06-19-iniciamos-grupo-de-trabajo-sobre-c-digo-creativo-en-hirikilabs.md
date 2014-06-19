@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Iniciamos grupo de trabajo sobre código creativo en Hirikilabs
 ---
 

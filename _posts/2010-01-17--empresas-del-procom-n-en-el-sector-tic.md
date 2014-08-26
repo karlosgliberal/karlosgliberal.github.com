@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: "¿Empresas del procomún en el sector Tic?"
 ---
 

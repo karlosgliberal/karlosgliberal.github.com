@@ -14,6 +14,5 @@ Ahora ya sabemos, porque los ttanttas nos lo han contado, que están construyend
 Si queréis saber más del primer mundo de los ttanttas podéis <a href="http://www.ttanttaone.net" title="ttanttaone">visitar su web</a> y pedir una invitación. Sí, aun son un poco vergonzosos y quieren tener todos los rincones del mundo preparados a la perfección. Pero no os preocupéis, en breve harán su fiesta de verano y nos abrirán sus puertas.
 
 Nos han mandado una postal para que los vayamos conociendo
-<a href="http://www.ttanttaone.net" title="Visita ttanttaone">
-<img src="/files/u6/mundo_ttanttaone2.png" width="500" height="282" alt="ttanttaworld" /></a>
 
+<img src="/medias/mundo_ttanttaone2.png" width="500" height="282" alt="ttanttaworld" />

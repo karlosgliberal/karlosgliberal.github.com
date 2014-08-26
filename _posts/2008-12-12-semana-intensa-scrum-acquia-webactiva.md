@@ -14,15 +14,5 @@ title: "Semana intensa: scrum, acquia, webactiva..."
 <p>De esto poco m&aacute;s puedo decir, aparte de que ha sido la guinda de la semana, un puntazo y una peque&ntilde;a recompensa&nbsp; a este a&ntilde;o de mucho curro, risas, y c&oacute;digo alrededor de Drupal. Lo &uacute;nico que se nos ha quedado la espinita con el premio en el apartado de la web corporativa. Yo, que soy un mal pensado, creo que tambi&eacute;n lo hab&iacute;amos ganado pero por repartir los premios se lo han dado a Sistelec... :) Sea como sea, en Investic estamos muy muy contentos.</p>
 <p>&nbsp;</p>
 <p><strong>Fotos del Scrum:</strong></p>
-<p><img align="right" alt="preparaci&oacute;n" src="../../../../../../files/images/preparacion.preview.jpg" /><img align="left" alt="esprint" src="../../../../../../files/images/dos.preview.jpg" /></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><img align="right" alt="preparaci&oacute;n" src="http://www.investic.net/files/images/cuatro.preview.jpg" /></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-
-
-![preparacion.preview.jpg](/medias/preparacion.preview.jpg)
-![dos.preview.jpg](/medias/dos.preview.jpg)
-![cuatro.preview.jpg](/medias/cuatro.preview.jpg)
+<img align="right" alt="preparaci&oacute;n" src="/medias/preparacion.preview.jpg" /><img align="left" alt="esprint" src="/medias/dos.preview.jpg" />
+<p><img align="right" alt="preparaci&oacute;n" src="/medias/cuatro.preview.jpg" />

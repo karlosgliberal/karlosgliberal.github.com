@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Google Gears para Drupal y vacaciones a la vista
 ---
 
@@ -23,6 +23,4 @@ Desde <a href="http://www.investic.net/proyectos/gears" title="gears">aquí</a> 
 Y desde <a href="http://drupal.org/project/gears" title="gears">aquí</a> al proyecto en <a href="http://www.drupal.org" title="drupal">drupal.org</a>
 Y aquí un <a href="http://www.investic.net/clientes" title="ejemplo gears">ejemplo</a> del drupal gears funcionando 
 
-Espero que lo disfrutéis y por supuesto  estamos a vuestras disposición 
-
-
+Espero que lo disfrutéis y por supuesto  estamos a vuestras disposición

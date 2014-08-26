@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 10 años de matrix y ahora en sus pantallas Matrix destruction
 ---
 
@@ -18,9 +18,3 @@ Si soy de los que lo molan las pelis apocalípticas rollo mad max, ("entran dos 
 Lo cierto es que en ocasiones todo esto tiene tintes de peli o novela de ciencia ficción como decia gibson en quemando cromo  "Un perverso experimento de darwinismo social, ideado por un investigador aburrido que mantuviese el dedo permanentemente apretado en el botón de avance rápido."
 
 Todo se vera
-
-
-
-
-
-

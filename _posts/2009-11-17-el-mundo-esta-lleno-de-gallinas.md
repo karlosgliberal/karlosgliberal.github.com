@@ -1,0 +1,8 @@
+---
+layout: post
+category: post
+published: false
+title: "El mundo esta lleno de gallinas "
+---
+
+<p>En la metodología <a href="http://es.wikipedia.org/wiki/Scrum">scrum</a> dentro el contesto "<a href="http://www.agile-spain.com/">agil</a>" en el desarrollo de software se suele usar este ejemplo para definir roles:</p><p><span style="font-family: sans-serif; font-size: 11px; line-height: 19px; "><em>Un cerdo y una gallina se encuentran en la calle. La gallina mira al cerdo y dice: "Hey, ¿por qué no abrimos un restaurante?" El cerdo mira a la gallina y le dice: "Buena idea, ¿cómo se llamaría el restaurante?" La gallina piensa un poco y contesta: "¿Por qué no lo llamamos "Huevos con jamón?" "Lo siento pero no", dice el cerdo, "Yo estaría comprometido pero tú solamente estarías involucrada".</em></span></p><p><span style="font-family: sans-serif; font-size: small;"><span style="font-size: 11px; line-height: 19px;"><em><a title="cerdos y gallinas" href="http://es.wikipedia.org/wiki/Scrum">wikipedia</a></em></span></span></p><p>La idea es sencilla si quieres acometer un proyecto mira a tu alrededor e intenta descubrir &nbsp;cuantos serán cerdos (comprometidos) o gallinas (involucrados) y sobre todo deja claro que solo con cerdos saldrán las cosas bien.</p><p>Esto que igual parece sencillo, para, nada las gallinas campan a sus anchas en este mundo en el que vivimos, eso si con sabor a jamón.&nbsp;</p><p>Lo dicho</p><p><strong>VIVAN LOS CERDOS LIBRES DEL MUNDO ABAJO LAS GILLINAS OPRESORAS&nbsp;</strong></p>

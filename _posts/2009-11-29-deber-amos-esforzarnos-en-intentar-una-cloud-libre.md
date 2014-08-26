@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Deberíamos esforzarnos en intentar una cloud libre
 ---
 

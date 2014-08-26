@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: "Radiohead, tú decides lo que te cuesta su disco"
 ---
 

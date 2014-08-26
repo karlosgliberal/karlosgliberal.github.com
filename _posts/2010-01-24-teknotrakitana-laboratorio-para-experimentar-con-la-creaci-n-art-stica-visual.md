@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Teknotrakitana laboratorio para experimentar con la creación artística visual
 ---
 

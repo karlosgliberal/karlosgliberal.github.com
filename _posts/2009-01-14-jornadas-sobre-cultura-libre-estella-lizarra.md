@@ -25,3 +25,4 @@ Estáis todos invitados e invitadas a la Jornada donde seguiremos defendiendo la
 
 <img src="/files/u1/Cartelculturalibre_jpg.jpeg" width="351" height="500" alt="Cultura libre" />
 
+![Cartelculturalibre_jpg.jpeg](/medias/Cartelculturalibre_jpg.jpeg)

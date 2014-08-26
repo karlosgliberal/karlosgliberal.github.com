@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: "Plan Moderna, Plan económico para Navarra"
 ---
 
@@ -33,8 +33,3 @@ Cada sector del tejido empresarial tiene una ramificación publico/privada gesti
 Más de lo mismo. Pero no hay problema con "MODERNA" todo esto se resuelve rápido. En diez años todos seremos más guapos, más altos y más rubios, más hombres, ademas hablaremos euskera a la perfección uy perdón, Ingles. Que en las navarra de "los Navarros" el euskera es poco moderno.
 
 Estaremos atentos a ver si me tengo que comer estas palabras
-
-
-
-
-

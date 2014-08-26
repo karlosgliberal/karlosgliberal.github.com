@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: "2009 preparado, listos, ya!!"
 ---
 
@@ -18,6 +18,3 @@ Eso si espero que este sea el año del software libre y la cultura libre, pero e
 Nosotros vamos a hacer todo lo que este en nuestras manos. También tenemos intenciones de llevar ha investic a lo más alto, que se yo ser la competencia de Google o algo por el estilo, pero bueno eso no será para el año 2009, lo dejamos para el 2010. 
 
 Bueno todo se vera, lo cierto es que tenemos muchas ganas de hacer cosas interesante y potentes. Seguir demostrando que Drupal es una apuesta sería. y hacer que se conozca más.
-
-
-

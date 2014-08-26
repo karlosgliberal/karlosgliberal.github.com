@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: En navarra existe al amor verdadero
 ---
 

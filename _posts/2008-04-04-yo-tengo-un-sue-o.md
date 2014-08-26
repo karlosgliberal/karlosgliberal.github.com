@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Yo tengo un sueño
 ---
 
@@ -20,7 +20,3 @@ A Luther King y a muchos otros los mataron personas que no quieren que cambien l
 Cuarenta años después en Pamplona tenemos que aguantar a un arzobispo con nostalgia de la dictadura diciendo estupideces, y no queriendo que nada cambie. 
 
 Salud
-
-
-
-

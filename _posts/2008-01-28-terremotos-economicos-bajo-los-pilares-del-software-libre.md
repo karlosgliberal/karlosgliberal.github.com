@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Terremotos economicos bajo los pilares del Software Libre
 ---
 
@@ -30,8 +30,3 @@ Esta claro que todo estos millones pueden asentar la tierra donde se sustentan n
 Mientras tanto como decía experience, por lo menos intentarlo.
 
 salud
-
-
-
-
-

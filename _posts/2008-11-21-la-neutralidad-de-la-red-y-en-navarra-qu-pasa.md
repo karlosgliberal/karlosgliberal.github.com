@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: "La neutralidad de la Red. ¿Y en navarra qué pasa?"
 ---
 
@@ -50,7 +50,3 @@ Pero no importa en cuatro días el Gobierno de navarra desde una de sus empresas
 Voy a especular...se llamará  openNus.
 
 Odio, odio, odio a peter pan.
-
-
-
-

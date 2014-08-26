@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Material de la Presentación de la charla de Drupal en el CES
 ---
 
@@ -13,8 +13,12 @@ La presentación por la parte que me tocó estuvo muy bien ya que aunque son muy
 
 Adjunto la presentación (el no powerpoint) en odt. Como aclaración esta presentación pretendía crear un marco común donde presentar la idea genérica de lo que son los gestores de contenido. Por eso las primeras diapositiva son un tanto especiales.
 
+![losdosMOLA.JPG](/medias/losdosMOLA.JPG)
+![karlosMOLA1.JPG](/medias/karlosMOLA1.JPG)
+
+
 <a href="http://www.investic.net/node/261"><img src="http://www.investic.net/files/images/losdosMOLA.JPG"></a><br>
 
 <a href="http://www.investic.net/node/262"><img src="http://www.investic.net/files/images/karlosMOLA1.JPG"> </a><br>
 
-En breve terminaré y mejoraré la presentación con comentarios en cada diapositiva así como alguna otra historia más. Por supuesto a más se modifique mejor será y mas útil para todos. 
+En breve terminaré y mejoraré la presentación con comentarios en cada diapositiva así como alguna otra historia más. Por supuesto a más se modifique mejor será y mas útil para todos.

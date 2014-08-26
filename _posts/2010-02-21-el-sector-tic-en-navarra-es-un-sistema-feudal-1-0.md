@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: El sector Tic en navarra es un sistema Feudal 1.0
 ---
 

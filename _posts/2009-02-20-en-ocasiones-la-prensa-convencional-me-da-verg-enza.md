@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: En ocasiones la prensa convencional me da vergüenza
 ---
 
@@ -55,10 +55,3 @@ Por otro lado aquí no se usa la videoconferencia por la desfachatez de banda an
 Pues nada esto es rigor periodístico y lo demás chorradas. Por eso me dan vergüenza y quiero ser un desinformado, porque para lo que vale...
 
 [1] en este caso joya=ponzoña
-
-
-
-
-
-
-

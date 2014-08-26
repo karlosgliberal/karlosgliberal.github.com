@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: HIPHOPLABS vol1 RAP DE ACCIÓN QUE DERRUMBA FRONTERAS
 ---
 

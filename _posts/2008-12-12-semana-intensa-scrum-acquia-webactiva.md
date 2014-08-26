@@ -20,3 +20,9 @@ title: "Semana intensa: scrum, acquia, webactiva..."
 <p><img align="right" alt="preparaci&oacute;n" src="http://www.investic.net/files/images/cuatro.preview.jpg" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+
+
+![preparacion.preview.jpg](/medias/preparacion.preview.jpg)
+![dos.preview.jpg](/medias/dos.preview.jpg)
+![cuatro.preview.jpg](/medias/cuatro.preview.jpg)

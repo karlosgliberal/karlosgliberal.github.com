@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: "¡Dejarás de ser un esclavo del software! (Jon maddog)"
 ---
 
@@ -40,9 +40,3 @@ EL Software libre es más justo, es más potente y encima ES, no hace falta cons
 
 Richard Stallman suele decir: 
 "<em>Puedes pasar de la política, pero la política no pasará de tí</em>"
-
-
-  
-
-
-

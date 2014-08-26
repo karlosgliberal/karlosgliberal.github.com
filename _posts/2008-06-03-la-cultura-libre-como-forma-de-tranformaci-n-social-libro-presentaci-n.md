@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: La cultura libre como forma de tranformación social (libro presentación)
 ---
 
@@ -26,12 +26,4 @@ Tanto en Visualiza como en Investic queremos iniciar un proceso, como decimos en
 
 Como se puede ver el libro presentación todavía está sin terminar, faltan notas, enlaces, créditos incluso la licencia (será by-sa). Es un proceso, un camino, queremos seguir siendo parte de este movimiento y participar activamente y este es otro paso más que damos desde nuestras entidades y desde nuestras contradicciones. 
 
-Estáis invitadas a participar en este "camino". 
-
-
-
-
-
-
-
-
+Estáis invitadas a participar en este "camino".

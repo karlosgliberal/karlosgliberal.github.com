@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: "¿Quién es el innovador?"
 ---
 
@@ -25,14 +25,4 @@ Quien sabe.
 
 Cada vez que veo algo que me impresiona relacionado con las tecnologías, veo algún chaval o chavala volviéndose loco con la documentación, en algún foro y sobre todo con alguna pantalla negra. 
 
-Yo quiero ser como ellos, los verdades innovadores. 
-
-
-
-
-
-
-
-
-
-
+Yo quiero ser como ellos, los verdades innovadores.

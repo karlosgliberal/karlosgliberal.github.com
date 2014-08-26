@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: true
+published: false
 title: ...y nos haremos una fiesta por el 5º aniversario de Investic
 ---
 
@@ -14,3 +14,4 @@ Ahora ya nos estamos haciendo mayores, 5 años son muchos, todos los dedos de un
 Y nos queremos hacer una fiesta, que digo una fiesta, un fiestón.. ...en la sala Totem a las diez con kerobia y zeren zai.
 
 <img src="/files/u8/cartel_fiesta.jpg" width="686" height="1000" alt="Cartel fiesta Investic" />
+![cartel_fiesta.jpg](/medias/cartel_fiesta.jpg)

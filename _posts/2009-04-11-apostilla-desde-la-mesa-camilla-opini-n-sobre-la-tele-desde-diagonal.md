@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: "Apostilla desde la mesa camilla, opinión sobre la tele desde diagonal"
 ---
 

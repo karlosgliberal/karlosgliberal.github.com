@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Drupal and SharePoint. Dos formas de hacer una tortilla (charla en Navarra)
 ---
 
@@ -48,5 +48,3 @@ Para apuntarse podéis hacerlos desde este enlace*
 http://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032393640&Culture=es-ES
 
 *Para los alérgicos como yo a este enlace, podéis dejar un comentario o por el formulario de contacto para inscribiros a la jornada. De todos modos ya lo avisaré cuando se acerque la fecha.
-
-

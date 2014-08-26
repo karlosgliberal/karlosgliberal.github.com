@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: true
+published: false
 title: El Plan moderna o el plan de los modernos
 ---
 
@@ -11,8 +11,6 @@ Así se construye navarra: con hombres, cincuentones y sus corbatas. Pongo un co
 <br/>
 <img src="/files/u1/halfoffame.jpg" width="500" height="277" alt="half of fame" />
 
-![halfoffame.jpg](/medias/halfoffame.jpg)
-![logos.png](/medias/logos.png)
 
 
 Es cierto que en una foto tipo carnet no hay mucho donde rascar y menos poder rescatar esa "modernidad" llena de "talento" e "innovación" que buscan estos expertos. Pero mirar otra vez las fotos de las 30 personas y las únicas 3 mujeres[1]. Dios, puede que sea un pesado con esto de la ropa y el estilo, pero a mí un traje oscuro con corbata se me antoja poco moderno. Claro que también podría hacer caso a sus CV, pero eso sí que me aburre: catedráticos, directivos, políticos conservadores, algún despistado, y los sindicatos que siguen sin saber por donde les da el aire. Pongo otra imagen.

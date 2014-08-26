@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Google android y extremoduro
 ---
 
@@ -30,5 +30,3 @@ Igual un día de estos se nos contagian estas ideas, quien sabe.
 
 <img src="/files/u1/system-architecture1.png" width="500" height="359" alt="arquitectura" />
 <br>
-
-

@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: El Plan moderna o el plan de los modernos
 ---
 

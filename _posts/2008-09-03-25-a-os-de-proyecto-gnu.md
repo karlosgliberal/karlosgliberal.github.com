@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 25 años de proyecto GNU
 ---
 
@@ -21,4 +21,3 @@ Salud y zorionak a todos y todas
 
 
 Vídeo de cumpleños http://www.gnu.org/fry/
-

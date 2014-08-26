@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Los mundos de los Ttantta. ttanttaone es el primero
 ---
 
@@ -16,3 +16,5 @@ Si queréis saber más del primer mundo de los ttanttas podéis <a href="http://
 Nos han mandado una postal para que los vayamos conociendo
 <a href="http://www.ttanttaone.net" title="Visita ttanttaone">
 <img src="/files/u6/mundo_ttanttaone2.png" width="500" height="282" alt="ttanttaworld" /></a>
+
+![mundo_ttanttaone2.png](/medias/mundo_ttanttaone2.png)

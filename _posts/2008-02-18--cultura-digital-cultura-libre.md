@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: "¿Cultura digital == Cultura libre?"
 ---
 
@@ -57,5 +57,3 @@ si quieres bailar conmigo
 esa canción tan bonita
 aún no existe todavía
 pero es mi canción preferida.
-
-

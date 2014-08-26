@@ -6,6 +6,8 @@ title: Google Gears para Drupal y vacaciones a la vista
 ---
 
 <img src="/files/u1/gears.png" width="124" height="150" alt="gears" />
+![gears.png](/medias/gears.png)
+
 
 Hoy es un día feliz para el pequeño micromundo de investic.
 

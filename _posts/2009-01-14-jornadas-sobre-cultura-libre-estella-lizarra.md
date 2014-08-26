@@ -23,6 +23,4 @@ Lo que está claro es que COMPARTIR ES BUENO, se pongan como se pongan.
 
 Estáis todos invitados e invitadas a la Jornada donde seguiremos defendiendo la cultura de todos, la cultura libre.
 
-<img src="/files/u1/Cartelculturalibre_jpg.jpeg" width="351" height="500" alt="Cultura libre" />
-
-![Cartelculturalibre_jpg.jpeg](/medias/Cartelculturalibre_jpg.jpeg)
+<img src="/medias/Cartelculturalibre_jpg.jpeg" width="351" height="500" alt="Cultura libre" />

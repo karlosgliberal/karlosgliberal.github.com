@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: "Juegos de guerra, la película"
 ---
 
@@ -16,5 +16,3 @@ Juegos de guerra es la historia de un joven hacker que quiere entrar en una máq
 La pasión del protagonista por las máquinas y los ordenadores  hace que se  vea enfrascado en una súper aventura con malos del gobierno, un científico loco y una chica guapa. ¿Qué joven adolescente no se sentiría atraído por todo eso en vez de jugar al fútbol? 
 
 Yo quería ser como david, quería ser un friki de los trastos.
-
-

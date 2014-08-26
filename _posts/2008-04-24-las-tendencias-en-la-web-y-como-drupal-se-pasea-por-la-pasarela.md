@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Las tendencias en la web y como Drupal se pasea por la pasarela
 ---
 

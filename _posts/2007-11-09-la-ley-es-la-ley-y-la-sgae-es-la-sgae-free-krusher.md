@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: "La ley es la ley y la sgae es la sgae [FREE KRUSHER]"
 ---
 
@@ -28,7 +28,3 @@ Tener todo un sistema legal para que les limpien las  miserias y rabietas a soci
 El hecho de que estemos ante un cambio de paradigma en lo referente a la propiedad intelectual, no es motivo suficiente para cuestionar situaciones como las que provocan entidades como la SGAE. Y tenemos que asumir que la libertad de expresion es un concepto vago si depende de la SGAE de de los jueces. 
 
 Animo Krusher, igual un día de esto cambia y las cosas quien sabe.
-
-
-
-
